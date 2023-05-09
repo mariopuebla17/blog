@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-08T22:22:08-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Profº Mario</title><entry><title type="html">Vetorização de Imagem</title><link href="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html" rel="alternate" type="text/html" title="Vetorização de Imagem" /><published>2023-04-17T13:55:00-03:00</published><updated>2023-04-17T13:55:00-03:00</updated><id>http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens</id><content type="html" xml:base="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html">&lt;p&gt;Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-09T10:37:34-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Vetorização de Imagem</title><link href="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html" rel="alternate" type="text/html" title="Vetorização de Imagem" /><published>2023-04-17T13:55:00-03:00</published><updated>2023-04-17T13:55:00-03:00</updated><id>http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens</id><content type="html" xml:base="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html">&lt;p&gt;Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-é-vetorização&quot;&gt;O que é vetorização?&lt;/h2&gt;
 
@@ -8,19 +8,25 @@
 
 &lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mQbOwhOUas3DFq_x5YxAnTOnHuVNJQywpTmgKnuGCQOrVUSZMVTrQ9-lt2mCttuvvtcV2YMPYCokpxnAkUEUyzYzG_ENkfVnqJHhQyriwvMKZu5teQ_3Ae2PPCQ3Hc9AaKp9JzoRou7coOsllI_RFtJoHryjGj5euwr4OonBCSsY2CblVbJBBko7YDTQd59N1?encodeFailures=1&amp;amp;width=640&amp;amp;height=320&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;então-porquê-devemos-vetorizar-uma-imagem&quot;&gt;Então porquê devemos vetorizar uma imagem?&lt;/h3&gt;
+&lt;h3 id=&quot;porquê-devemos-vetorizar-uma-imagem&quot;&gt;Porquê devemos vetorizar uma imagem?&lt;/h3&gt;
 
-&lt;p&gt;Uma imagem vetorizada não perde a qualidade quando alterado o tamanho.&lt;/p&gt;
+&lt;p&gt;Vetorizar uma imagem significa transformar uma imagem rasterizada (composta por pixels) em uma imagem vetorial (composta por linhas e curvas matemáticas). A vetorização é útil porque as imagens vetoriais são escaláveis sem perda de qualidade, enquanto as imagens rasterizadas tendem a ficar borradas ou pixeladas quando aumentadas.&lt;/p&gt;
 
-&lt;h3 id=&quot;entao-professor-como-vetorizamos-o-que-precisamos&quot;&gt;Entao professor, como vetorizamos? O que precisamos?&lt;/h3&gt;
-&lt;p&gt;Para vetorizar, você pode usar sua ferramenta favorita de edição, como o &lt;em&gt;Photoshop&lt;/em&gt;, &lt;em&gt;GIMP&lt;/em&gt;, etc. No nosso exemplo, iremos usar a &lt;strong&gt;ferramenta gratuita&lt;/strong&gt; chamada &lt;a href=&quot;https://photopea.com&quot;&gt;Photopea&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Além disso, as imagens vetoriais são mais fáceis de editar e personalizar, permitindo alterar facilmente o tamanho, cor e forma dos elementos individuais da imagem. Elas também ocupam menos espaço de armazenamento do que as imagens rasterizadas, o que é especialmente importante para imagens usadas em sites ou aplicativos móveis, onde o tamanho do arquivo pode afetar o tempo de carregamento.&lt;/p&gt;
+
+&lt;p&gt;Por essas razões, a vetorização é uma técnica importante para designers gráficos e outros profissionais que trabalham com imagens, e pode ser usada para criar logotipos, ilustrações, gráficos e muito mais.&lt;/p&gt;
+
+&lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
+&lt;p&gt;Para vetorizar, você pode usar sua ferramenta favorita de edição, como o &lt;em&gt;Photoshop&lt;/em&gt;, &lt;em&gt;GIMP&lt;/em&gt;, etc. No exemplo a seguir, iremos usar a &lt;strong&gt;ferramenta gratuita&lt;/strong&gt; chamada &lt;a href=&quot;https://photopea.com&quot;&gt;Photopea&lt;/a&gt;. É uma simulação do Adobe Photoshop, e vai atender qualquer usuário iniciante para entender cada ferramenta disponível, porém, por ser gratuita &lt;strong&gt;tem as suas limitações&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mWretN0Y9Q08F7DjtcWNgnwFAcXsv6hUj1Lt153N3zJoEg38fxbK4Rv3uZyOlQjMLlpLzBPuMu3Du9gWA3Hvt_Rl4JMo3C0MDOmAm974NHBs2ysOb2Bu57sWa_5uRb1VbxhWTPWbjYsQspct9iJVVCaz21G_mNzs6B8uflAychkKBM4poRNBzBW3xIs4IIea2?encodeFailures=1&amp;amp;width=1096&amp;amp;height=621&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Como referência, irei deixar um &lt;strong&gt;link&lt;/strong&gt; abaixo com uma vídeo-aula ensinando a usar a ferramenta &lt;em&gt;Pen(caneta)&lt;/em&gt;, onde o autor ensina detalhadamente o passo a passo. Clique na imagem abaixo e seja direcionado para a vídeo-aula!&lt;/p&gt;
+&lt;p&gt;Como referência, irei deixar um &lt;strong&gt;link&lt;/strong&gt; abaixo com uma vídeo-aula ensinando a usar a ferramenta &lt;em&gt;Laço Poligonal (Polygonal Lasso)&lt;/em&gt;, onde o autor ensina detalhadamente o passo a passo. Clique na imagem abaixo e seja direcionado para a vídeo-aula!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zHwUcUuCzko&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/zHwUcUuCzko/0.jpg&quot; alt=&quot;Tutorial de como vetorizar uma foto ou imagem no Photoshop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
+&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé da página!&lt;/p&gt;
+
+&lt;p&gt;mario.herrera@etec.sp.gov.br&lt;/p&gt;
 
 &lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="design-digital" /><summary type="html">Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.</summary></entry></feed>
