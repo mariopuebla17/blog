@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-09T10:37:34-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Vetorização de Imagem</title><link href="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html" rel="alternate" type="text/html" title="Vetorização de Imagem" /><published>2023-04-17T13:55:00-03:00</published><updated>2023-04-17T13:55:00-03:00</updated><id>http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens</id><content type="html" xml:base="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html">&lt;p&gt;Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-10T07:41:25-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Gerando gráficos em uma planilha</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha.html" rel="alternate" type="text/html" title="Gerando gráficos em uma planilha" /><published>2023-04-25T00:00:00-03:00</published><updated>2023-04-25T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha.html">&lt;p&gt;Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.&lt;/p&gt;
+
+&lt;h2 id=&quot;o-que-são-gráficos&quot;&gt;O que são gráficos?&lt;/h2&gt;
+
+&lt;p&gt;Gráficos são representações visuais de dados que permitem ao usuário exibir informações de forma clara e concisa. Eles são uma ferramenta essencial para a análise e apresentação de dados em diversas áreas, como negócios, finanças, ciência, engenharia, entre outras.&lt;/p&gt;
+
+&lt;p&gt;Os gráficos no Excel são criados a partir de dados em planilhas e podem ser personalizados de acordo com as necessidades do usuário. Eles podem ser usados para apresentar tendências, comparar valores, mostrar a distribuição de dados e muito mais.&lt;/p&gt;
+
+&lt;p&gt;Existem vários tipos de gráficos disponíveis no Excel, incluindo gráficos de linhas, colunas, pizza, área, dispersão e radar, entre outros. Cada tipo de gráfico é adequado para diferentes tipos de dados e pode ser personalizado com cores, títulos e legendas para torná-los mais informativos e atraentes.&lt;/p&gt;
+
+&lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
+
+&lt;p&gt;Com o aplicativo do Excel aberto, acesse a planilha que contém seus dados; se ainda não possuir uma pronta, insira seus dados (pode ser em colunas ou linhas):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4m1w4HeUK9kX34UnC6gZTT3qmGAxkhslvsJqCyqPkYytx-3GUaaLRwbly4xHVRIfoZhpp2LNdx7kLjkgSZIBZ7oDqBXUo8F2EZcZ80qK4lvvavCN3qpnw9S0ak0Fryyg_GeZr55l5JuvC4-nlHB-j8RDnwhdeAGryhi1BHzly06rWWgIcx59w2npKMKr0H4aV1?encodeFailures=1&amp;amp;width=260&amp;amp;height=237&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Com uma célula selecionada, clique em “Inserir“, no menu superior da planilha:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mcj1hf1pbk8DWYaCJURUmkugclKIChJHuz0QOeDS14-z59BUiwPoeVBxfSVkzR0VMYN9CKHLxAD-IJ3t9SeheCm8XC4kTVjmKDnQaz44ZAp6NyCH_g1yqMmv23aqdJI52vmXEUn6P2bSvUtoykimMcQIfAPfVNo6m0EKUo1RC1qA1HGMswCkhbAgo_KU44-SQ?encodeFailures=1&amp;amp;width=1200&amp;amp;height=250&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Na aba “Gráficos”, é possível escolher diversos modelos como “Coluna”, “Linha” e “Pizza”; clique no seu formato de preferência e o gráfico será gerado automaticamente:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mXcUirnb8OIMxoO5cPEw4sWlqvmQ9AKsLGctPtj4m0_NT4M9ESvkxREtBcwnB4NK5rBVdFffmuiYamAknjFzzLXlVsddwWctbxpegMZMGWpr3llGwIUbirP9K89ws3YDX3dx4PUMaDHWDgUQ9Ix7Qg1y2oGAcIK0rmzwFiJwUYYbSd40tq4gHISSHlwG6NPDx?encodeFailures=1&amp;amp;width=1182&amp;amp;height=319&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Se você tem dúvidas sobre como deve estruturar os seus dados e qual tipo de gráfico usar, observe o &lt;a href=&quot;https://support.microsoft.com/pt-br/office/criar-um-gr%c3%a1fico-do-in%c3%adcio-ao-fim-0baf399e-dd61-4e18-8a73-b3fd5d5680c2?ui=pt-br&amp;amp;rs=pt-br&amp;amp;ad=br&quot;&gt;Guia completo da Microsoft para o Office&lt;/a&gt;, sobre os modelos de dados.&lt;/p&gt;
+
+&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé da página!&lt;/p&gt;
+
+&lt;p&gt;mario.herrera@etec.sp.gov.br&lt;/p&gt;
+
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.</summary></entry><entry><title type="html">Vetorização de Imagem</title><link href="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html" rel="alternate" type="text/html" title="Vetorização de Imagem" /><published>2023-04-17T00:00:00-03:00</published><updated>2023-04-17T00:00:00-03:00</updated><id>http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens</id><content type="html" xml:base="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html">&lt;p&gt;Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-é-vetorização&quot;&gt;O que é vetorização?&lt;/h2&gt;
 
@@ -17,6 +47,7 @@
 &lt;p&gt;Por essas razões, a vetorização é uma técnica importante para designers gráficos e outros profissionais que trabalham com imagens, e pode ser usada para criar logotipos, ilustrações, gráficos e muito mais.&lt;/p&gt;
 
 &lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
+
 &lt;p&gt;Para vetorizar, você pode usar sua ferramenta favorita de edição, como o &lt;em&gt;Photoshop&lt;/em&gt;, &lt;em&gt;GIMP&lt;/em&gt;, etc. No exemplo a seguir, iremos usar a &lt;strong&gt;ferramenta gratuita&lt;/strong&gt; chamada &lt;a href=&quot;https://photopea.com&quot;&gt;Photopea&lt;/a&gt;. É uma simulação do Adobe Photoshop, e vai atender qualquer usuário iniciante para entender cada ferramenta disponível, porém, por ser gratuita &lt;strong&gt;tem as suas limitações&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mWretN0Y9Q08F7DjtcWNgnwFAcXsv6hUj1Lt153N3zJoEg38fxbK4Rv3uZyOlQjMLlpLzBPuMu3Du9gWA3Hvt_Rl4JMo3C0MDOmAm974NHBs2ysOb2Bu57sWa_5uRb1VbxhWTPWbjYsQspct9iJVVCaz21G_mNzs6B8uflAychkKBM4poRNBzBW3xIs4IIea2?encodeFailures=1&amp;amp;width=1096&amp;amp;height=621&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;

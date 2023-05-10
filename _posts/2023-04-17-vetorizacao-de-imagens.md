@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vetorização de Imagem"
-date: 2023-04-17 13:55:00 -0300
+date: 2023-04-17 00:00:00 -0300
 categories: design-digital
 ---
 
@@ -26,6 +26,7 @@ Além disso, as imagens vetoriais são mais fáceis de editar e personalizar, pe
 Por essas razões, a vetorização é uma técnica importante para designers gráficos e outros profissionais que trabalham com imagens, e pode ser usada para criar logotipos, ilustrações, gráficos e muito mais.
 
 ### Mas e aí, como fazer isso?
+
 Para vetorizar, você pode usar sua ferramenta favorita de edição, como o *Photoshop*, *GIMP*, etc. No exemplo a seguir, iremos usar a **ferramenta gratuita** chamada [Photopea](https://photopea.com). É uma simulação do Adobe Photoshop, e vai atender qualquer usuário iniciante para entender cada ferramenta disponível, porém, por ser gratuita **tem as suas limitações**.
 
 ![](https://chi01pap001files.storage.live.com/y4mWretN0Y9Q08F7DjtcWNgnwFAcXsv6hUj1Lt153N3zJoEg38fxbK4Rv3uZyOlQjMLlpLzBPuMu3Du9gWA3Hvt_Rl4JMo3C0MDOmAm974NHBs2ysOb2Bu57sWa_5uRb1VbxhWTPWbjYsQspct9iJVVCaz21G_mNzs6B8uflAychkKBM4poRNBzBW3xIs4IIea2?encodeFailures=1&width=1096&height=621)
