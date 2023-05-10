@@ -15,7 +15,7 @@ De uma forma bem direta, **vetorizar** é uma forma de transformar os pixels de 
 
 Diferença entre imagem vetorizada e não-vetorizada:
 
-![](https://chi01pap001files.storage.live.com/y4mQbOwhOUas3DFq_x5YxAnTOnHuVNJQywpTmgKnuGCQOrVUSZMVTrQ9-lt2mCttuvvtcV2YMPYCokpxnAkUEUyzYzG_ENkfVnqJHhQyriwvMKZu5teQ_3Ae2PPCQ3Hc9AaKp9JzoRou7coOsllI_RFtJoHryjGj5euwr4OonBCSsY2CblVbJBBko7YDTQd59N1?encodeFailures=1&width=640&height=320)
+![](https://chi01pap001files.storage.live.com/y4mtJ8Uo0z6Rb9v7GgJaBVEdMxCSwtxUGHc7gT1Old4Rmwp5-GuLzYlOfH6cpImLGNKPbviy2JBAAVZDyW4ANKevEMDbKPC0UnrZ_XIiPLRVXmAOE69b9Pwf7iS_rbCtVdvdw_MoaxRsOyXgHTIPhnhtz2LsMxPh6BQthZDUDk_28Ei0xttyZPPxwyNnBlZNEgk?encodeFailures=1&width=640&height=320)
 
 ### Porquê devemos vetorizar uma imagem?
 
@@ -29,7 +29,7 @@ Por essas razões, a vetorização é uma técnica importante para designers gr�
 
 Para vetorizar, você pode usar sua ferramenta favorita de edição, como o *Photoshop*, *GIMP*, etc. No exemplo a seguir, iremos usar a **ferramenta gratuita** chamada [Photopea](https://photopea.com). É uma simulação do Adobe Photoshop, e vai atender qualquer usuário iniciante para entender cada ferramenta disponível, porém, por ser gratuita **tem as suas limitações**.
 
-![](https://chi01pap001files.storage.live.com/y4mWretN0Y9Q08F7DjtcWNgnwFAcXsv6hUj1Lt153N3zJoEg38fxbK4Rv3uZyOlQjMLlpLzBPuMu3Du9gWA3Hvt_Rl4JMo3C0MDOmAm974NHBs2ysOb2Bu57sWa_5uRb1VbxhWTPWbjYsQspct9iJVVCaz21G_mNzs6B8uflAychkKBM4poRNBzBW3xIs4IIea2?encodeFailures=1&width=1096&height=621)
+![](https://chi01pap001files.storage.live.com/y4maDHnx0p0Oy-ka1v4Itvs_5wt9GtNZwCvAqJyG95YyfjMWKynL42j4pOnTOJF2YjyKeMg_FUBSNmu63mavXb6qBz7aKnGGz-1qjHGkQ2ihn9aYeSsmTzgUf52GDtSW9N-FAChG8NmMbi_K0fiP9jW14h1yTffjGgBMUuNFPQB-mWRzuhifgOYMpn4NUFY6rOr?encodeFailures=1&width=1096&height=621)
 
 Como referência, irei deixar um **link** abaixo com uma vídeo-aula ensinando a usar a ferramenta *Laço Poligonal (Polygonal Lasso)*, onde o autor ensina detalhadamente o passo a passo. Clique na imagem abaixo e seja direcionado para a vídeo-aula!
 
