@@ -28,7 +28,7 @@ Com uma célula selecionada, clique em “Inserir“, no menu superior da planil
 
 Na aba “Gráficos”, é possível escolher diversos modelos como “Coluna”, “Linha” e “Pizza”; clique no seu formato de preferência e o gráfico será gerado automaticamente:
 
-![]https://chi01pap001files.storage.live.com/y4mXcUirnb8OIMxoO5cPEw4sWlqvmQ9AKsLGctPtj4m0_NT4M9ESvkxREtBcwnB4NK5rBVdFffmuiYamAknjFzzLXlVsddwWctbxpegMZMGWpr3llGwIUbirP9K89ws3YDX3dx4PUMaDHWDgUQ9Ix7Qg1y2oGAcIK0rmzwFiJwUYYbSd40tq4gHISSHlwG6NPDx?encodeFailures=1&width=1182&height=319)
+![](https://chi01pap001files.storage.live.com/y4mXcUirnb8OIMxoO5cPEw4sWlqvmQ9AKsLGctPtj4m0_NT4M9ESvkxREtBcwnB4NK5rBVdFffmuiYamAknjFzzLXlVsddwWctbxpegMZMGWpr3llGwIUbirP9K89ws3YDX3dx4PUMaDHWDgUQ9Ix7Qg1y2oGAcIK0rmzwFiJwUYYbSd40tq4gHISSHlwG6NPDx?encodeFailures=1&width=1182&height=319)
 
 Se você tem dúvidas sobre como deve estruturar os seus dados e qual tipo de gráfico usar, observe o [Guia completo da Microsoft para o Office](https://support.microsoft.com/pt-br/office/criar-um-gr%c3%a1fico-do-in%c3%adcio-ao-fim-0baf399e-dd61-4e18-8a73-b3fd5d5680c2?ui=pt-br&rs=pt-br&ad=br), sobre os modelos de dados.
 
