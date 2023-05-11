@@ -9,14 +9,14 @@ Olá! Hoje vamos falar sobre o laço de repetição **FOR**
 
 ## O QUE É LAÇO DE REPETIÇÃO FOR?
 
-O laço de repetição for é uma estrutura de controle em programação que permite a execução repetida de um bloco de código por um número conhecido de vezes. Ele é especialmente útil quando se deseja iterar sobre uma sequência de elementos, como uma lista, tupla ou string, executando uma ação para cada item. A sintaxe básica do for consiste em uma variável que assume o valor de cada elemento da sequência em cada iteração, seguida por dois pontos e o bloco de código a ser executado. Ao final de cada iteração, a variável é atualizada para o próximo elemento da sequência até que todos os elementos tenham sido processados.
+O laço de repetição **for** é uma estrutura de controle em programação que permite a execução repetida de um bloco de código por um número conhecido de vezes. Ele é especialmente útil quando **se deseja iterar sobre uma sequência de elementos, como uma lista, tupla ou string**, executando uma ação para cada item. A sintaxe básica do for consiste em uma variável que assume o valor de cada elemento da sequência em cada iteração, seguida por dois pontos e o bloco de código a ser executado. Ao final de cada iteração, a variável é atualizada para o próximo elemento da sequência até que todos os elementos tenham sido processados.
 
 ```js
 for (comandos de inicialização;condição de teste;incremento/decremento) 
-    { 
+{ 
     // comandos a serem repetidos 
     // comandos a serem repetidos 
-    }
+}
 ```
 
 ### Mas e aí, como fazer isso?
@@ -43,12 +43,14 @@ O comando **for** deve ser usado sempre que:
 int contador; 
 
 for (contador = 0; contador < 10; contador = contador+1) 
-    { 
+{ 
     printf(contador); 
-    } 
+} 
 
 printf("FIM LAÇO");
 ```
 
+
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
+
 Valeu!
