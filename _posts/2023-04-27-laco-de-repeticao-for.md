@@ -33,8 +33,8 @@ O funcionamento é o seguinte:
 
 O comando **for** deve ser usado sempre que: 
 
-. soubermos exatamente quantas vezes o laço deve ser repetido; 
-. o teste deva ser feito antes da execução de um bloco de comandos; 
+. soubermos exatamente quantas vezes o laço deve ser repetido;  
+. o teste deva ser feito antes da execução de um bloco de comandos;  
 . houver casos em que o laço não deva ser repetido nenhuma vez. 
 
 ### Exemplos
