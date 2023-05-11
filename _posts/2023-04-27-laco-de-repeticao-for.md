@@ -33,9 +33,9 @@ O funcionamento é o seguinte:
 
 O comando **for** deve ser usado sempre que: 
 
-1. soubermos exatamente quantas vezes o laço deve ser repetido;
-2. o teste deva ser feito antes da execução de um bloco de comandos;
-3. houver casos em que o laço não deva ser repetido nenhuma vez.
+. soubermos exatamente quantas vezes o laço deve ser repetido;  
+. o teste deva ser feito antes da execução de um bloco de comandos;  
+. houver casos em que o laço não deva ser repetido nenhuma vez. 
 
 ### Exemplos
 
