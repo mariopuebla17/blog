@@ -1,20 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-12T12:55:22-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Título do Post</title><link href="http://localhost:4000/blog/mat%C3%A9ria/2023/05/12/laco-de-repeticao-do-while.html" rel="alternate" type="text/html" title="Título do Post" /><published>2023-05-12T00:00:00-03:00</published><updated>2023-05-12T00:00:00-03:00</updated><id>http://localhost:4000/blog/mat%C3%A9ria/2023/05/12/laco-de-repeticao-do-while</id><content type="html" xml:base="http://localhost:4000/blog/mat%C3%A9ria/2023/05/12/laco-de-repeticao-do-while.html">&lt;p&gt;Olá! Hoje vamos falar sobre {TEMA}&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-12T16:52:54-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Trabalhando com Nós</title><link href="http://localhost:4000/blog/design-digital/2023/05/12/trabalhando-com-nos.html" rel="alternate" type="text/html" title="Trabalhando com Nós" /><published>2023-05-12T00:00:00-03:00</published><updated>2023-05-12T00:00:00-03:00</updated><id>http://localhost:4000/blog/design-digital/2023/05/12/trabalhando-com-nos</id><content type="html" xml:base="http://localhost:4000/blog/design-digital/2023/05/12/trabalhando-com-nos.html">&lt;p&gt;Olá! Hoje vamos falar sobre &lt;strong&gt;NÓS&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;tìtulo-pular-com-2-enters&quot;&gt;TÌTULO (pular com 2 enters)&lt;/h2&gt;
+&lt;h2 id=&quot;o-que-são-nós&quot;&gt;O QUE SÃO NÓS?&lt;/h2&gt;
 
-&lt;h3 id=&quot;subtítulos-pular-com-1-enter&quot;&gt;Subtítulos (pular com 1 enter)&lt;/h3&gt;
+&lt;p&gt;Nós, no contexto do Photoshop, referem-se a pontos de ancoragem em uma curva de Bezier ou em uma forma vetorial que são usados para controlar a forma e o tamanho da curva.&lt;/p&gt;
+
+&lt;p&gt;Esses nós são representados por pequenos quadrados ou círculos na curva ou forma, e podem ser movidos e ajustados para modificar a curva ou a forma da imagem.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/main/_images/20230515/Screenshot-1.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
+
+&lt;p&gt;Por exemplo, quando se cria uma forma vetorial como um círculo ou um quadrado no Photoshop, é possível ajustar os nós para modificar a forma da figura.&lt;/p&gt;
+
+&lt;p&gt;Outro exemplo seria ao usar a ferramenta de caneta para criar um caminho vetorial. Os nós são usados para controlar a curvatura do caminho e para criar formas complexas, como curvas suaves ou ângulos precisos.&lt;/p&gt;
+
+&lt;p&gt;Em resumo, os nós no Photoshop são elementos importantes para controlar a forma e o tamanho de curvas e formas vetoriais, permitindo aos usuários criar designs e ilustrações precisas e detalhadas.&lt;/p&gt;
+
+&lt;p&gt;Como referência, segue um vídeo simples e objetivo com um exemplo prático de como usar a &lt;strong&gt;Ferramenta de Curvatura&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zHwUcUuCzko&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/HL7GKx7C4lo/0.jpg&quot; alt=&quot;Como usar e CONFIGURAR a Ferramenta de CURVATURA do Photoshop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
 
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="matéria" /><summary type="html">Olá! Hoje vamos falar sobre {TEMA}</summary></entry><entry><title type="html">Título do Post</title><link href="http://localhost:4000/blog/mat%C3%A9ria/2023/05/12/trabalhando-com-nos.html" rel="alternate" type="text/html" title="Título do Post" /><published>2023-05-12T00:00:00-03:00</published><updated>2023-05-12T00:00:00-03:00</updated><id>http://localhost:4000/blog/mat%C3%A9ria/2023/05/12/trabalhando-com-nos</id><content type="html" xml:base="http://localhost:4000/blog/mat%C3%A9ria/2023/05/12/trabalhando-com-nos.html">&lt;p&gt;Olá! Hoje vamos falar sobre {TEMA}&lt;/p&gt;
-
-&lt;h2 id=&quot;tìtulo-pular-com-2-enters&quot;&gt;TÌTULO (pular com 2 enters)&lt;/h2&gt;
-
-&lt;h3 id=&quot;subtítulos-pular-com-1-enter&quot;&gt;Subtítulos (pular com 1 enter)&lt;/h3&gt;
-
-&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
-
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="matéria" /><summary type="html">Olá! Hoje vamos falar sobre {TEMA}</summary></entry><entry><title type="html">Laço de Repetição: WHILE</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html" rel="alternate" type="text/html" title="Laço de Repetição: WHILE" /><published>2023-05-04T00:00:00-03:00</published><updated>2023-05-04T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;WHILE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="design-digital" /><summary type="html">Olá! Hoje vamos falar sobre NÓS</summary></entry><entry><title type="html">Laço de Repetição: WHILE</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html" rel="alternate" type="text/html" title="Laço de Repetição: WHILE" /><published>2023-05-04T00:00:00-03:00</published><updated>2023-05-04T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;WHILE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-é-laço-de-repetição-while&quot;&gt;O QUE É LAÇO DE REPETIÇÃO WHILE?&lt;/h2&gt;
 
