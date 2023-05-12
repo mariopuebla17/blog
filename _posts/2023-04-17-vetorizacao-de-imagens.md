@@ -15,7 +15,7 @@ De uma forma bem direta, **vetorizar** é uma forma de transformar os pixels de 
 
 Diferença entre imagem vetorizada e não-vetorizada:
 
-![](https://chi01pap001files.storage.live.com/y4mQ6SLRSGLnJb4KpcJvOBmsGI9FWZV83LANIMGNeTdrOO3-OSsG2xZdzgARpoSIs90EQyvMFP4TmyIwPH_VZ8vYW2rHaxkGAe7LyVWbZPBDlVk8PIZfZeSfsYQSfbTBR0rzi7CiicsKYgaG-gz2OuOfEW4Ue8p7ZvbCRs7XCc5pNkIotY8iUwdpv5-R9VuxDCS6Ucq9VWUxHvTAX92EiYBcWpyrogUYE2SDGfbHzmc5E8?encodeFailures=1&width=640&height=320)
+![](https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230417/logotipos-vetorizados.jpg?raw=true)
 
 ### Porquê devemos vetorizar uma imagem?
 
@@ -29,7 +29,7 @@ Por essas razões, a vetorização é uma técnica importante para designers gr�
 
 Para vetorizar, você pode usar sua ferramenta favorita de edição, como o *Photoshop*, *GIMP*, etc. No exemplo a seguir, iremos usar a **ferramenta gratuita** chamada [Photopea](https://photopea.com). É uma simulação do Adobe Photoshop, e vai atender qualquer usuário iniciante para entender cada ferramenta disponível, porém, por ser gratuita **tem as suas limitações**.
 
-![](https://chi01pap001files.storage.live.com/y4mXf136VBWHDtruIkuxxhVaM0aoLy87pS51bpOAZsdR3ky0AFeDeIqFC-BKNooN7zYKmD9iVhzsg3zewKfYscg0O7bxTrAgYV6lbQkXBUL2MEmmvsk1V-XA7SWZE1SNenQJWIgizuMhQqyLoTbZPlI36TnozZM0DKdYzIXY3yjADRN4rNUmcIqACG-fGTk4oDLz7epCGq8Z70HZ7_4YCCVQfD77PwBIi4hPbnqynDEC6I?encodeFailures=1&width=1096&height=621)
+![](https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230417/photopea_example.jpg?raw=true)
 
 Como referência, irei deixar um **link** abaixo com uma vídeo-aula ensinando a usar a ferramenta *Laço Poligonal (Polygonal Lasso)*, onde o autor ensina detalhadamente o passo a passo. Clique na imagem abaixo e seja direcionado para a vídeo-aula!
 
