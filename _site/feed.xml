@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-12T08:29:50-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Laço de Repetição: WHILE</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html" rel="alternate" type="text/html" title="Laço de Repetição: WHILE" /><published>2023-05-04T00:00:00-03:00</published><updated>2023-05-04T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;WHILE&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-12T09:41:21-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Laço de Repetição: WHILE</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html" rel="alternate" type="text/html" title="Laço de Repetição: WHILE" /><published>2023-05-04T00:00:00-03:00</published><updated>2023-05-04T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;WHILE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-é-laço-de-repetição-while&quot;&gt;O QUE É LAÇO DE REPETIÇÃO WHILE?&lt;/h2&gt;
 
@@ -164,15 +164,15 @@
 
 &lt;p&gt;Com o aplicativo do Excel aberto, acesse a planilha que contém seus dados; se ainda não possuir uma pronta, insira seus dados (pode ser em colunas ou linhas):&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mwGWPcutLI__NXjnI8q5KahgjhiPOfwwTBmZDkQII5vn9NDQvQ1WnJoKy0C9S-Axz1C2Ub-aiIpMnvHsYTcwuWS1VJ45r8RiPIFKl5g14OBKE2OZKUsqH3tfocRZsr1qJAMgKlLI_q97deP7noHAgsZA7ctFFGsE_SNTox_9rEtwoLtzDVKl3gpQd7T9-XyRt?encodeFailures=1&amp;amp;width=260&amp;amp;height=237&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4m-m-MOouekbAANKUmo7n86INlhgWYe3WRgbpqO2eAu_X9TWTXoFvhWzfKi1cmydqgJL2sIa3CWhWi7od2uorgCGtS_7foNy-wcm1i6i4YNo_czOt8E3Q3XAkC4d1O_17nBnlih9InOnMKwTaObUo5jwCs6y1o0jCeOq4RS0SFb_TesH6T7Zs1FQJHrYPclxa5PRSfBfiKYAr8AouRjoc58Mkll1YrPnme6hCSsIuhQC0?encodeFailures=1&amp;amp;width=260&amp;amp;height=237&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Com uma célula selecionada, clique em “Inserir“, no menu superior da planilha:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mcj1hf1pbk8DWYaCJURUmkugclKIChJHuz0QOeDS14-z59BUiwPoeVBxfSVkzR0VMYN9CKHLxAD-IJ3t9SeheCm8XC4kTVjmKDnQaz44ZAp6NyCH_g1yqMmv23aqdJI52vmXEUn6P2bSvUtoykimMcQIfAPfVNo6m0EKUo1RC1qA1HGMswCkhbAgo_KU44-SQ?encodeFailures=1&amp;amp;width=1200&amp;amp;height=250&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mV6QlIcyupuGo4TEJEz_N8zJ4_D8S73gP8KZ2jfjk5hrcc_r8F4L5tA1O2PE7QzyEAZaYzZJWXTRk3TdmNftVd_4N2-ToEGYNWssDy5iT71MeH7rapxZ9rXUSQRvYsydVFNx4ozFOEMVU10aJUfc6ykdfmPpXM6k7EuGfSxr3aptSMacgNbGRWkdTBYWCdjVKkvJXzT304mydxhJpe4Kj5Lf9CubTwg2PyckPKbAtoKg?encodeFailures=1&amp;amp;width=1200&amp;amp;height=250&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Na aba “Gráficos”, é possível escolher diversos modelos como “Coluna”, “Linha” e “Pizza”; clique no seu formato de preferência e o gráfico será gerado automaticamente:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mXcUirnb8OIMxoO5cPEw4sWlqvmQ9AKsLGctPtj4m0_NT4M9ESvkxREtBcwnB4NK5rBVdFffmuiYamAknjFzzLXlVsddwWctbxpegMZMGWpr3llGwIUbirP9K89ws3YDX3dx4PUMaDHWDgUQ9Ix7Qg1y2oGAcIK0rmzwFiJwUYYbSd40tq4gHISSHlwG6NPDx?encodeFailures=1&amp;amp;width=1182&amp;amp;height=319&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mPf5cEOsZKEqkeXQnfnz82M1CQVjflZr5RydKw3AqHOpHSL48v9huK5_ZaRek2jb9HhdOUydPz1cL6kZzAF5ayOwjQtdP6DwdQ-L2j3Mx2EYuGcXBRDNFOEyy6swsK2QILEjjEhMNLqEXOwnCsSUcB_gJwrQLgFCCybcVlJRt2STg2MkCqI6GYkh6TcaugnBBcyrk-L_Su-i5JNERuHuMfY0ub-3zHRs6o6lBljBU71U?encodeFailures=1&amp;amp;width=1182&amp;amp;height=319&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Se você tem dúvidas sobre como deve estruturar os seus dados e qual tipo de gráfico usar, observe o &lt;a href=&quot;https://support.microsoft.com/pt-br/office/criar-um-gr%c3%a1fico-do-in%c3%adcio-ao-fim-0baf399e-dd61-4e18-8a73-b3fd5d5680c2?ui=pt-br&amp;amp;rs=pt-br&amp;amp;ad=br&quot;&gt;Guia completo da Microsoft para o Office&lt;/a&gt;, sobre os modelos de dados.&lt;/p&gt;
 
@@ -188,7 +188,7 @@
 
 &lt;p&gt;Diferença entre imagem vetorizada e não-vetorizada:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mtJ8Uo0z6Rb9v7GgJaBVEdMxCSwtxUGHc7gT1Old4Rmwp5-GuLzYlOfH6cpImLGNKPbviy2JBAAVZDyW4ANKevEMDbKPC0UnrZ_XIiPLRVXmAOE69b9Pwf7iS_rbCtVdvdw_MoaxRsOyXgHTIPhnhtz2LsMxPh6BQthZDUDk_28Ei0xttyZPPxwyNnBlZNEgk?encodeFailures=1&amp;amp;width=640&amp;amp;height=320&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mQ6SLRSGLnJb4KpcJvOBmsGI9FWZV83LANIMGNeTdrOO3-OSsG2xZdzgARpoSIs90EQyvMFP4TmyIwPH_VZ8vYW2rHaxkGAe7LyVWbZPBDlVk8PIZfZeSfsYQSfbTBR0rzi7CiicsKYgaG-gz2OuOfEW4Ue8p7ZvbCRs7XCc5pNkIotY8iUwdpv5-R9VuxDCS6Ucq9VWUxHvTAX92EiYBcWpyrogUYE2SDGfbHzmc5E8?encodeFailures=1&amp;amp;width=640&amp;amp;height=320&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;porquê-devemos-vetorizar-uma-imagem&quot;&gt;Porquê devemos vetorizar uma imagem?&lt;/h3&gt;
 
@@ -202,7 +202,7 @@
 
 &lt;p&gt;Para vetorizar, você pode usar sua ferramenta favorita de edição, como o &lt;em&gt;Photoshop&lt;/em&gt;, &lt;em&gt;GIMP&lt;/em&gt;, etc. No exemplo a seguir, iremos usar a &lt;strong&gt;ferramenta gratuita&lt;/strong&gt; chamada &lt;a href=&quot;https://photopea.com&quot;&gt;Photopea&lt;/a&gt;. É uma simulação do Adobe Photoshop, e vai atender qualquer usuário iniciante para entender cada ferramenta disponível, porém, por ser gratuita &lt;strong&gt;tem as suas limitações&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4maDHnx0p0Oy-ka1v4Itvs_5wt9GtNZwCvAqJyG95YyfjMWKynL42j4pOnTOJF2YjyKeMg_FUBSNmu63mavXb6qBz7aKnGGz-1qjHGkQ2ihn9aYeSsmTzgUf52GDtSW9N-FAChG8NmMbi_K0fiP9jW14h1yTffjGgBMUuNFPQB-mWRzuhifgOYMpn4NUFY6rOr?encodeFailures=1&amp;amp;width=1096&amp;amp;height=621&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mXf136VBWHDtruIkuxxhVaM0aoLy87pS51bpOAZsdR3ky0AFeDeIqFC-BKNooN7zYKmD9iVhzsg3zewKfYscg0O7bxTrAgYV6lbQkXBUL2MEmmvsk1V-XA7SWZE1SNenQJWIgizuMhQqyLoTbZPlI36TnozZM0DKdYzIXY3yjADRN4rNUmcIqACG-fGTk4oDLz7epCGq8Z70HZ7_4YCCVQfD77PwBIi4hPbnqynDEC6I?encodeFailures=1&amp;amp;width=1096&amp;amp;height=621&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Como referência, irei deixar um &lt;strong&gt;link&lt;/strong&gt; abaixo com uma vídeo-aula ensinando a usar a ferramenta &lt;em&gt;Laço Poligonal (Polygonal Lasso)&lt;/em&gt;, onde o autor ensina detalhadamente o passo a passo. Clique na imagem abaixo e seja direcionado para a vídeo-aula!&lt;/p&gt;
 

@@ -15,7 +15,7 @@ De uma forma bem direta, **vetorizar** é uma forma de transformar os pixels de 
 
 Diferença entre imagem vetorizada e não-vetorizada:
 
-![](https://chi01pap001files.storage.live.com/y4mtJ8Uo0z6Rb9v7GgJaBVEdMxCSwtxUGHc7gT1Old4Rmwp5-GuLzYlOfH6cpImLGNKPbviy2JBAAVZDyW4ANKevEMDbKPC0UnrZ_XIiPLRVXmAOE69b9Pwf7iS_rbCtVdvdw_MoaxRsOyXgHTIPhnhtz2LsMxPh6BQthZDUDk_28Ei0xttyZPPxwyNnBlZNEgk?encodeFailures=1&width=640&height=320)
+![](https://chi01pap001files.storage.live.com/y4mQ6SLRSGLnJb4KpcJvOBmsGI9FWZV83LANIMGNeTdrOO3-OSsG2xZdzgARpoSIs90EQyvMFP4TmyIwPH_VZ8vYW2rHaxkGAe7LyVWbZPBDlVk8PIZfZeSfsYQSfbTBR0rzi7CiicsKYgaG-gz2OuOfEW4Ue8p7ZvbCRs7XCc5pNkIotY8iUwdpv5-R9VuxDCS6Ucq9VWUxHvTAX92EiYBcWpyrogUYE2SDGfbHzmc5E8?encodeFailures=1&width=640&height=320)
 
 ### Porquê devemos vetorizar uma imagem?
 
@@ -29,7 +29,7 @@ Por essas razões, a vetorização é uma técnica importante para designers gr�
 
 Para vetorizar, você pode usar sua ferramenta favorita de edição, como o *Photoshop*, *GIMP*, etc. No exemplo a seguir, iremos usar a **ferramenta gratuita** chamada [Photopea](https://photopea.com). É uma simulação do Adobe Photoshop, e vai atender qualquer usuário iniciante para entender cada ferramenta disponível, porém, por ser gratuita **tem as suas limitações**.
 
-![](https://chi01pap001files.storage.live.com/y4maDHnx0p0Oy-ka1v4Itvs_5wt9GtNZwCvAqJyG95YyfjMWKynL42j4pOnTOJF2YjyKeMg_FUBSNmu63mavXb6qBz7aKnGGz-1qjHGkQ2ihn9aYeSsmTzgUf52GDtSW9N-FAChG8NmMbi_K0fiP9jW14h1yTffjGgBMUuNFPQB-mWRzuhifgOYMpn4NUFY6rOr?encodeFailures=1&width=1096&height=621)
+![](https://chi01pap001files.storage.live.com/y4mXf136VBWHDtruIkuxxhVaM0aoLy87pS51bpOAZsdR3ky0AFeDeIqFC-BKNooN7zYKmD9iVhzsg3zewKfYscg0O7bxTrAgYV6lbQkXBUL2MEmmvsk1V-XA7SWZE1SNenQJWIgizuMhQqyLoTbZPlI36TnozZM0DKdYzIXY3yjADRN4rNUmcIqACG-fGTk4oDLz7epCGq8Z70HZ7_4YCCVQfD77PwBIi4hPbnqynDEC6I?encodeFailures=1&width=1096&height=621)
 
 Como referência, irei deixar um **link** abaixo com uma vídeo-aula ensinando a usar a ferramenta *Laço Poligonal (Polygonal Lasso)*, onde o autor ensina detalhadamente o passo a passo. Clique na imagem abaixo e seja direcionado para a vídeo-aula!
 

@@ -20,15 +20,15 @@ Existem vários tipos de gráficos disponíveis no Excel, incluindo gráficos de
 
 Com o aplicativo do Excel aberto, acesse a planilha que contém seus dados; se ainda não possuir uma pronta, insira seus dados (pode ser em colunas ou linhas):
 
-![](https://chi01pap001files.storage.live.com/y4mwGWPcutLI__NXjnI8q5KahgjhiPOfwwTBmZDkQII5vn9NDQvQ1WnJoKy0C9S-Axz1C2Ub-aiIpMnvHsYTcwuWS1VJ45r8RiPIFKl5g14OBKE2OZKUsqH3tfocRZsr1qJAMgKlLI_q97deP7noHAgsZA7ctFFGsE_SNTox_9rEtwoLtzDVKl3gpQd7T9-XyRt?encodeFailures=1&width=260&height=237)
+![](https://chi01pap001files.storage.live.com/y4m-m-MOouekbAANKUmo7n86INlhgWYe3WRgbpqO2eAu_X9TWTXoFvhWzfKi1cmydqgJL2sIa3CWhWi7od2uorgCGtS_7foNy-wcm1i6i4YNo_czOt8E3Q3XAkC4d1O_17nBnlih9InOnMKwTaObUo5jwCs6y1o0jCeOq4RS0SFb_TesH6T7Zs1FQJHrYPclxa5PRSfBfiKYAr8AouRjoc58Mkll1YrPnme6hCSsIuhQC0?encodeFailures=1&width=260&height=237)
 
 Com uma célula selecionada, clique em “Inserir“, no menu superior da planilha:
 
-![](https://chi01pap001files.storage.live.com/y4mcj1hf1pbk8DWYaCJURUmkugclKIChJHuz0QOeDS14-z59BUiwPoeVBxfSVkzR0VMYN9CKHLxAD-IJ3t9SeheCm8XC4kTVjmKDnQaz44ZAp6NyCH_g1yqMmv23aqdJI52vmXEUn6P2bSvUtoykimMcQIfAPfVNo6m0EKUo1RC1qA1HGMswCkhbAgo_KU44-SQ?encodeFailures=1&width=1200&height=250)
+![](https://chi01pap001files.storage.live.com/y4mV6QlIcyupuGo4TEJEz_N8zJ4_D8S73gP8KZ2jfjk5hrcc_r8F4L5tA1O2PE7QzyEAZaYzZJWXTRk3TdmNftVd_4N2-ToEGYNWssDy5iT71MeH7rapxZ9rXUSQRvYsydVFNx4ozFOEMVU10aJUfc6ykdfmPpXM6k7EuGfSxr3aptSMacgNbGRWkdTBYWCdjVKkvJXzT304mydxhJpe4Kj5Lf9CubTwg2PyckPKbAtoKg?encodeFailures=1&width=1200&height=250)
 
 Na aba “Gráficos”, é possível escolher diversos modelos como “Coluna”, “Linha” e “Pizza”; clique no seu formato de preferência e o gráfico será gerado automaticamente:
 
-![](https://chi01pap001files.storage.live.com/y4mXcUirnb8OIMxoO5cPEw4sWlqvmQ9AKsLGctPtj4m0_NT4M9ESvkxREtBcwnB4NK5rBVdFffmuiYamAknjFzzLXlVsddwWctbxpegMZMGWpr3llGwIUbirP9K89ws3YDX3dx4PUMaDHWDgUQ9Ix7Qg1y2oGAcIK0rmzwFiJwUYYbSd40tq4gHISSHlwG6NPDx?encodeFailures=1&width=1182&height=319)
+![](https://chi01pap001files.storage.live.com/y4mPf5cEOsZKEqkeXQnfnz82M1CQVjflZr5RydKw3AqHOpHSL48v9huK5_ZaRek2jb9HhdOUydPz1cL6kZzAF5ayOwjQtdP6DwdQ-L2j3Mx2EYuGcXBRDNFOEyy6swsK2QILEjjEhMNLqEXOwnCsSUcB_gJwrQLgFCCybcVlJRt2STg2MkCqI6GYkh6TcaugnBBcyrk-L_Su-i5JNERuHuMfY0ub-3zHRs6o6lBljBU71U?encodeFailures=1&width=1182&height=319)
 
 Se você tem dúvidas sobre como deve estruturar os seus dados e qual tipo de gráfico usar, observe o [Guia completo da Microsoft para o Office](https://support.microsoft.com/pt-br/office/criar-um-gr%c3%a1fico-do-in%c3%adcio-ao-fim-0baf399e-dd61-4e18-8a73-b3fd5d5680c2?ui=pt-br&rs=pt-br&ad=br), sobre os modelos de dados.
 
