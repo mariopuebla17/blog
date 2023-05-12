@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Criação de Formulários (SEM VBA!)"
-date: 2023-05-02 00:00:00 -0300
+date: 2022-05-02 00:00:00 -0300
 categories: aplicativos-informatizados
+author: Escrito por Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre criação de formulários, e **pasmem**, SEM VBA!

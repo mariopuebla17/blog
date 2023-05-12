@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Laço de Repetição: FOR"
-date: 2023-04-27 00:00:00 -0300
+date: 2022-04-27 00:00:00 -0300
 categories: desenvolvimento-de-sistemas-1
+author: Escrito por Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre o laço de repetição **FOR**

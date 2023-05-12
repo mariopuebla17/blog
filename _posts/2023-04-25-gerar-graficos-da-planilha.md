@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Gerando gráficos em uma planilha"
-date: 2023-04-25 00:00:00 -0300
+date: 2022-04-25 00:00:00 -0300
 categories: aplicativos-informatizados
+author: Escrito por Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Vetorização de Imagem"
-date: 2023-04-17 00:00:00 -0300
+date: 2022-04-17 00:00:00 -0300
 categories: design-digital
+author: Escrito por Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.

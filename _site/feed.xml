@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-12T16:52:54-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Trabalhando com Nós</title><link href="http://localhost:4000/blog/design-digital/2023/05/12/trabalhando-com-nos.html" rel="alternate" type="text/html" title="Trabalhando com Nós" /><published>2023-05-12T00:00:00-03:00</published><updated>2023-05-12T00:00:00-03:00</updated><id>http://localhost:4000/blog/design-digital/2023/05/12/trabalhando-com-nos</id><content type="html" xml:base="http://localhost:4000/blog/design-digital/2023/05/12/trabalhando-com-nos.html">&lt;p&gt;Olá! Hoje vamos falar sobre &lt;strong&gt;NÓS&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-12T17:16:11-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Laço de Repetição: DO WHILE</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/05/18/laco-de-repeticao-do-while.html" rel="alternate" type="text/html" title="Laço de Repetição: DO WHILE" /><published>2022-05-18T00:00:00-03:00</published><updated>2022-05-18T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/05/18/laco-de-repeticao-do-while</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/05/18/laco-de-repeticao-do-while.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;DO WHILE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tìtulo-pular-com-2-enters&quot;&gt;TÌTULO (pular com 2 enters)&lt;/h2&gt;
+
+&lt;h3 id=&quot;subtítulos-pular-com-1-enter&quot;&gt;Subtítulos (pular com 1 enter)&lt;/h3&gt;
+
+&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
+
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição DO WHILE</summary></entry><entry><title type="html">Função SE</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2022/05/16/funcao-se.html" rel="alternate" type="text/html" title="Função SE" /><published>2022-05-16T00:00:00-03:00</published><updated>2022-05-16T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2022/05/16/funcao-se</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2022/05/16/funcao-se.html">&lt;p&gt;Olá! Hoje vamos falar sobre a função SE do Excel&lt;/p&gt;
+
+&lt;h2 id=&quot;o-que-é-a-função-se&quot;&gt;O QUE É A FUNÇÃO SE?&lt;/h2&gt;
+
+&lt;p&gt;A função SE do Excel é uma função condicional que permite que você especifique uma condição e, com base nessa condição, determine o resultado que será exibido. A sintaxe da função SE é:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;=SE(condição; valor se verdadeiro; valor se falso)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
+
+&lt;p&gt;Por exemplo, se você deseja exibir “Aprovado” se a pontuação de um aluno for maior ou igual a 60 e “Reprovado” se a pontuação for menor que 60, você pode usar a seguinte fórmula:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;=SE(A2&amp;gt;=60;&quot;Aprovado&quot;;&quot;Reprovado&quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/main/_images/20230516/Screenshot-1.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
+
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre a função SE do Excel</summary></entry><entry><title type="html">Trabalhando com Nós</title><link href="http://localhost:4000/blog/design-digital/2022/05/15/trabalhando-com-nos.html" rel="alternate" type="text/html" title="Trabalhando com Nós" /><published>2022-05-15T00:00:00-03:00</published><updated>2022-05-15T00:00:00-03:00</updated><id>http://localhost:4000/blog/design-digital/2022/05/15/trabalhando-com-nos</id><content type="html" xml:base="http://localhost:4000/blog/design-digital/2022/05/15/trabalhando-com-nos.html">&lt;p&gt;Olá! Hoje vamos falar sobre &lt;strong&gt;NÓS&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-são-nós&quot;&gt;O QUE SÃO NÓS?&lt;/h2&gt;
 
@@ -22,7 +49,7 @@
 
 &lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
 
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="design-digital" /><summary type="html">Olá! Hoje vamos falar sobre NÓS</summary></entry><entry><title type="html">Laço de Repetição: WHILE</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html" rel="alternate" type="text/html" title="Laço de Repetição: WHILE" /><published>2023-05-04T00:00:00-03:00</published><updated>2023-05-04T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;WHILE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="design-digital" /><summary type="html">Olá! Hoje vamos falar sobre NÓS</summary></entry><entry><title type="html">Laço de Repetição: WHILE</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/05/04/laco-de-repeticao-while.html" rel="alternate" type="text/html" title="Laço de Repetição: WHILE" /><published>2022-05-04T00:00:00-03:00</published><updated>2022-05-04T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/05/04/laco-de-repeticao-while</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/05/04/laco-de-repeticao-while.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;WHILE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-é-laço-de-repetição-while&quot;&gt;O QUE É LAÇO DE REPETIÇÃO WHILE?&lt;/h2&gt;
 
@@ -79,7 +106,7 @@
 
 &lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
 
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição WHILE</summary></entry><entry><title type="html">Criação de Formulários (SEM VBA!)</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2023/05/02/criacao-de-formularios.html" rel="alternate" type="text/html" title="Criação de Formulários (SEM VBA!)" /><published>2023-05-02T00:00:00-03:00</published><updated>2023-05-02T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2023/05/02/criacao-de-formularios</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2023/05/02/criacao-de-formularios.html">&lt;p&gt;Olá! Hoje vamos falar sobre criação de formulários, e &lt;strong&gt;pasmem&lt;/strong&gt;, SEM VBA!&lt;/p&gt;
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição WHILE</summary></entry><entry><title type="html">Criação de Formulários (SEM VBA!)</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2022/05/02/criacao-de-formularios.html" rel="alternate" type="text/html" title="Criação de Formulários (SEM VBA!)" /><published>2022-05-02T00:00:00-03:00</published><updated>2022-05-02T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2022/05/02/criacao-de-formularios</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2022/05/02/criacao-de-formularios.html">&lt;p&gt;Olá! Hoje vamos falar sobre criação de formulários, e &lt;strong&gt;pasmem&lt;/strong&gt;, SEM VBA!&lt;/p&gt;
 
 &lt;h2 id=&quot;formulários&quot;&gt;FORMULÁRIOS&lt;/h2&gt;
 
@@ -128,7 +155,7 @@
 
 &lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
 
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre criação de formulários, e pasmem, SEM VBA!</summary></entry><entry><title type="html">Laço de Repetição: FOR</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/04/27/laco-de-repeticao-for.html" rel="alternate" type="text/html" title="Laço de Repetição: FOR" /><published>2023-04-27T00:00:00-03:00</published><updated>2023-04-27T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/04/27/laco-de-repeticao-for</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/04/27/laco-de-repeticao-for.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;FOR&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre criação de formulários, e pasmem, SEM VBA!</summary></entry><entry><title type="html">Laço de Repetição: FOR</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/04/27/laco-de-repeticao-for.html" rel="alternate" type="text/html" title="Laço de Repetição: FOR" /><published>2022-04-27T00:00:00-03:00</published><updated>2022-04-27T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/04/27/laco-de-repeticao-for</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/04/27/laco-de-repeticao-for.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;FOR&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-é-laço-de-repetição-for&quot;&gt;O QUE É LAÇO DE REPETIÇÃO FOR?&lt;/h2&gt;
 
@@ -174,7 +201,7 @@
 
 &lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
 
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição FOR</summary></entry><entry><title type="html">Gerando gráficos em uma planilha</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha.html" rel="alternate" type="text/html" title="Gerando gráficos em uma planilha" /><published>2023-04-25T00:00:00-03:00</published><updated>2023-04-25T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha.html">&lt;p&gt;Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.&lt;/p&gt;
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição FOR</summary></entry><entry><title type="html">Gerando gráficos em uma planilha</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2022/04/25/gerar-graficos-da-planilha.html" rel="alternate" type="text/html" title="Gerando gráficos em uma planilha" /><published>2022-04-25T00:00:00-03:00</published><updated>2022-04-25T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2022/04/25/gerar-graficos-da-planilha</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2022/04/25/gerar-graficos-da-planilha.html">&lt;p&gt;Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-são-gráficos&quot;&gt;O QUE SÃO GRÁFICOS?&lt;/h2&gt;
 
@@ -204,7 +231,7 @@
 
 &lt;p&gt;mario.herrera@etec.sp.gov.br&lt;/p&gt;
 
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.</summary></entry><entry><title type="html">Vetorização de Imagem</title><link href="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html" rel="alternate" type="text/html" title="Vetorização de Imagem" /><published>2023-04-17T00:00:00-03:00</published><updated>2023-04-17T00:00:00-03:00</updated><id>http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens</id><content type="html" xml:base="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html">&lt;p&gt;Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.&lt;/p&gt;
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.</summary></entry><entry><title type="html">Vetorização de Imagem</title><link href="http://localhost:4000/blog/design-digital/2022/04/17/vetorizacao-de-imagens.html" rel="alternate" type="text/html" title="Vetorização de Imagem" /><published>2022-04-17T00:00:00-03:00</published><updated>2022-04-17T00:00:00-03:00</updated><id>http://localhost:4000/blog/design-digital/2022/04/17/vetorizacao-de-imagens</id><content type="html" xml:base="http://localhost:4000/blog/design-digital/2022/04/17/vetorizacao-de-imagens.html">&lt;p&gt;Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-é-vetorização&quot;&gt;O QUE É VETORIZAÇÃO?&lt;/h2&gt;
 
@@ -236,4 +263,4 @@
 
 &lt;p&gt;mario.herrera@etec.sp.gov.br&lt;/p&gt;
 
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="design-digital" /><summary type="html">Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.</summary></entry></feed>
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="design-digital" /><summary type="html">Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.</summary></entry></feed>

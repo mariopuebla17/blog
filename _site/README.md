@@ -5,6 +5,7 @@ layout: post
 title: "Título do Post"
 date: yyyy-mm-dd 00:00:00 -0300
 categories: matéria
+author: Escrito por {autor}
 ---
 
 Olá! Hoje vamos falar sobre {TEMA}
