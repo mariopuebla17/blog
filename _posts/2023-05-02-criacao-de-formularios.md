@@ -9,6 +9,7 @@ Olá! Hoje vamos falar sobre criação de formulários, e **pasmem**, SEM VBA!
 
 ## Formulários
 
+
 Os formulários no Excel são uma ferramenta útil para coletar informações de maneira estruturada e organizada. Eles permitem que o usuário crie uma interface amigável e personalizada para inserir dados em uma planilha, facilitando a entrada de informações e minimizando a ocorrência de erros.
 
 Com um formulário, é possível especificar os campos que devem ser preenchidos e a formatação dos dados. Além disso, os formulários podem ser configurados para incluir validações, como limites de valores ou restrições de formato.
