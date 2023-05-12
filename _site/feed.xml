@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-12T10:55:34-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Laço de Repetição: WHILE</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html" rel="alternate" type="text/html" title="Laço de Repetição: WHILE" /><published>2023-05-04T00:00:00-03:00</published><updated>2023-05-04T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;WHILE&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-12T12:55:22-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Título do Post</title><link href="http://localhost:4000/blog/mat%C3%A9ria/2023/05/12/laco-de-repeticao-do-while.html" rel="alternate" type="text/html" title="Título do Post" /><published>2023-05-12T00:00:00-03:00</published><updated>2023-05-12T00:00:00-03:00</updated><id>http://localhost:4000/blog/mat%C3%A9ria/2023/05/12/laco-de-repeticao-do-while</id><content type="html" xml:base="http://localhost:4000/blog/mat%C3%A9ria/2023/05/12/laco-de-repeticao-do-while.html">&lt;p&gt;Olá! Hoje vamos falar sobre {TEMA}&lt;/p&gt;
+
+&lt;h2 id=&quot;tìtulo-pular-com-2-enters&quot;&gt;TÌTULO (pular com 2 enters)&lt;/h2&gt;
+
+&lt;h3 id=&quot;subtítulos-pular-com-1-enter&quot;&gt;Subtítulos (pular com 1 enter)&lt;/h3&gt;
+
+&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
+
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="matéria" /><summary type="html">Olá! Hoje vamos falar sobre {TEMA}</summary></entry><entry><title type="html">Título do Post</title><link href="http://localhost:4000/blog/mat%C3%A9ria/2023/05/12/trabalhando-com-nos.html" rel="alternate" type="text/html" title="Título do Post" /><published>2023-05-12T00:00:00-03:00</published><updated>2023-05-12T00:00:00-03:00</updated><id>http://localhost:4000/blog/mat%C3%A9ria/2023/05/12/trabalhando-com-nos</id><content type="html" xml:base="http://localhost:4000/blog/mat%C3%A9ria/2023/05/12/trabalhando-com-nos.html">&lt;p&gt;Olá! Hoje vamos falar sobre {TEMA}&lt;/p&gt;
+
+&lt;h2 id=&quot;tìtulo-pular-com-2-enters&quot;&gt;TÌTULO (pular com 2 enters)&lt;/h2&gt;
+
+&lt;h3 id=&quot;subtítulos-pular-com-1-enter&quot;&gt;Subtítulos (pular com 1 enter)&lt;/h3&gt;
+
+&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
+
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="matéria" /><summary type="html">Olá! Hoje vamos falar sobre {TEMA}</summary></entry><entry><title type="html">Laço de Repetição: WHILE</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html" rel="alternate" type="text/html" title="Laço de Repetição: WHILE" /><published>2023-05-04T00:00:00-03:00</published><updated>2023-05-04T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;WHILE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-é-laço-de-repetição-while&quot;&gt;O QUE É LAÇO DE REPETIÇÃO WHILE?&lt;/h2&gt;
 
@@ -57,7 +73,7 @@
 
 &lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição WHILE</summary></entry><entry><title type="html">Criação de Formulários (SEM VBA!)</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2023/05/02/criacao-de-formularios.html" rel="alternate" type="text/html" title="Criação de Formulários (SEM VBA!)" /><published>2023-05-02T00:00:00-03:00</published><updated>2023-05-02T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2023/05/02/criacao-de-formularios</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2023/05/02/criacao-de-formularios.html">&lt;p&gt;Olá! Hoje vamos falar sobre criação de formulários, e &lt;strong&gt;pasmem&lt;/strong&gt;, SEM VBA!&lt;/p&gt;
 
-&lt;h2 id=&quot;formulários&quot;&gt;Formulários&lt;/h2&gt;
+&lt;h2 id=&quot;formulários&quot;&gt;FORMULÁRIOS&lt;/h2&gt;
 
 &lt;p&gt;Os formulários no Excel são uma ferramenta útil para coletar informações de maneira estruturada e organizada. Eles permitem que o usuário crie uma interface amigável e personalizada para inserir dados em uma planilha, facilitando a entrada de informações e minimizando a ocorrência de erros.&lt;/p&gt;
 
@@ -152,7 +168,7 @@
 
 &lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição FOR</summary></entry><entry><title type="html">Gerando gráficos em uma planilha</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha.html" rel="alternate" type="text/html" title="Gerando gráficos em uma planilha" /><published>2023-04-25T00:00:00-03:00</published><updated>2023-04-25T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha.html">&lt;p&gt;Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.&lt;/p&gt;
 
-&lt;h2 id=&quot;o-que-são-gráficos&quot;&gt;O que são gráficos?&lt;/h2&gt;
+&lt;h2 id=&quot;o-que-são-gráficos&quot;&gt;O QUE SÃO GRÁFICOS?&lt;/h2&gt;
 
 &lt;p&gt;Gráficos são representações visuais de dados que permitem ao usuário exibir informações de forma clara e concisa. Eles são uma ferramenta essencial para a análise e apresentação de dados em diversas áreas, como negócios, finanças, ciência, engenharia, entre outras.&lt;/p&gt;
 
@@ -182,7 +198,7 @@
 
 &lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.</summary></entry><entry><title type="html">Vetorização de Imagem</title><link href="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html" rel="alternate" type="text/html" title="Vetorização de Imagem" /><published>2023-04-17T00:00:00-03:00</published><updated>2023-04-17T00:00:00-03:00</updated><id>http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens</id><content type="html" xml:base="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html">&lt;p&gt;Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.&lt;/p&gt;
 
-&lt;h2 id=&quot;o-que-é-vetorização&quot;&gt;O que é vetorização?&lt;/h2&gt;
+&lt;h2 id=&quot;o-que-é-vetorização&quot;&gt;O QUE É VETORIZAÇÃO?&lt;/h2&gt;
 
 &lt;p&gt;De uma forma bem direta, &lt;strong&gt;vetorizar&lt;/strong&gt; é uma forma de transformar os pixels de uma imagem em curvas, linhas e pontos, com a possibilidade de modificar seus elementos separadamente.&lt;/p&gt;
 

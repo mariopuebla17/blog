@@ -7,7 +7,7 @@ categories: aplicativos-informatizados
 
 Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.
 
-## O que são gráficos?
+## O QUE SÃO GRÁFICOS?
 
 
 Gráficos são representações visuais de dados que permitem ao usuário exibir informações de forma clara e concisa. Eles são uma ferramenta essencial para a análise e apresentação de dados em diversas áreas, como negócios, finanças, ciência, engenharia, entre outras.

@@ -8,7 +8,7 @@ categories: design-digital
 Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.
 
 
-## O que é vetorização?
+## O QUE É VETORIZAÇÃO?
 
 
 De uma forma bem direta, **vetorizar** é uma forma de transformar os pixels de uma imagem em curvas, linhas e pontos, com a possibilidade de modificar seus elementos separadamente.

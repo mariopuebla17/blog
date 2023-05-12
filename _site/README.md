@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre {TEMA}
 
 ## TÌTULO (pular com 2 enters)
 
-### SUBTÍTULOS (pular com 1 enter)
+### Subtítulos (pular com 1 enter)
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
 
