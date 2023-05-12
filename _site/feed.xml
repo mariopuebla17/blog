@@ -1,4 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-10T07:41:25-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Gerando gráficos em uma planilha</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha.html" rel="alternate" type="text/html" title="Gerando gráficos em uma planilha" /><published>2023-04-25T00:00:00-03:00</published><updated>2023-04-25T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha.html">&lt;p&gt;Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-11T23:28:52-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Criação de Formulários (SEM VBA!)</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2023/05/02/criacao-de-formularios.html" rel="alternate" type="text/html" title="Criação de Formulários (SEM VBA!)" /><published>2023-05-02T00:00:00-03:00</published><updated>2023-05-02T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2023/05/02/criacao-de-formularios</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2023/05/02/criacao-de-formularios.html">&lt;p&gt;Olá! Hoje vamos falar sobre criação de formulários, e &lt;strong&gt;pasmem&lt;/strong&gt;, SEM VBA!&lt;/p&gt;
+
+&lt;h2 id=&quot;formulários&quot;&gt;Formulários&lt;/h2&gt;
+
+&lt;p&gt;Os formulários no Excel são uma ferramenta útil para coletar informações de maneira estruturada e organizada. Eles permitem que o usuário crie uma interface amigável e personalizada para inserir dados em uma planilha, facilitando a entrada de informações e minimizando a ocorrência de erros.&lt;/p&gt;
+
+&lt;p&gt;Com um formulário, é possível especificar os campos que devem ser preenchidos e a formatação dos dados. Além disso, os formulários podem ser configurados para incluir validações, como limites de valores ou restrições de formato.&lt;/p&gt;
+
+&lt;p&gt;Os formulários podem ser criados manualmente ou com o uso de recursos de automação do Excel, como a ferramenta de criação de formulários. Com essa ferramenta, o Excel gera um formulário automaticamente a partir dos dados já existentes na planilha, facilitando ainda mais a criação de formulários personalizados.&lt;/p&gt;
+
+&lt;p&gt;Uma vez que o formulário é criado, os dados inseridos são automaticamente adicionados à planilha, facilitando a organização e análise das informações coletadas.&lt;/p&gt;
+
+&lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
+
+&lt;p&gt;Primeira coisa que iremos fazer é ativar o modo Formulário. Para isso:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Abrir as &lt;strong&gt;Opções do Excel&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Opção &lt;strong&gt;Barra de Ferramentas de Acesso Rápido&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Na aba &lt;strong&gt;Escolher comandos em:&lt;/strong&gt;, selecione a opção &lt;strong&gt;Todos os Comandos&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Procure pela opção &lt;strong&gt;Formulário&lt;/strong&gt;, e clica em &lt;strong&gt;Adicionar »&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mEcgNj3i22DLGrrXRtSLdlOwAk42pjx6cuzAErzaFGe0DpRAcaQreWfbK-fXtD71I0I9Bw7cwT-TrE5dm_VhU9YENqoS_v7vbcH9uRzaXAMdQduaWqGoWXAZit0khMhww8WtaCcvOyh-sQbolkQkwKVW6G7YwPSXWiw4h1Tr4dTeGkvQ9KHRz5Lbq1x9vg4uV?encodeFailures=1&amp;amp;width=1079&amp;amp;height=782&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Após habilitada a opção, irá aparecer um ícone de um formulário bem no topo do seu programa:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mjvLHHQVreLBz9JcGKHDSDWzAR98e3-4eimn9feQZBrA7PGBa7jjdnrEdp1kU_lV3ERpNIAuKKsIldH2gNvZUn7o1H58gFFERuJl7HEv-5Gx4OMks50VFdi_8DDND1HTjXmgoXiTkOUwy3IExQWb1S28tEICKF8eYHqpcHf3MIPdarlgoml50Ly-7baXKM5J2?encodeFailures=1&amp;amp;width=910&amp;amp;height=90&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Comece seu formulário, informando os campos que irá conter, e depois formatando ele através da aba &lt;strong&gt;Página Inicial&lt;/strong&gt;, e selecionando a opção &lt;strong&gt;Formatar como Tabela&lt;/strong&gt;. Escolha o modelo que mais lhe agrade, e clique sobre a opção:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4m1AWN0-2vr87pYOSalt-Qsow3urupwIETFXd4aNUYK2t8L_yWwAqSFVZZ8fONspXco3JI1TXwlDPEQv8R2uhEEZJh58TQ1lCLbDw9Hpsk4tAM3It4RK7Vp523X5kCwlm18G3gl5FRC5ZPdLzO0Sm2JH-fl9zML1WB_ZuVCw2nMz3noCdNk6VdETTzyIA4WQ68?encodeFailures=1&amp;amp;width=1366&amp;amp;height=350&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Após formatado, selecione a primeira linha (linha 2) de todas as colunas (A, B e C). Após selecionado, clicar no botão &lt;strong&gt;Formulário&lt;/strong&gt;, habilitado anteriormente. Irá aparece uma tela de Novo Registro, onde iremos informar dados para o nosso formulário.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4m_qve3wY-lIoRO7cYj1ZV3Oy3c6vNs7bevWYxNRMaf0UKNL0WXemZqF3lUTL6Vct6CUE5w3TwwQjRBX7x4G1Wnv427OEWzR1p3CXQNgkinsQFLZ2SrkDScb5qa2VJtdelysRVoP4w9uPI-OkxIehxJbxA27yNFC2K4EcN_d8_W2_Cyj42G_qVXsrFa8GjRd-r?encodeFailures=1&amp;amp;width=684&amp;amp;height=700&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Após fornecido os dados, iremos clicar em &lt;strong&gt;Novo&lt;/strong&gt;, e &lt;strong&gt;AUTOMATICAMENTE&lt;/strong&gt; os dados irão ser listados no nosso formulário.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4miNp-aYo1Lq-V9Eu6fzPQrd4e6YcDh4C4lpwAPT0qoEKxwUZqB5DvJJLURoY4NQLsKvslpz0EYzue57qHtDczJeNo_qBb0-f43kVxXlS2hLMrLsD7t5tQie8rWKyjHe0eGPUYU4TqONv2Rzv_zXy7Esd-6mWVmvl6x0JKWlWw212_C9h5SefeINu2-FhjVOkZ?encodeFailures=1&amp;amp;width=684&amp;amp;height=465&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Também podemos &lt;strong&gt;Excluir&lt;/strong&gt; um registro, onde primeiro teremos que selecionar o registro através das opções &lt;strong&gt;Localizar anterior OU Localizar próxima&lt;/strong&gt;, e dando sequência apertando o botão de exclusão. Após confirmar, o dado informado anteriormente irá sumir do seu formulário.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mzntUDWUrEDWNdkTBSpulEei3Khwty7saCAu9qBrryggUgp0fWCzofoKTCRxA_xbzzy_ruatIUeAUfhEFrq9p7j4HLwMvvH1cTC9PQe93F3bmFvCK7ReILv5gkvSdGDXEG-9SEw0W-T14IP8crdab0rQNmtfzrF07FWf-O5O2d86As9oAx78rShvUi_Xe4PP5?encodeFailures=1&amp;amp;width=1160&amp;amp;height=480&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4m0IpHZP-569x04EpFLB1C2qnlryJAwmC_0wTUIXIkZVYDQo7JEj2qbpdAFDs26RhWuJykYe3Kxr-zyXiyx-M5YFusVVgTYyBHhkFXADqvog5A38k3_jldk2Kd1RAstS72GrBqZrUxtRteQwbq0j3u49GJH3KLtNYoPlbD1nR4kzfQ44ojbaFtUsBCrNU5hJkM?encodeFailures=1&amp;amp;width=701&amp;amp;height=479&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
+
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre criação de formulários, e pasmem, SEM VBA!</summary></entry><entry><title type="html">Laço de Repetição: FOR</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/04/27/laco-de-repeticao-for.html" rel="alternate" type="text/html" title="Laço de Repetição: FOR" /><published>2023-04-27T00:00:00-03:00</published><updated>2023-04-27T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/04/27/laco-de-repeticao-for</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/04/27/laco-de-repeticao-for.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;FOR&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;o-que-é-laço-de-repetição-for&quot;&gt;O QUE É LAÇO DE REPETIÇÃO FOR?&lt;/h2&gt;
+
+&lt;p&gt;O laço de repetição &lt;strong&gt;for&lt;/strong&gt; é uma estrutura de controle em programação que permite a execução repetida de um bloco de código por um número conhecido de vezes. Ele é especialmente útil quando &lt;strong&gt;se deseja iterar sobre uma sequência de elementos, como uma lista, tupla ou string&lt;/strong&gt;, executando uma ação para cada item. A sintaxe básica do for consiste em uma variável que assume o valor de cada elemento da sequência em cada iteração, seguida por dois pontos e o bloco de código a ser executado. Ao final de cada iteração, a variável é atualizada para o próximo elemento da sequência até que todos os elementos tenham sido processados.&lt;/p&gt;
+
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;comandos&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;de&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;inicialização&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;condição&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;de&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;teste&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;incremento&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;decremento&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; 
+    &lt;span class=&quot;c1&quot;&gt;// comandos a serem repetidos &lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// comandos a serem repetidos &lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
+
+&lt;p&gt;O funcionamento é o seguinte:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Executa os comandos de inicialização;&lt;/li&gt;
+  &lt;li&gt;Testa a condição;&lt;/li&gt;
+  &lt;li&gt;Se a condição for falsa então executa o comando que está logo após o bloco subordinado ao for .&lt;/li&gt;
+  &lt;li&gt;Se condição for verdadeira então executa os comandos que estão subordinados ao for;&lt;/li&gt;
+  &lt;li&gt;Executa os comandos de incremento/decremento;&lt;/li&gt;
+  &lt;li&gt;Volta ao passo 2.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;O comando &lt;strong&gt;for&lt;/strong&gt; deve ser usado sempre que:&lt;/p&gt;
+
+&lt;p&gt;. soubermos exatamente quantas vezes o laço deve ser repetido;&lt;br /&gt;
+. o teste deva ser feito antes da execução de um bloco de comandos;&lt;br /&gt;
+. houver casos em que o laço não deva ser repetido nenhuma vez.&lt;/p&gt;
+
+&lt;h3 id=&quot;exemplos&quot;&gt;Exemplos&lt;/h3&gt;
+
+&lt;div class=&quot;language-c++ highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;contador&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
+
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;contador&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;contador&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;contador&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;contador&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; 
+    &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;contador&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; 
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; 
+
+&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;FIM LAÇO&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
+
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name></name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição FOR</summary></entry><entry><title type="html">Gerando gráficos em uma planilha</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha.html" rel="alternate" type="text/html" title="Gerando gráficos em uma planilha" /><published>2023-04-25T00:00:00-03:00</published><updated>2023-04-25T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha.html">&lt;p&gt;Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-são-gráficos&quot;&gt;O que são gráficos?&lt;/h2&gt;
 
@@ -12,7 +107,7 @@
 
 &lt;p&gt;Com o aplicativo do Excel aberto, acesse a planilha que contém seus dados; se ainda não possuir uma pronta, insira seus dados (pode ser em colunas ou linhas):&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4m1w4HeUK9kX34UnC6gZTT3qmGAxkhslvsJqCyqPkYytx-3GUaaLRwbly4xHVRIfoZhpp2LNdx7kLjkgSZIBZ7oDqBXUo8F2EZcZ80qK4lvvavCN3qpnw9S0ak0Fryyg_GeZr55l5JuvC4-nlHB-j8RDnwhdeAGryhi1BHzly06rWWgIcx59w2npKMKr0H4aV1?encodeFailures=1&amp;amp;width=260&amp;amp;height=237&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mwGWPcutLI__NXjnI8q5KahgjhiPOfwwTBmZDkQII5vn9NDQvQ1WnJoKy0C9S-Axz1C2Ub-aiIpMnvHsYTcwuWS1VJ45r8RiPIFKl5g14OBKE2OZKUsqH3tfocRZsr1qJAMgKlLI_q97deP7noHAgsZA7ctFFGsE_SNTox_9rEtwoLtzDVKl3gpQd7T9-XyRt?encodeFailures=1&amp;amp;width=260&amp;amp;height=237&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Com uma célula selecionada, clique em “Inserir“, no menu superior da planilha:&lt;/p&gt;
 
@@ -36,7 +131,7 @@
 
 &lt;p&gt;Diferença entre imagem vetorizada e não-vetorizada:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mQbOwhOUas3DFq_x5YxAnTOnHuVNJQywpTmgKnuGCQOrVUSZMVTrQ9-lt2mCttuvvtcV2YMPYCokpxnAkUEUyzYzG_ENkfVnqJHhQyriwvMKZu5teQ_3Ae2PPCQ3Hc9AaKp9JzoRou7coOsllI_RFtJoHryjGj5euwr4OonBCSsY2CblVbJBBko7YDTQd59N1?encodeFailures=1&amp;amp;width=640&amp;amp;height=320&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mtJ8Uo0z6Rb9v7GgJaBVEdMxCSwtxUGHc7gT1Old4Rmwp5-GuLzYlOfH6cpImLGNKPbviy2JBAAVZDyW4ANKevEMDbKPC0UnrZ_XIiPLRVXmAOE69b9Pwf7iS_rbCtVdvdw_MoaxRsOyXgHTIPhnhtz2LsMxPh6BQthZDUDk_28Ei0xttyZPPxwyNnBlZNEgk?encodeFailures=1&amp;amp;width=640&amp;amp;height=320&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;porquê-devemos-vetorizar-uma-imagem&quot;&gt;Porquê devemos vetorizar uma imagem?&lt;/h3&gt;
 
@@ -50,7 +145,7 @@
 
 &lt;p&gt;Para vetorizar, você pode usar sua ferramenta favorita de edição, como o &lt;em&gt;Photoshop&lt;/em&gt;, &lt;em&gt;GIMP&lt;/em&gt;, etc. No exemplo a seguir, iremos usar a &lt;strong&gt;ferramenta gratuita&lt;/strong&gt; chamada &lt;a href=&quot;https://photopea.com&quot;&gt;Photopea&lt;/a&gt;. É uma simulação do Adobe Photoshop, e vai atender qualquer usuário iniciante para entender cada ferramenta disponível, porém, por ser gratuita &lt;strong&gt;tem as suas limitações&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4mWretN0Y9Q08F7DjtcWNgnwFAcXsv6hUj1Lt153N3zJoEg38fxbK4Rv3uZyOlQjMLlpLzBPuMu3Du9gWA3Hvt_Rl4JMo3C0MDOmAm974NHBs2ysOb2Bu57sWa_5uRb1VbxhWTPWbjYsQspct9iJVVCaz21G_mNzs6B8uflAychkKBM4poRNBzBW3xIs4IIea2?encodeFailures=1&amp;amp;width=1096&amp;amp;height=621&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://chi01pap001files.storage.live.com/y4maDHnx0p0Oy-ka1v4Itvs_5wt9GtNZwCvAqJyG95YyfjMWKynL42j4pOnTOJF2YjyKeMg_FUBSNmu63mavXb6qBz7aKnGGz-1qjHGkQ2ihn9aYeSsmTzgUf52GDtSW9N-FAChG8NmMbi_K0fiP9jW14h1yTffjGgBMUuNFPQB-mWRzuhifgOYMpn4NUFY6rOr?encodeFailures=1&amp;amp;width=1096&amp;amp;height=621&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Como referência, irei deixar um &lt;strong&gt;link&lt;/strong&gt; abaixo com uma vídeo-aula ensinando a usar a ferramenta &lt;em&gt;Laço Poligonal (Polygonal Lasso)&lt;/em&gt;, onde o autor ensina detalhadamente o passo a passo. Clique na imagem abaixo e seja direcionado para a vídeo-aula!&lt;/p&gt;
 
