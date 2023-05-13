@@ -1,99 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-12T17:51:06-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Laço de Repetição: DO WHILE</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/05/18/laco-de-repeticao-do-while.html" rel="alternate" type="text/html" title="Laço de Repetição: DO WHILE" /><published>2022-05-18T00:00:00-03:00</published><updated>2022-05-18T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/05/18/laco-de-repeticao-do-while</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/05/18/laco-de-repeticao-do-while.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;DO WHILE&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;o-que-é-laço-de-repetição-do-while&quot;&gt;O QUE É LAÇO DE REPETIÇÃO DO WHILE?&lt;/h2&gt;
-
-&lt;p&gt;O laço de repetição &lt;strong&gt;DO WHILE&lt;/strong&gt; é uma estrutura de controle de fluxo em programação que permite a execução repetida de um bloco de código enquanto uma condição é verdadeira. A diferença entre este laço e outros como o &lt;strong&gt;WHILE&lt;/strong&gt; é que o &lt;strong&gt;DO WHILE&lt;/strong&gt; executa o bloco de código pelo menos uma vez, independentemente da condição ser verdadeira ou falsa.&lt;/p&gt;
-
-&lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
-
-&lt;p&gt;A sintaxe básica do DO WHILE é a seguinte:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;do {
-   // código a ser executado
-} while (condição);
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;No exemplo acima, o bloco de código dentro das chaves é executado pelo menos uma vez antes de verificar a condição especificada no final do laço. Se a condição for verdadeira, o bloco de código é executado novamente e o processo continua até que a condição seja falsa.&lt;/p&gt;
-
-&lt;h3 id=&quot;exemplos&quot;&gt;Exemplos&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Exemplo 1:&lt;/strong&gt; Imprimir os números de 1 a 10 usando um laço DO WHILE&lt;/p&gt;
-&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; 
-&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-   &lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-   &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;++;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Exemplo 2:&lt;/strong&gt; Calcular a soma dos números de 1 a 100 usando um laço DO WHILE&lt;/p&gt;
-&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;soma&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-   &lt;span class=&quot;n&quot;&gt;soma&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-   &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;++;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;A soma dos números de 1 a 100 é: &quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;soma&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Exemplo 3:&lt;/strong&gt; Ler uma sequência de números do usuário até que ele digite um número negativo usando um laço DO WHILE&lt;/p&gt;
-&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;Scanner&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;scanner&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Scanner&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;numero&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-   &lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Digite um número: &quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-   &lt;span class=&quot;n&quot;&gt;numero&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;scanner&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;nextInt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;numero&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Você digitou um número negativo. Encerrando o programa.&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
-
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição DO WHILE</summary></entry><entry><title type="html">Função SE</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2022/05/16/funcao-se.html" rel="alternate" type="text/html" title="Função SE" /><published>2022-05-16T00:00:00-03:00</published><updated>2022-05-16T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2022/05/16/funcao-se</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2022/05/16/funcao-se.html">&lt;p&gt;Olá! Hoje vamos falar sobre a função SE do Excel&lt;/p&gt;
-
-&lt;h2 id=&quot;o-que-é-a-função-se&quot;&gt;O QUE É A FUNÇÃO SE?&lt;/h2&gt;
-
-&lt;p&gt;A função SE do Excel é uma função condicional que permite que você especifique uma condição e, com base nessa condição, determine o resultado que será exibido. A sintaxe da função SE é:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;=SE(condição; valor se verdadeiro; valor se falso)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
-
-&lt;p&gt;Por exemplo, se você deseja exibir “Aprovado” se a pontuação de um aluno for maior ou igual a 60 e “Reprovado” se a pontuação for menor que 60, você pode usar a seguinte fórmula:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;=SE(A2&amp;gt;=60;&quot;Aprovado&quot;;&quot;Reprovado&quot;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/e4509ce0f154c4dd22dc71917d298dddadd018f5/_images/20230516/Screenshot_1.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
-
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre a função SE do Excel</summary></entry><entry><title type="html">Trabalhando com Nós</title><link href="http://localhost:4000/blog/design-digital/2022/05/15/trabalhando-com-nos.html" rel="alternate" type="text/html" title="Trabalhando com Nós" /><published>2022-05-15T00:00:00-03:00</published><updated>2022-05-15T00:00:00-03:00</updated><id>http://localhost:4000/blog/design-digital/2022/05/15/trabalhando-com-nos</id><content type="html" xml:base="http://localhost:4000/blog/design-digital/2022/05/15/trabalhando-com-nos.html">&lt;p&gt;Olá! Hoje vamos falar sobre &lt;strong&gt;NÓS&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;o-que-são-nós&quot;&gt;O QUE SÃO NÓS?&lt;/h2&gt;
-
-&lt;p&gt;Nós, no contexto do Photoshop, referem-se a pontos de ancoragem em uma curva de Bezier ou em uma forma vetorial que são usados para controlar a forma e o tamanho da curva.&lt;/p&gt;
-
-&lt;p&gt;Esses nós são representados por pequenos quadrados ou círculos na curva ou forma, e podem ser movidos e ajustados para modificar a curva ou a forma da imagem.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/main/_images/20230515/Screenshot-1.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
-
-&lt;p&gt;Por exemplo, quando se cria uma forma vetorial como um círculo ou um quadrado no Photoshop, é possível ajustar os nós para modificar a forma da figura.&lt;/p&gt;
-
-&lt;p&gt;Outro exemplo seria ao usar a ferramenta de caneta para criar um caminho vetorial. Os nós são usados para controlar a curvatura do caminho e para criar formas complexas, como curvas suaves ou ângulos precisos.&lt;/p&gt;
-
-&lt;p&gt;Em resumo, os nós no Photoshop são elementos importantes para controlar a forma e o tamanho de curvas e formas vetoriais, permitindo aos usuários criar designs e ilustrações precisas e detalhadas.&lt;/p&gt;
-
-&lt;p&gt;Como referência, segue um vídeo simples e objetivo com um exemplo prático de como usar a &lt;strong&gt;Ferramenta de Curvatura&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zHwUcUuCzko&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/HL7GKx7C4lo/0.jpg&quot; alt=&quot;Como usar e CONFIGURAR a Ferramenta de CURVATURA do Photoshop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
-
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="design-digital" /><summary type="html">Olá! Hoje vamos falar sobre NÓS</summary></entry><entry><title type="html">Laço de Repetição: WHILE</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/05/04/laco-de-repeticao-while.html" rel="alternate" type="text/html" title="Laço de Repetição: WHILE" /><published>2022-05-04T00:00:00-03:00</published><updated>2022-05-04T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/05/04/laco-de-repeticao-while</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/05/04/laco-de-repeticao-while.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;WHILE&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-13T00:12:18-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Laço de Repetição: WHILE</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html" rel="alternate" type="text/html" title="Laço de Repetição: WHILE" /><published>2023-05-04T00:00:00-03:00</published><updated>2023-05-04T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/04/laco-de-repeticao-while.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;WHILE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-é-laço-de-repetição-while&quot;&gt;O QUE É LAÇO DE REPETIÇÃO WHILE?&lt;/h2&gt;
 
@@ -114,7 +19,7 @@
 
 &lt;h3 id=&quot;exemplos&quot;&gt;Exemplos&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Exemplo 1:&lt;/strong&gt; Imprimir os números de 1 a 10 usando um laço WHILE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exemplo 1:&lt;/strong&gt; Imprimir os números de 1 a 10 usando um laço &lt;strong&gt;WHILE&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; 
 &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
@@ -123,7 +28,7 @@
 &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;Exemplo 2:&lt;/strong&gt; Calcular a soma dos números de 1 a 100 usando um laço WHILE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exemplo 2:&lt;/strong&gt; Calcular a soma dos números de 1 a 100 usando um laço &lt;strong&gt;WHILE&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;soma&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; 
@@ -134,7 +39,7 @@
 &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;Exemplo 3:&lt;/strong&gt; Ler uma sequência de números do usuário até que ele digite um número negativo usando um laço WHILE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exemplo 3:&lt;/strong&gt; Ler uma sequência de números do usuário até que ele digite um número negativo usando um laço &lt;strong&gt;WHILE&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;Scanner&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;scanner&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Scanner&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
 &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;numero&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;numero&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; 
@@ -145,21 +50,21 @@
 &lt;span class=&quot;nc&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Você digitou um número negativo. Encerrando o programa.&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Lembrando que, em relação ao exemplo 1, é necessário garantir que a variável utilizada para controle do laço seja inicializada antes do início do WHILE. Caso contrário, o bloco de código não será executado nenhuma vez.&lt;/p&gt;
+&lt;p&gt;Lembrando que, em relação ao exemplo 1, é necessário garantir que a variável utilizada para controle do laço seja inicializada antes do início do &lt;strong&gt;WHILE&lt;/strong&gt;. Caso contrário, o bloco de código não será executado nenhuma vez.&lt;/p&gt;
 
 &lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
 
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição WHILE</summary></entry><entry><title type="html">Criação de Formulários (SEM VBA!)</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2022/05/02/criacao-de-formularios.html" rel="alternate" type="text/html" title="Criação de Formulários (SEM VBA!)" /><published>2022-05-02T00:00:00-03:00</published><updated>2022-05-02T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2022/05/02/criacao-de-formularios</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2022/05/02/criacao-de-formularios.html">&lt;p&gt;Olá! Hoje vamos falar sobre criação de formulários, e &lt;strong&gt;pasmem&lt;/strong&gt;, SEM VBA!&lt;/p&gt;
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição WHILE</summary></entry><entry><title type="html">Criação de Formulários (SEM VBA!)</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2023/05/02/criacao-de-formularios.html" rel="alternate" type="text/html" title="Criação de Formulários (SEM VBA!)" /><published>2023-05-02T00:00:00-03:00</published><updated>2023-05-02T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2023/05/02/criacao-de-formularios</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2023/05/02/criacao-de-formularios.html">&lt;p&gt;Olá! Hoje vamos falar sobre criação de formulários, e &lt;strong&gt;pasmem&lt;/strong&gt;, SEM VBA!&lt;/p&gt;
 
 &lt;h2 id=&quot;formulários&quot;&gt;FORMULÁRIOS&lt;/h2&gt;
 
-&lt;p&gt;Os formulários no Excel são uma ferramenta útil para coletar informações de maneira estruturada e organizada. Eles permitem que o usuário crie uma interface amigável e personalizada para inserir dados em uma planilha, facilitando a entrada de informações e minimizando a ocorrência de erros.&lt;/p&gt;
+&lt;p&gt;Os &lt;strong&gt;formulários&lt;/strong&gt; no Excel são uma ferramenta útil para coletar informações de maneira estruturada e organizada. Eles permitem que o usuário crie uma interface amigável e personalizada para inserir dados em uma planilha, facilitando a entrada de informações e minimizando a ocorrência de erros.&lt;/p&gt;
 
-&lt;p&gt;Com um formulário, é possível especificar os campos que devem ser preenchidos e a formatação dos dados. Além disso, os formulários podem ser configurados para incluir validações, como limites de valores ou restrições de formato.&lt;/p&gt;
+&lt;p&gt;Com um formulário, é possível especificar os campos que devem ser preenchidos e a formatação dos dados. Além disso, os &lt;strong&gt;formulários&lt;/strong&gt; podem ser configurados para incluir validações, como limites de valores ou restrições de formato.&lt;/p&gt;
 
-&lt;p&gt;Os formulários podem ser criados manualmente ou com o uso de recursos de automação do Excel, como a ferramenta de criação de formulários. Com essa ferramenta, o Excel gera um formulário automaticamente a partir dos dados já existentes na planilha, facilitando ainda mais a criação de formulários personalizados.&lt;/p&gt;
+&lt;p&gt;Os &lt;strong&gt;formulários&lt;/strong&gt; podem ser criados manualmente ou com o uso de recursos de automação do Excel, como a ferramenta de criação de &lt;strong&gt;formulários&lt;/strong&gt;. Com essa ferramenta, o Excel gera um formulário automaticamente a partir dos dados já existentes na planilha, facilitando ainda mais a criação de &lt;strong&gt;formulários&lt;/strong&gt; personalizados.&lt;/p&gt;
 
-&lt;p&gt;Uma vez que o formulário é criado, os dados inseridos são automaticamente adicionados à planilha, facilitando a organização e análise das informações coletadas.&lt;/p&gt;
+&lt;p&gt;Uma vez que o &lt;strong&gt;formulário&lt;/strong&gt; é criado, os dados inseridos são automaticamente adicionados à planilha, facilitando a organização e análise das informações coletadas.&lt;/p&gt;
 
 &lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
 
@@ -174,15 +79,15 @@
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230502/Screenshot_1.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Após habilitada a opção, irá aparecer um ícone de um formulário bem no topo do seu programa:&lt;/p&gt;
+&lt;p&gt;Após habilitada a opção, irá aparecer um ícone de um &lt;strong&gt;formulário&lt;/strong&gt; bem no topo do seu programa:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230502/Screenshot_2.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Comece seu formulário, informando os campos que irá conter, e depois formatando ele através da aba &lt;strong&gt;Página Inicial&lt;/strong&gt;, e selecionando a opção &lt;strong&gt;Formatar como Tabela&lt;/strong&gt;. Escolha o modelo que mais lhe agrade, e clique sobre a opção:&lt;/p&gt;
+&lt;p&gt;Comece seu &lt;strong&gt;formulário&lt;/strong&gt;, informando os campos que irá conter, e depois formatando ele através da aba &lt;strong&gt;Página Inicial&lt;/strong&gt;, e selecionando a opção &lt;strong&gt;Formatar como Tabela&lt;/strong&gt;. Escolha o modelo que mais lhe agrade, e clique sobre a opção:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230502/Screenshot_3.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Após formatado, selecione a primeira linha (linha 2) de todas as colunas (A, B e C). Após selecionado, clicar no botão &lt;strong&gt;Formulário&lt;/strong&gt;, habilitado anteriormente. Irá aparece uma tela de Novo Registro, onde iremos informar dados para o nosso formulário.&lt;/p&gt;
+&lt;p&gt;Após formatado, selecione a primeira linha (linha 2) de todas as colunas (A, B e C). Após selecionado, clicar no botão &lt;strong&gt;Formulário&lt;/strong&gt;, habilitado anteriormente. Irá aparece uma tela de Novo Registro, onde iremos informar dados para o nosso &lt;strong&gt;formulário&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230502/Screenshot_4.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -190,7 +95,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230502/Screenshot_5.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Também podemos &lt;strong&gt;Excluir&lt;/strong&gt; um registro, onde primeiro teremos que selecionar o registro através das opções &lt;strong&gt;Localizar anterior OU Localizar próxima&lt;/strong&gt;, e dando sequência apertando o botão de exclusão. Após confirmar, o dado informado anteriormente irá sumir do seu formulário.&lt;/p&gt;
+&lt;p&gt;Também podemos &lt;strong&gt;Excluir&lt;/strong&gt; um registro, onde primeiro teremos que selecionar o registro através das opções &lt;strong&gt;Localizar anterior OU Localizar próxima&lt;/strong&gt;, e dando sequência apertando o botão de exclusão. Após confirmar, o dado informado anteriormente irá sumir do seu &lt;strong&gt;formulário&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230502/Screenshot_6.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -198,11 +103,11 @@
 
 &lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
 
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre criação de formulários, e pasmem, SEM VBA!</summary></entry><entry><title type="html">Laço de Repetição: FOR</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/04/27/laco-de-repeticao-for.html" rel="alternate" type="text/html" title="Laço de Repetição: FOR" /><published>2022-04-27T00:00:00-03:00</published><updated>2022-04-27T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/04/27/laco-de-repeticao-for</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2022/04/27/laco-de-repeticao-for.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;FOR&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre criação de formulários, e pasmem, SEM VBA!</summary></entry><entry><title type="html">Laço de Repetição: FOR</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/04/27/laco-de-repeticao-for.html" rel="alternate" type="text/html" title="Laço de Repetição: FOR" /><published>2023-04-27T00:00:00-03:00</published><updated>2023-04-27T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/04/27/laco-de-repeticao-for</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/04/27/laco-de-repeticao-for.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;FOR&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-é-laço-de-repetição-for&quot;&gt;O QUE É LAÇO DE REPETIÇÃO FOR?&lt;/h2&gt;
 
-&lt;p&gt;O laço de repetição &lt;strong&gt;for&lt;/strong&gt; é uma estrutura de controle em programação que permite a execução repetida de um bloco de código por um número conhecido de vezes. Ele é especialmente útil quando &lt;strong&gt;se deseja iterar sobre uma sequência de elementos, como uma lista, tupla ou string&lt;/strong&gt;, executando uma ação para cada item. A sintaxe básica do for consiste em uma variável que assume o valor de cada elemento da sequência em cada iteração, seguida por dois pontos e o bloco de código a ser executado. Ao final de cada iteração, a variável é atualizada para o próximo elemento da sequência até que todos os elementos tenham sido processados.&lt;/p&gt;
+&lt;p&gt;O laço de repetição &lt;strong&gt;FOR&lt;/strong&gt; é uma estrutura de controle em programação que permite a execução repetida de um bloco de código por um número conhecido de vezes. Ele é especialmente útil quando &lt;strong&gt;se deseja iterar sobre uma sequência de elementos, como uma lista, tupla ou string&lt;/strong&gt;, executando uma ação para cada item. A sintaxe básica do &lt;strong&gt;FOR&lt;/strong&gt; consiste em uma variável que assume o valor de cada elemento da sequência em cada iteração, seguida por dois pontos e o bloco de código a ser executado. Ao final de cada iteração, a variável é atualizada para o próximo elemento da sequência até que todos os elementos tenham sido processados.&lt;/p&gt;
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;for (comandos de inicialização;condição de teste;incremento/decremento) 
 { 
@@ -218,13 +123,13 @@
 &lt;ol&gt;
   &lt;li&gt;Executa os comandos de inicialização;&lt;/li&gt;
   &lt;li&gt;Testa a condição;&lt;/li&gt;
-  &lt;li&gt;Se a condição for falsa então executa o comando que está logo após o bloco subordinado ao for .&lt;/li&gt;
-  &lt;li&gt;Se condição for verdadeira então executa os comandos que estão subordinados ao for;&lt;/li&gt;
+  &lt;li&gt;Se a condição for falsa então executa o comando que está logo após o bloco subordinado ao &lt;strong&gt;FOR&lt;/strong&gt; .&lt;/li&gt;
+  &lt;li&gt;Se condição for verdadeira então executa os comandos que estão subordinados ao &lt;strong&gt;FOR&lt;/strong&gt;;&lt;/li&gt;
   &lt;li&gt;Executa os comandos de incremento/decremento;&lt;/li&gt;
   &lt;li&gt;Volta ao passo 2.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;O comando &lt;strong&gt;for&lt;/strong&gt; deve ser usado sempre que:&lt;/p&gt;
+&lt;p&gt;O comando &lt;strong&gt;FOR&lt;/strong&gt; deve ser usado sempre que:&lt;/p&gt;
 
 &lt;p&gt;. soubermos exatamente quantas vezes o laço deve ser repetido;&lt;br /&gt;
 . o teste deva ser feito antes da execução de um bloco de comandos;&lt;br /&gt;
@@ -244,15 +149,15 @@
 
 &lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
 
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição FOR</summary></entry><entry><title type="html">Gerando gráficos em uma planilha</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2022/04/25/gerar-graficos-da-planilha.html" rel="alternate" type="text/html" title="Gerando gráficos em uma planilha" /><published>2022-04-25T00:00:00-03:00</published><updated>2022-04-25T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2022/04/25/gerar-graficos-da-planilha</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2022/04/25/gerar-graficos-da-planilha.html">&lt;p&gt;Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.&lt;/p&gt;
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição FOR</summary></entry><entry><title type="html">Gerando gráficos em uma planilha</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha.html" rel="alternate" type="text/html" title="Gerando gráficos em uma planilha" /><published>2023-04-25T00:00:00-03:00</published><updated>2023-04-25T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha.html">&lt;p&gt;Olá! Hoje vamos falar sobre &lt;strong&gt;gráficos&lt;/strong&gt; em uma planilha Excel.&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-são-gráficos&quot;&gt;O QUE SÃO GRÁFICOS?&lt;/h2&gt;
 
-&lt;p&gt;Gráficos são representações visuais de dados que permitem ao usuário exibir informações de forma clara e concisa. Eles são uma ferramenta essencial para a análise e apresentação de dados em diversas áreas, como negócios, finanças, ciência, engenharia, entre outras.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gráficos&lt;/strong&gt; são representações visuais de dados que permitem ao usuário exibir informações de forma clara e concisa. Eles são uma ferramenta essencial para a análise e apresentação de dados em diversas áreas, como negócios, finanças, ciência, engenharia, entre outras.&lt;/p&gt;
 
-&lt;p&gt;Os gráficos no Excel são criados a partir de dados em planilhas e podem ser personalizados de acordo com as necessidades do usuário. Eles podem ser usados para apresentar tendências, comparar valores, mostrar a distribuição de dados e muito mais.&lt;/p&gt;
+&lt;p&gt;Os &lt;strong&gt;gráficos&lt;/strong&gt; no Excel são criados a partir de dados em planilhas e podem ser personalizados de acordo com as necessidades do usuário. Eles podem ser usados para apresentar tendências, comparar valores, mostrar a distribuição de dados e muito mais.&lt;/p&gt;
 
-&lt;p&gt;Existem vários tipos de gráficos disponíveis no Excel, incluindo gráficos de linhas, colunas, pizza, área, dispersão e radar, entre outros. Cada tipo de gráfico é adequado para diferentes tipos de dados e pode ser personalizado com cores, títulos e legendas para torná-los mais informativos e atraentes.&lt;/p&gt;
+&lt;p&gt;Existem vários tipos de &lt;strong&gt;gráficos&lt;/strong&gt; disponíveis no Excel, incluindo gráficos de linhas, colunas, pizza, área, dispersão e radar, entre outros. Cada tipo de gráfico é adequado para diferentes tipos de dados e pode ser personalizado com cores, títulos e legendas para torná-los mais informativos e atraentes.&lt;/p&gt;
 
 &lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
 
@@ -274,7 +179,7 @@
 
 &lt;p&gt;mario.herrera@etec.sp.gov.br&lt;/p&gt;
 
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.</summary></entry><entry><title type="html">Vetorização de Imagem</title><link href="http://localhost:4000/blog/design-digital/2022/04/17/vetorizacao-de-imagens.html" rel="alternate" type="text/html" title="Vetorização de Imagem" /><published>2022-04-17T00:00:00-03:00</published><updated>2022-04-17T00:00:00-03:00</updated><id>http://localhost:4000/blog/design-digital/2022/04/17/vetorizacao-de-imagens</id><content type="html" xml:base="http://localhost:4000/blog/design-digital/2022/04/17/vetorizacao-de-imagens.html">&lt;p&gt;Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.&lt;/p&gt;
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.</summary></entry><entry><title type="html">Vetorização de Imagem</title><link href="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html" rel="alternate" type="text/html" title="Vetorização de Imagem" /><published>2023-04-17T00:00:00-03:00</published><updated>2023-04-17T00:00:00-03:00</updated><id>http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens</id><content type="html" xml:base="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html">&lt;p&gt;Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-é-vetorização&quot;&gt;O QUE É VETORIZAÇÃO?&lt;/h2&gt;
 
@@ -286,15 +191,15 @@
 
 &lt;h3 id=&quot;porquê-devemos-vetorizar-uma-imagem&quot;&gt;Porquê devemos vetorizar uma imagem?&lt;/h3&gt;
 
-&lt;p&gt;Vetorizar uma imagem significa transformar uma imagem rasterizada (composta por pixels) em uma imagem vetorial (composta por linhas e curvas matemáticas). A vetorização é útil porque as imagens vetoriais são escaláveis sem perda de qualidade, enquanto as imagens rasterizadas tendem a ficar borradas ou pixeladas quando aumentadas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vetorizar&lt;/strong&gt; uma imagem significa transformar uma imagem rasterizada (composta por pixels) em uma imagem vetorial (composta por linhas e curvas matemáticas). A &lt;strong&gt;vetorização&lt;/strong&gt; é útil porque as imagens vetoriais são escaláveis sem perda de qualidade, enquanto as imagens rasterizadas tendem a ficar borradas ou pixeladas quando aumentadas.&lt;/p&gt;
 
 &lt;p&gt;Além disso, as imagens vetoriais são mais fáceis de editar e personalizar, permitindo alterar facilmente o tamanho, cor e forma dos elementos individuais da imagem. Elas também ocupam menos espaço de armazenamento do que as imagens rasterizadas, o que é especialmente importante para imagens usadas em sites ou aplicativos móveis, onde o tamanho do arquivo pode afetar o tempo de carregamento.&lt;/p&gt;
 
-&lt;p&gt;Por essas razões, a vetorização é uma técnica importante para designers gráficos e outros profissionais que trabalham com imagens, e pode ser usada para criar logotipos, ilustrações, gráficos e muito mais.&lt;/p&gt;
+&lt;p&gt;Por essas razões, a &lt;strong&gt;vetorização&lt;/strong&gt; é uma técnica importante para designers gráficos e outros profissionais que trabalham com imagens, e pode ser usada para criar logotipos, ilustrações, gráficos e muito mais.&lt;/p&gt;
 
 &lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
 
-&lt;p&gt;Para vetorizar, você pode usar sua ferramenta favorita de edição, como o &lt;em&gt;Photoshop&lt;/em&gt;, &lt;em&gt;GIMP&lt;/em&gt;, etc. No exemplo a seguir, iremos usar a &lt;strong&gt;ferramenta gratuita&lt;/strong&gt; chamada &lt;a href=&quot;https://photopea.com&quot;&gt;Photopea&lt;/a&gt;. É uma simulação do Adobe Photoshop, e vai atender qualquer usuário iniciante para entender cada ferramenta disponível, porém, por ser gratuita &lt;strong&gt;tem as suas limitações&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Para &lt;strong&gt;vetorizar&lt;/strong&gt;, você pode usar sua ferramenta favorita de edição, como o &lt;em&gt;Photoshop&lt;/em&gt;, &lt;em&gt;GIMP&lt;/em&gt;, etc. No exemplo a seguir, iremos usar a &lt;strong&gt;ferramenta gratuita&lt;/strong&gt; chamada &lt;a href=&quot;https://photopea.com&quot;&gt;Photopea&lt;/a&gt;. É uma simulação do Adobe Photoshop, e vai atender qualquer usuário iniciante para entender cada ferramenta disponível, porém, por ser gratuita &lt;strong&gt;tem as suas limitações&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230417/photopea_example.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 

@@ -1,21 +1,21 @@
 ---
 layout: post
 title: "Gerando gráficos em uma planilha"
-date: 2022-04-25 00:00:00 -0300
+date: 2023-04-25 00:00:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera
 ---
 
-Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.
+Olá! Hoje vamos falar sobre **gráficos** em uma planilha Excel.
 
 ## O QUE SÃO GRÁFICOS?
 
 
-Gráficos são representações visuais de dados que permitem ao usuário exibir informações de forma clara e concisa. Eles são uma ferramenta essencial para a análise e apresentação de dados em diversas áreas, como negócios, finanças, ciência, engenharia, entre outras.
+**Gráficos** são representações visuais de dados que permitem ao usuário exibir informações de forma clara e concisa. Eles são uma ferramenta essencial para a análise e apresentação de dados em diversas áreas, como negócios, finanças, ciência, engenharia, entre outras.
 
-Os gráficos no Excel são criados a partir de dados em planilhas e podem ser personalizados de acordo com as necessidades do usuário. Eles podem ser usados para apresentar tendências, comparar valores, mostrar a distribuição de dados e muito mais.
+Os **gráficos** no Excel são criados a partir de dados em planilhas e podem ser personalizados de acordo com as necessidades do usuário. Eles podem ser usados para apresentar tendências, comparar valores, mostrar a distribuição de dados e muito mais.
 
-Existem vários tipos de gráficos disponíveis no Excel, incluindo gráficos de linhas, colunas, pizza, área, dispersão e radar, entre outros. Cada tipo de gráfico é adequado para diferentes tipos de dados e pode ser personalizado com cores, títulos e legendas para torná-los mais informativos e atraentes.
+Existem vários tipos de **gráficos** disponíveis no Excel, incluindo gráficos de linhas, colunas, pizza, área, dispersão e radar, entre outros. Cada tipo de gráfico é adequado para diferentes tipos de dados e pode ser personalizado com cores, títulos e legendas para torná-los mais informativos e atraentes.
 
 ### Mas e aí, como fazer isso?
 

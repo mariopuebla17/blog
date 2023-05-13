@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vetorização de Imagem"
-date: 2022-04-17 00:00:00 -0300
+date: 2023-04-17 00:00:00 -0300
 categories: design-digital
 author: Escrito por Mario Herrera
 ---
@@ -20,15 +20,15 @@ Diferença entre imagem vetorizada e não-vetorizada:
 
 ### Porquê devemos vetorizar uma imagem?
 
-Vetorizar uma imagem significa transformar uma imagem rasterizada (composta por pixels) em uma imagem vetorial (composta por linhas e curvas matemáticas). A vetorização é útil porque as imagens vetoriais são escaláveis sem perda de qualidade, enquanto as imagens rasterizadas tendem a ficar borradas ou pixeladas quando aumentadas.
+**Vetorizar** uma imagem significa transformar uma imagem rasterizada (composta por pixels) em uma imagem vetorial (composta por linhas e curvas matemáticas). A **vetorização** é útil porque as imagens vetoriais são escaláveis sem perda de qualidade, enquanto as imagens rasterizadas tendem a ficar borradas ou pixeladas quando aumentadas.
 
 Além disso, as imagens vetoriais são mais fáceis de editar e personalizar, permitindo alterar facilmente o tamanho, cor e forma dos elementos individuais da imagem. Elas também ocupam menos espaço de armazenamento do que as imagens rasterizadas, o que é especialmente importante para imagens usadas em sites ou aplicativos móveis, onde o tamanho do arquivo pode afetar o tempo de carregamento.
 
-Por essas razões, a vetorização é uma técnica importante para designers gráficos e outros profissionais que trabalham com imagens, e pode ser usada para criar logotipos, ilustrações, gráficos e muito mais.
+Por essas razões, a **vetorização** é uma técnica importante para designers gráficos e outros profissionais que trabalham com imagens, e pode ser usada para criar logotipos, ilustrações, gráficos e muito mais.
 
 ### Mas e aí, como fazer isso?
 
-Para vetorizar, você pode usar sua ferramenta favorita de edição, como o *Photoshop*, *GIMP*, etc. No exemplo a seguir, iremos usar a **ferramenta gratuita** chamada [Photopea](https://photopea.com). É uma simulação do Adobe Photoshop, e vai atender qualquer usuário iniciante para entender cada ferramenta disponível, porém, por ser gratuita **tem as suas limitações**.
+Para **vetorizar**, você pode usar sua ferramenta favorita de edição, como o *Photoshop*, *GIMP*, etc. No exemplo a seguir, iremos usar a **ferramenta gratuita** chamada [Photopea](https://photopea.com). É uma simulação do Adobe Photoshop, e vai atender qualquer usuário iniciante para entender cada ferramenta disponível, porém, por ser gratuita **tem as suas limitações**.
 
 ![](https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230417/photopea_example.jpg?raw=true)
 

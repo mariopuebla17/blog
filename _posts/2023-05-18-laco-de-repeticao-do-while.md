@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laço de Repetição: DO WHILE"
-date: 2022-05-18 00:00:00 -0300
+date: 2023-05-18 00:00:00 -0300
 categories: desenvolvimento-de-sistemas-1
 author: Escrito por Mario Herrera
 ---
@@ -14,7 +14,7 @@ O laço de repetição **DO WHILE** é uma estrutura de controle de fluxo em pro
 
 ### Mas e aí, como fazer isso?
 
-A sintaxe básica do DO WHILE é a seguinte:
+A sintaxe básica do **DO WHILE** é a seguinte:
 
 ```
 do {
@@ -26,7 +26,7 @@ No exemplo acima, o bloco de código dentro das chaves é executado pelo menos u
 
 ### Exemplos
 
-**Exemplo 1:** Imprimir os números de 1 a 10 usando um laço DO WHILE
+**Exemplo 1:** Imprimir os números de 1 a 10 usando um laço **DO WHILE**
 ```c#
 int i = 1;
 do 
@@ -37,7 +37,7 @@ do
 System.out.println(i);
 ```
 
-**Exemplo 2:** Calcular a soma dos números de 1 a 100 usando um laço DO WHILE
+**Exemplo 2:** Calcular a soma dos números de 1 a 100 usando um laço **DO WHILE**
 ```c#
 int i = 1;
 int soma = 0;
@@ -48,7 +48,7 @@ do {
 System.out.println("A soma dos números de 1 a 100 é: " + soma);
 ```
 
-**Exemplo 3:** Ler uma sequência de números do usuário até que ele digite um número negativo usando um laço DO WHILE
+**Exemplo 3:** Ler uma sequência de números do usuário até que ele digite um número negativo usando um laço **DO WHILE**
 ```c#
 Scanner scanner = new Scanner(System.in);
 int numero;

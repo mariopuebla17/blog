@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laço de Repetição: WHILE"
-date: 2022-05-04 00:00:00 -0300
+date: 2023-05-04 00:00:00 -0300
 categories: desenvolvimento-de-sistemas-1
 author: Escrito por Mario Herrera
 ---
@@ -28,7 +28,7 @@ While (Condição)
 
 ### Exemplos
 
-**Exemplo 1:** Imprimir os números de 1 a 10 usando um laço WHILE
+**Exemplo 1:** Imprimir os números de 1 a 10 usando um laço **WHILE**
 ```java
 int i = 1;
 while (i <= 10) 
@@ -38,7 +38,7 @@ while (i <= 10)
 }
 ```
 
-**Exemplo 2:** Calcular a soma dos números de 1 a 100 usando um laço WHILE
+**Exemplo 2:** Calcular a soma dos números de 1 a 100 usando um laço **WHILE**
 ```java
 int i = 1;
 int soma = 0;
@@ -50,7 +50,7 @@ while (i <= 100)
 }
 ```
 
-**Exemplo 3:** Ler uma sequência de números do usuário até que ele digite um número negativo usando um laço WHILE
+**Exemplo 3:** Ler uma sequência de números do usuário até que ele digite um número negativo usando um laço **WHILE**
 ```java
 Scanner scanner = new Scanner(System.in);
 int numero = 0;
@@ -62,7 +62,7 @@ while (numero >= 0)
 System.out.println("Você digitou um número negativo. Encerrando o programa.");
 ```
 
-Lembrando que, em relação ao exemplo 1, é necessário garantir que a variável utilizada para controle do laço seja inicializada antes do início do WHILE. Caso contrário, o bloco de código não será executado nenhuma vez.
+Lembrando que, em relação ao exemplo 1, é necessário garantir que a variável utilizada para controle do laço seja inicializada antes do início do **WHILE**. Caso contrário, o bloco de código não será executado nenhuma vez.
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
