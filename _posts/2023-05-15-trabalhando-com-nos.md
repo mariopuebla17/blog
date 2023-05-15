@@ -27,7 +27,7 @@ Em resumo, os **nós** no Photoshop são elementos importantes para controlar a 
 
 Como referência, segue um vídeo simples e objetivo com um exemplo prático de como usar a **Ferramenta de Curvatura**
 
-[![Como usar e CONFIGURAR a Ferramenta de CURVATURA do Photoshop](https://img.youtube.com/vi/HL7GKx7C4lo/0.jpg)](https://www.youtube.com/watch?v=zHwUcUuCzko)
+[![Como usar e CONFIGURAR a Ferramenta de CURVATURA do Photoshop](https://img.youtube.com/vi/HL7GKx7C4lo/0.jpg)](https://www.youtube.com/watch?v=HL7GKx7C4lo)
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
