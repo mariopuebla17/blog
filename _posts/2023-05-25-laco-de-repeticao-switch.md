@@ -2,7 +2,7 @@
 layout: post
 title: "Laço de Repetição: SWITCH"
 date: 2023-05-25 00:00:00 -0300
-categories: desenvolvimento-de-sistemas-1
+categories: dsenvolvimento-de-sistemas-1
 author: Escrito por Mario Herrera
 ---
 
@@ -15,7 +15,7 @@ O laço de repetição **switch** é uma estrutura de controle em linguagens de 
 
 ### Mas e aí, como fazer isso?
 
-1. Verificação de dia da semana:
+1\. Verificação de dia da semana:
 
 ```c++
 #include <iostream>
@@ -57,7 +57,7 @@ int main() {
 }
 ```
 
-2. Verificação de mês do ano:
+2\. Verificação de mês do ano:
 
 ```c++
 #include <iostream>
