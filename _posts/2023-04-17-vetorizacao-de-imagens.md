@@ -36,6 +36,7 @@ Como referência, irei deixar um **link** abaixo com uma vídeo-aula ensinando a
 
 [![Tutorial de como vetorizar uma foto ou imagem no Photoshop](https://img.youtube.com/vi/zHwUcUuCzko/0.jpg)](https://www.youtube.com/watch?v=zHwUcUuCzko)
 
+
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé da página!
 
 mario.herrera@etec.sp.gov.br

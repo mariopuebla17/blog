@@ -54,6 +54,7 @@ Neste exemplo, A2 representa as vendas do funcionário e B2 representa a porcent
 
 Esses exemplos mostram como as funções **SE E** e **SE OU** podem ser usadas para realizar testes lógicos com várias condições no Excel.
 
+
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
 
 Valeu!
