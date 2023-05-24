@@ -5,7 +5,7 @@ date: 2023-05-23 00:00:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera
 ---
-
+ 
 Olá! Hoje vamos falar sobre as Funções **SE E** e **SE OU**
 
 ## O QUE É A FUNÇÃO SE E?
