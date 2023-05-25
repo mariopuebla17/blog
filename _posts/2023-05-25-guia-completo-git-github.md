@@ -51,6 +51,8 @@ O Git e o GitHub são ferramentas poderosas para o desenvolvimento de software c
 
 Ao dominar essas ferramentas, você poderá desenvolver projetos de software de forma mais eficiente, colaborar com outros desenvolvedores de maneira harmoniosa e aproveitar todos os benefícios do controle de versão e da hospedagem remota. Portanto, incentive seus alunos a explorarem o Git e o GitHub, pois eles serão ferramentas valiosas em suas carreiras como desenvolvedores.
 
+**Documentação Oficial**: https://comandosgit.github.io/
+
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
 
