@@ -42,7 +42,7 @@ O LinkedIn é uma rede social profissional fundada em 2002 e lançada oficialmen
   - Networking: Participe de eventos, webinars e conferências virtuais relacionadas à sua área de atuação. Essas atividades oferecem a chance de conhecer outros profissionais, trocar experiências e construir relacionamentos valiosos.
   - Aprendizado e desenvolvimento: O LinkedIn oferece uma ampla gama de cursos e recursos de aprendizado para o desenvolvimento profissional. Explore a seção "LinkedIn Learning" para adquirir novas habilidades, acompanhar as últimas tendências e aprimorar seu conhecimento.
 
-**Conclusão**  
+**Conclusão**
 O LinkedIn se estabeleceu como uma plataforma essencial para profissionais em busca de conexões valiosas, oportunidades de carreira e desenvolvimento profissional. Construir um perfil de destaque, expandir sua rede de contatos, utilizar os recursos disponíveis e aproveitar as oportunidades oferecidas pelo LinkedIn são etapas importantes para alcançar sucesso no mundo profissional.
 
 

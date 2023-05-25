@@ -28,21 +28,21 @@ O GitHub é uma plataforma baseada na web que fornece hospedagem para repositór
 
 
 **Principais funcionalidades do Git e do GitHub:**
-1. Controle de Versão
-   1. Com o Git, você pode facilmente rastrear alterações em seu código, criar commits com mensagens descritivas e visualizar o histórico completo das alterações.  
-   2. O GitHub fornece uma interface amigável para navegar por commits, ramificações e tags, facilitando a visualização do progresso do projeto.
+- Controle de Versão
+  -  Com o Git, você pode facilmente rastrear alterações em seu código, criar commits com mensagens descritivas e visualizar o histórico completo das alterações.  
+  -  O GitHub fornece uma interface amigável para navegar por commits, ramificações e tags, facilitando a visualização do progresso do projeto.
 
-2. Colaboração em Equipe
-   1. O Git permite que várias pessoas trabalhem em um mesmo projeto simultaneamente. Cada desenvolvedor pode criar sua própria cópia do repositório (fork), trabalhar em suas próprias branches e depois enviar solicitações de pull para mesclar suas alterações ao projeto principal.
-   2. O GitHub fornece recursos adicionais para facilitar a colaboração em equipe, como rastreamento de problemas, revisão de código, integração com ferramentas de integração contínua e implantação automatizada.
+- Colaboração em Equipe
+  - O Git permite que várias pessoas trabalhem em um mesmo projeto simultaneamente. Cada desenvolvedor pode criar sua própria cópia do repositório (fork), trabalhar em suas próprias branches e depois enviar solicitações de pull para mesclar suas alterações ao projeto principal.
+  - O GitHub fornece recursos adicionais para facilitar a colaboração em equipe, como rastreamento de problemas, revisão de código, integração com ferramentas de integração contínua e implantação automatizada.
 
-3. Hospedagem Remota
-   1. Com o GitHub, você pode armazenar seus repositórios de forma remota, eliminando a necessidade de configurar e manter seus próprios servidores.
-   2. O GitHub também oferece a possibilidade de tornar seus repositórios públicos ou privados, permitindo que você escolha quem pode visualizar e contribuir para seus projetos.
+- Hospedagem Remota
+  - Com o GitHub, você pode armazenar seus repositórios de forma remota, eliminando a necessidade de configurar e manter seus próprios servidores.
+  - O GitHub também oferece a possibilidade de tornar seus repositórios públicos ou privados, permitindo que você escolha quem pode visualizar e contribuir para seus projetos.
 
-4. Integração Contínua:
-   1. O GitHub suporta integração contínua, permitindo que você configure fluxos de trabalho automatizados para compilar, testar e implantar seu código quando alterações são enviadas para o repositório.
-   2. Isso facilita a detecção precoce de problemas e garante que seu código esteja sempre em um estado utilizável.
+- Integração Contínua:
+  - O GitHub suporta integração contínua, permitindo que você configure fluxos de trabalho automatizados para compilar, testar e implantar seu código quando alterações são enviadas para o repositório.
+  - Isso facilita a detecção precoce de problemas e garante que seu código esteja sempre em um estado utilizável.
 
 
 **Conclusão**
