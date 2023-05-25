@@ -53,10 +53,10 @@ Ao dominar essas ferramentas, você poderá desenvolver projetos de software de 
 
 **Documentação Oficial**: https://comandosgit.github.io/
 
-**Links de cursos GRATUITOS e de QUALIDADE**:
-https://www.udemy.com/course/git-e-github-para-iniciantes/
-https://www.cursoemvideo.com/curso/curso-de-git-e-github/
-https://cursa.com.br/home/course/curso-gratuito-git-e-github/95
+**Links de cursos GRATUITOS e de QUALIDADE**:  
+https://www.udemy.com/course/git-e-github-para-iniciantes/  
+https://www.cursoemvideo.com/curso/curso-de-git-e-github/  
+https://cursa.com.br/home/course/curso-gratuito-git-e-github/95  
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
