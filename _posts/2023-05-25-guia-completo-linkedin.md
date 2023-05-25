@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "O GUIA COMPLETO: Linkedin"
+title: "O GUIA COMPLETO: LinkedIn"
 date: 2023-05-25 00:00:00 -0300
 categories: guia-completo
 author: Escrito por Mario Herrera
