@@ -45,10 +45,7 @@ O GitHub é uma plataforma baseada na web que fornece hospedagem para repositór
   - Isso facilita a detecção precoce de problemas e garante que seu código esteja sempre em um estado utilizável.
 
 
-**Conclusão**
-
-O Git e o GitHub são ferramentas poderosas para o desenvolvimento de software colaborativo e o gerenciamento eficiente de projetos. Neste artigo, exploramos os conceitos básicos do Git e do GitHub, destacando suas principais funcionalidades. Com o Git, você pode controlar versões, criar branches e reverter alterações com facilidade. Já o GitHub oferece recursos adicionais, como hospedagem remota, colaboração em equipe e integração contínua.
-
+**Conclusão**: O Git e o GitHub são ferramentas poderosas para o desenvolvimento de software colaborativo e o gerenciamento eficiente de projetos. Neste artigo, exploramos os conceitos básicos do Git e do GitHub, destacando suas principais funcionalidades. Com o Git, você pode controlar versões, criar branches e reverter alterações com facilidade. Já o GitHub oferece recursos adicionais, como hospedagem remota, colaboração em equipe e integração contínua.  
 Ao dominar essas ferramentas, você poderá desenvolver projetos de software de forma mais eficiente, colaborar com outros desenvolvedores de maneira harmoniosa e aproveitar todos os benefícios do controle de versão e da hospedagem remota. 
 
 **Documentação Oficial**: https://comandosgit.github.io/
