@@ -16,14 +16,14 @@ A função SE E (AND) é usada para verificar se todas as condições especifica
 ### Mas e aí, como fazer isso?
 
 ```
-=SE(E(condição1; condição2; ...); valor_se_verdadeiro; valor_se_falso)
+=SE(E(condição1;condição2;...);valor_se_verdadeiro;valor_se_falso)
 ```
 
 **Exemplo**  
 Suponha que você deseje verificar se um aluno obteve notas acima de 70 em todas as disciplinas. Se todas as notas forem maiores que 70, você quer exibir "Aprovado", caso contrário, exibir "Reprovado". A fórmula seria:
 
 ```
-=SE(E(A2 > 70; B2 > 70; C2 > 70); "Aprovado"; "Reprovado")
+=SE(E(A2>70;B2>70;C2>70);"Aprovado";"Reprovado")
 ```
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/20230523/Screenshot_1.jpg?raw=true)
@@ -38,14 +38,14 @@ A função SE OU (OR) é usada para verificar se pelo menos uma das condições 
 ### Mas e aí, como fazer isso?
 
 ```
-=SE(OU(condição1; condição2; ...); valor_se_verdadeiro; valor_se_falso)
+=SE(OU(condição1;condição2;...);valor_se_verdadeiro;valor_se_falso)
 ```
 
 **Exemplo**  
 Digamos que você queira verificar se um funcionário está qualificado para receber um bônus com base em seu desempenho. Se ele atingir a meta de vendas ou exceder a meta de satisfação do cliente, você deseja conceder o bônus. A fórmula seria:
 
 ```
-=SE(OU(B6 >= 1000; B7 > 90%); "Bônus concedido"; "Sem bônus")
+=SE(OU(B6>=1000;B7>90%);"Bônus concedido";"Sem bônus")
 ```
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/20230523/Screenshot_2.jpg?raw=true)
