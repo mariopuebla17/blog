@@ -45,6 +45,10 @@ O LinkedIn é uma rede social profissional fundada em 2002 e lançada oficialmen
 **Conclusão**: O LinkedIn se estabeleceu como uma plataforma essencial para profissionais em busca de conexões valiosas, oportunidades de carreira e desenvolvimento profissional. Construir um perfil de destaque, expandir sua rede de contatos, utilizar os recursos disponíveis e aproveitar as oportunidades oferecidas pelo LinkedIn são etapas importantes para alcançar sucesso no mundo profissional.
 
 
+**Links de cursos GRATUITOS e de QUALIDADE**:  
+https://www.udemy.com/course/curso-completo-de-linkedin-wmazza/
+
+
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
 
 Valeu!
