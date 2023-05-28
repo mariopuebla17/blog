@@ -1,4 +1,219 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-17T23:01:15-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Função SE</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2023/05/16/funcao-se.html" rel="alternate" type="text/html" title="Função SE" /><published>2023-05-16T00:00:00-03:00</published><updated>2023-05-16T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2023/05/16/funcao-se</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2023/05/16/funcao-se.html">&lt;p&gt;Olá! Hoje vamos falar sobre a função &lt;strong&gt;SE&lt;/strong&gt; do Excel&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-28T13:50:52-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">O GUIA COMPLETO: Git e Github</title><link href="http://localhost:4000/blog/guia-completo/2023/05/25/guia-completo-git-github.html" rel="alternate" type="text/html" title="O GUIA COMPLETO: Git e Github" /><published>2023-05-25T00:00:00-03:00</published><updated>2023-05-25T00:00:00-03:00</updated><id>http://localhost:4000/blog/guia-completo/2023/05/25/guia-completo-git-github</id><content type="html" xml:base="http://localhost:4000/blog/guia-completo/2023/05/25/guia-completo-git-github.html">&lt;h2 id=&quot;um-guia-completo-para-git-e-github-gerenciando-projetos-e-colaboração-eficiente&quot;&gt;Um Guia Completo para Git e GitHub: Gerenciando Projetos e Colaboração Eficiente&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/main/_images/20230525/git-github.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O Git e o GitHub são ferramentas essenciais para desenvolvedores de software, pois simplificam o controle de versão, a colaboração em equipe e o compartilhamento de código. Neste artigo, vamos explorar o que é o Git e o GitHub, suas principais funcionalidades e como você pode utilizá-los de forma eficiente em seus projetos.Vamos começar!&lt;/p&gt;
+
+&lt;h3 id=&quot;o-que-é-o-git&quot;&gt;O que é o Git?&lt;/h3&gt;
+
+&lt;p&gt;O Git é um sistema de controle de versão distribuído amplamente utilizado. Ele permite que você acompanhe as alterações feitas em arquivos e diretórios ao longo do tempo, mantendo um histórico completo das revisões. Com o Git, você pode criar branches (ramificações) para trabalhar em diferentes recursos ou correções de bugs independentes, e depois mesclá-los ao branch principal quando estiverem prontos.&lt;/p&gt;
+
+&lt;p&gt;Além disso, o Git permite que você reverta facilmente para versões anteriores de seu código, compare alterações entre versões e gerencie conflitos de mesclagem quando várias pessoas estão trabalhando no mesmo arquivo simultaneamente. Ele é uma ferramenta poderosa para o desenvolvimento de software colaborativo e para o rastreamento de mudanças em seu projeto.&lt;/p&gt;
+
+&lt;h3 id=&quot;o-que-é-o-github&quot;&gt;O que é o GitHub?&lt;/h3&gt;
+
+&lt;p&gt;O GitHub é uma plataforma baseada na web que fornece hospedagem para repositórios Git e oferece uma série de recursos adicionais para facilitar a colaboração em equipe. Ele permite que você armazene seus projetos Git de forma remota e compartilhe-os com outras pessoas. O GitHub torna o processo de colaboração mais eficiente, oferecendo recursos como controle de acesso, rastreamento de problemas (issues), solicitações de pull (pull requests), integração contínua e muito mais.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/main/_images/20230525/git-notequal-github.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Principais funcionalidades do Git e do GitHub:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Controle de Versão
+    &lt;ul&gt;
+      &lt;li&gt;Com o Git, você pode facilmente rastrear alterações em seu código, criar commits com mensagens descritivas e visualizar o histórico completo das alterações.&lt;/li&gt;
+      &lt;li&gt;O GitHub fornece uma interface amigável para navegar por commits, ramificações e tags, facilitando a visualização do progresso do projeto.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Colaboração em Equipe
+    &lt;ul&gt;
+      &lt;li&gt;O Git permite que várias pessoas trabalhem em um mesmo projeto simultaneamente. Cada desenvolvedor pode criar sua própria cópia do repositório (fork), trabalhar em suas próprias branches e depois enviar solicitações de pull para mesclar suas alterações ao projeto principal.&lt;/li&gt;
+      &lt;li&gt;O GitHub fornece recursos adicionais para facilitar a colaboração em equipe, como rastreamento de problemas, revisão de código, integração com ferramentas de integração contínua e implantação automatizada.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hospedagem Remota
+    &lt;ul&gt;
+      &lt;li&gt;Com o GitHub, você pode armazenar seus repositórios de forma remota, eliminando a necessidade de configurar e manter seus próprios servidores.&lt;/li&gt;
+      &lt;li&gt;O GitHub também oferece a possibilidade de tornar seus repositórios públicos ou privados, permitindo que você escolha quem pode visualizar e contribuir para seus projetos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Integração Contínua:
+    &lt;ul&gt;
+      &lt;li&gt;O GitHub suporta integração contínua, permitindo que você configure fluxos de trabalho automatizados para compilar, testar e implantar seu código quando alterações são enviadas para o repositório.&lt;/li&gt;
+      &lt;li&gt;Isso facilita a detecção precoce de problemas e garante que seu código esteja sempre em um estado utilizável.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusão&lt;/strong&gt;: O Git e o GitHub são ferramentas poderosas para o desenvolvimento de software colaborativo e o gerenciamento eficiente de projetos. Neste artigo, exploramos os conceitos básicos do Git e do GitHub, destacando suas principais funcionalidades. Com o Git, você pode controlar versões, criar branches e reverter alterações com facilidade. Já o GitHub oferece recursos adicionais, como hospedagem remota, colaboração em equipe e integração contínua.&lt;br /&gt;
+Ao dominar essas ferramentas, você poderá desenvolver projetos de software de forma mais eficiente, colaborar com outros desenvolvedores de maneira harmoniosa e aproveitar todos os benefícios do controle de versão e da hospedagem remota.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Documentação Oficial&lt;/strong&gt;: https://comandosgit.github.io/&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Links de cursos GRATUITOS e de QUALIDADE&lt;/strong&gt;:&lt;br /&gt;
+https://www.udemy.com/course/git-e-github-para-iniciantes/&lt;br /&gt;
+https://www.cursoemvideo.com/curso/curso-de-git-e-github/&lt;br /&gt;
+https://cursa.com.br/home/course/curso-gratuito-git-e-github/95&lt;/p&gt;
+
+&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
+
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="guia-completo" /><summary type="html">Um Guia Completo para Git e GitHub: Gerenciando Projetos e Colaboração Eficiente</summary></entry><entry><title type="html">O GUIA COMPLETO: LinkedIn</title><link href="http://localhost:4000/blog/guia-completo/2023/05/25/guia-completo-linkedin.html" rel="alternate" type="text/html" title="O GUIA COMPLETO: LinkedIn" /><published>2023-05-25T00:00:00-03:00</published><updated>2023-05-25T00:00:00-03:00</updated><id>http://localhost:4000/blog/guia-completo/2023/05/25/guia-completo-linkedin</id><content type="html" xml:base="http://localhost:4000/blog/guia-completo/2023/05/25/guia-completo-linkedin.html">&lt;h2 id=&quot;linkedin-a-plataforma-profissional-de-destaque-para-conexões-e-oportunidades&quot;&gt;LinkedIn: A Plataforma Profissional de Destaque para Conexões e Oportunidades&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/main/_images/20230525/linkedin.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O mundo está cada vez mais conectado digitalmente, e essa realidade trouxe consigo uma mudança significativa na forma como as pessoas se relacionam profissionalmente. Nesse contexto, o LinkedIn se destaca como uma das maiores e mais importantes redes sociais voltadas para o mundo dos negócios. Com mais de 740 milhões de usuários em mais de 200 países, essa plataforma oferece uma gama de recursos e oportunidades únicas para profissionais de todas as áreas. Neste artigo, exploraremos os principais aspectos do LinkedIn, sua importância e como utilizá-lo de forma eficaz para a construção de conexões profissionais e a busca de oportunidades.&lt;/p&gt;
+
+&lt;h3 id=&quot;o-que-é-o-linkedin-e-por-que-ele-é-importante&quot;&gt;O que é o LinkedIn e por que ele é importante?&lt;/h3&gt;
+
+&lt;p&gt;O LinkedIn é uma rede social profissional fundada em 2002 e lançada oficialmente em 2003. Diferente de outras redes sociais, como o Facebook e o Instagram, o LinkedIn foi projetado exclusivamente para fins profissionais, permitindo que os usuários criem um perfil que se assemelha a um currículo online. Essa plataforma tem se tornado essencial para profissionais e empresas, pois oferece uma maneira poderosa de construir conexões, estabelecer uma presença profissional online e explorar oportunidades de carreira.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Construindo um perfil de destaque&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Um perfil bem construído é essencial para atrair conexões e oportunidades no LinkedIn.
+    &lt;ul&gt;
+      &lt;li&gt;Comece adicionando uma foto profissional e uma descrição clara de suas experiências, habilidades e objetivos profissionais.&lt;/li&gt;
+      &lt;li&gt;É importante destacar suas realizações e resultados relevantes.&lt;/li&gt;
+      &lt;li&gt;Além disso, inclua informações sobre sua formação acadêmica, histórico de empregos, certificações e habilidades.&lt;/li&gt;
+      &lt;li&gt;Utilize palavras-chave relevantes para melhorar a visibilidade do seu perfil nos resultados de busca.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Expandindo sua rede de contatos&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Uma das principais vantagens do LinkedIn é a oportunidade de expandir sua rede de contatos profissionais.
+    &lt;ul&gt;
+      &lt;li&gt;Comece conectando-se com colegas de trabalho, ex-alunos, professores e outros profissionais do seu campo de atuação.&lt;/li&gt;
+      &lt;li&gt;Participar de grupos relacionados à sua área de interesse também é uma excelente forma de estabelecer conexões relevantes e participar de discussões.&lt;/li&gt;
+      &lt;li&gt;Lembre-se de personalizar suas solicitações de conexão, explicando o motivo pelo qual deseja se conectar com aquela pessoa específica.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Utilizando os recursos do LinkedIn&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;O LinkedIn oferece diversos recursos poderosos para aprimorar sua presença profissional e aproveitar as oportunidades. Alguns dos recursos mais relevantes incluem:
+    &lt;ul&gt;
+      &lt;li&gt;Publicações e compartilhamentos: Compartilhe artigos, insights e atualizações relevantes para sua área de atuação. Isso demonstra seu conhecimento e expertise, além de aumentar sua visibilidade para outros profissionais.&lt;/li&gt;
+      &lt;li&gt;Recomendações e depoimentos: Peça recomendações a colegas de trabalho, supervisores e clientes satisfeitos. Essas recomendações podem destacar suas habilidades e conquistas, aumentando sua credibilidade perante potenciais empregadores e clientes.&lt;/li&gt;
+      &lt;li&gt;Páginas de empresas: Caso você possua um negócio ou faça parte de uma empresa, é importante criar e atualizar a página da empresa no LinkedIn. Isso permite que você compartilhe informações sobre a empresa, publique vagas de emprego e conecte-se com clientes e parceiros em potencial.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Aproveitando as oportunidades&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;O LinkedIn oferece uma variedade de oportunidades para profissionais que desejam avançar em suas carreiras. Alguns dos recursos mais relevantes são:
+    &lt;ul&gt;
+      &lt;li&gt;Busca de empregos: Utilize a ferramenta de busca de empregos do LinkedIn para encontrar oportunidades alinhadas aos seus interesses e experiências. Personalize suas buscas, filtre os resultados e candidate-se diretamente pela plataforma.&lt;/li&gt;
+      &lt;li&gt;Networking: Participe de eventos, webinars e conferências virtuais relacionadas à sua área de atuação. Essas atividades oferecem a chance de conhecer outros profissionais, trocar experiências e construir relacionamentos valiosos.&lt;/li&gt;
+      &lt;li&gt;Aprendizado e desenvolvimento: O LinkedIn oferece uma ampla gama de cursos e recursos de aprendizado para o desenvolvimento profissional. Explore a seção “LinkedIn Learning” para adquirir novas habilidades, acompanhar as últimas tendências e aprimorar seu conhecimento.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusão&lt;/strong&gt;: O LinkedIn se estabeleceu como uma plataforma essencial para profissionais em busca de conexões valiosas, oportunidades de carreira e desenvolvimento profissional. Construir um perfil de destaque, expandir sua rede de contatos, utilizar os recursos disponíveis e aproveitar as oportunidades oferecidas pelo LinkedIn são etapas importantes para alcançar sucesso no mundo profissional.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Links de cursos GRATUITOS e de QUALIDADE&lt;/strong&gt;:&lt;br /&gt;
+https://www.udemy.com/course/curso-completo-de-linkedin-wmazza/&lt;/p&gt;
+
+&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
+
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="guia-completo" /><summary type="html">LinkedIn: A Plataforma Profissional de Destaque para Conexões e Oportunidades</summary></entry><entry><title type="html">Funções SE E e SE OU</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2023/05/23/funcao-se-e-se-ou.html" rel="alternate" type="text/html" title="Funções SE E e SE OU" /><published>2023-05-23T00:00:00-03:00</published><updated>2023-05-23T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2023/05/23/funcao-se-e-se-ou</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2023/05/23/funcao-se-e-se-ou.html">&lt;p&gt;Olá! Hoje vamos falar sobre as Funções &lt;strong&gt;SE E&lt;/strong&gt; e &lt;strong&gt;SE OU&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;o-que-é-a-função-se-e&quot;&gt;O QUE É A FUNÇÃO SE E?&lt;/h2&gt;
+
+&lt;p&gt;A função SE E (AND) é usada para verificar se todas as condições especificadas são verdadeiras. Ela retorna VERDADEIRO se todas as condições forem verdadeiras e FALSO se pelo menos uma das condições for falsa.&lt;/p&gt;
+
+&lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;=SE(E(condição1;condição2;...);valor_se_verdadeiro;valor_se_falso)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Exemplo&lt;/strong&gt;&lt;br /&gt;
+Suponha que você deseje verificar se um aluno obteve notas acima de 70 em todas as disciplinas. Se todas as notas forem maiores que 70, você quer exibir “Aprovado”, caso contrário, exibir “Reprovado”. A fórmula seria:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;=SE(E(A2&amp;gt;70;B2&amp;gt;70;C2&amp;gt;70);&quot;Aprovado&quot;;&quot;Reprovado&quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/main/_images/20230523/Screenshot_1.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Neste exemplo, as células A2, B2 e C2 contêm as notas nas três disciplinas.&lt;/p&gt;
+
+&lt;h2 id=&quot;o-que-é-a-função-se-ou&quot;&gt;O QUE É A FUNÇÃO SE OU?&lt;/h2&gt;
+
+&lt;p&gt;A função SE OU (OR) é usada para verificar se pelo menos uma das condições especificadas é verdadeira. Ela retorna VERDADEIRO se pelo menos uma das condições for verdadeira e FALSO se todas as condições forem falsas.&lt;/p&gt;
+
+&lt;h3 id=&quot;mas-e-aí-como-fazer-isso-1&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;=SE(OU(condição1;condição2;...);valor_se_verdadeiro;valor_se_falso)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Exemplo&lt;/strong&gt;&lt;br /&gt;
+Digamos que você queira verificar se um funcionário está qualificado para receber um bônus com base em seu desempenho. Se ele atingir a meta de vendas ou exceder a meta de satisfação do cliente, você deseja conceder o bônus. A fórmula seria:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;=SE(OU(B6&amp;gt;=1000;B7&amp;gt;90%);&quot;Bônus concedido&quot;;&quot;Sem bônus&quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/main/_images/20230523/Screenshot_2.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Neste exemplo, A2 representa as vendas do funcionário e B2 representa a porcentagem de satisfação do cliente.&lt;/p&gt;
+
+&lt;p&gt;Esses exemplos mostram como as funções &lt;strong&gt;SE E&lt;/strong&gt; e &lt;strong&gt;SE OU&lt;/strong&gt; podem ser usadas para realizar testes lógicos com várias condições no Excel.&lt;/p&gt;
+
+&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
+
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre as Funções SE E e SE OU</summary></entry><entry><title type="html">Laço de Repetição: DO WHILE</title><link href="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/18/laco-de-repeticao-do-while.html" rel="alternate" type="text/html" title="Laço de Repetição: DO WHILE" /><published>2023-05-18T00:00:00-03:00</published><updated>2023-05-18T00:00:00-03:00</updated><id>http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/18/laco-de-repeticao-do-while</id><content type="html" xml:base="http://localhost:4000/blog/desenvolvimento-de-sistemas-1/2023/05/18/laco-de-repeticao-do-while.html">&lt;p&gt;Olá! Hoje vamos falar sobre o laço de repetição &lt;strong&gt;DO WHILE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;o-que-é-laço-de-repetição-do-while&quot;&gt;O QUE É LAÇO DE REPETIÇÃO DO WHILE?&lt;/h2&gt;
+
+&lt;p&gt;O laço de repetição &lt;strong&gt;DO WHILE&lt;/strong&gt; é uma estrutura de controle de fluxo em programação que permite a execução repetida de um bloco de código enquanto uma condição é verdadeira. A diferença entre este laço e outros como o &lt;strong&gt;WHILE&lt;/strong&gt; é que o &lt;strong&gt;DO WHILE&lt;/strong&gt; executa o bloco de código pelo menos uma vez, independentemente da condição ser verdadeira ou falsa.&lt;/p&gt;
+
+&lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
+
+&lt;p&gt;A sintaxe básica do &lt;strong&gt;DO WHILE&lt;/strong&gt; é a seguinte:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;do {
+   // código a ser executado
+} while (condição);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;No exemplo acima, o bloco de código dentro das chaves é executado pelo menos uma vez antes de verificar a condição especificada no final do laço. Se a condição for verdadeira, o bloco de código é executado novamente e o processo continua até que a condição seja falsa.&lt;/p&gt;
+
+&lt;h3 id=&quot;exemplos&quot;&gt;Exemplos&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Exemplo 1:&lt;/strong&gt; Imprimir os números de 1 a 10 usando um laço &lt;strong&gt;DO WHILE&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; 
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+   &lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+   &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;++;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Exemplo 2:&lt;/strong&gt; Calcular a soma dos números de 1 a 100 usando um laço &lt;strong&gt;DO WHILE&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;soma&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+   &lt;span class=&quot;n&quot;&gt;soma&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;++;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;A soma dos números de 1 a 100 é: &quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;soma&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Exemplo 3:&lt;/strong&gt; Ler uma sequência de números do usuário até que ele digite um número negativo usando um laço &lt;strong&gt;DO WHILE&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;Scanner&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;scanner&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Scanner&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;numero&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+   &lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Digite um número: &quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+   &lt;span class=&quot;n&quot;&gt;numero&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;scanner&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;nextInt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;numero&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Você digitou um número negativo. Encerrando o programa.&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
+
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição DO WHILE</summary></entry><entry><title type="html">Função SE</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2023/05/16/funcao-se.html" rel="alternate" type="text/html" title="Função SE" /><published>2023-05-16T00:00:00-03:00</published><updated>2023-05-16T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2023/05/16/funcao-se</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2023/05/16/funcao-se.html">&lt;p&gt;Olá! Hoje vamos falar sobre a função &lt;strong&gt;SE&lt;/strong&gt; do Excel&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-é-a-função-se&quot;&gt;O QUE É A FUNÇÃO SE?&lt;/h2&gt;
 
@@ -224,36 +439,4 @@
 
 &lt;p&gt;mario.herrera@etec.sp.gov.br&lt;/p&gt;
 
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.</summary></entry><entry><title type="html">Vetorização de Imagem</title><link href="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html" rel="alternate" type="text/html" title="Vetorização de Imagem" /><published>2023-04-17T00:00:00-03:00</published><updated>2023-04-17T00:00:00-03:00</updated><id>http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens</id><content type="html" xml:base="http://localhost:4000/blog/design-digital/2023/04/17/vetorizacao-de-imagens.html">&lt;p&gt;Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.&lt;/p&gt;
-
-&lt;h2 id=&quot;o-que-é-vetorização&quot;&gt;O QUE É VETORIZAÇÃO?&lt;/h2&gt;
-
-&lt;p&gt;De uma forma bem direta, &lt;strong&gt;vetorizar&lt;/strong&gt; é uma forma de transformar os pixels de uma imagem em curvas, linhas e pontos, com a possibilidade de modificar seus elementos separadamente.&lt;/p&gt;
-
-&lt;p&gt;Diferença entre imagem vetorizada e não-vetorizada:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230417/logotipos-vetorizados.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;porquê-devemos-vetorizar-uma-imagem&quot;&gt;Porquê devemos vetorizar uma imagem?&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Vetorizar&lt;/strong&gt; uma imagem significa transformar uma imagem rasterizada (composta por pixels) em uma imagem vetorial (composta por linhas e curvas matemáticas). A &lt;strong&gt;vetorização&lt;/strong&gt; é útil porque as imagens vetoriais são escaláveis sem perda de qualidade, enquanto as imagens rasterizadas tendem a ficar borradas ou pixeladas quando aumentadas.&lt;/p&gt;
-
-&lt;p&gt;Além disso, as imagens vetoriais são mais fáceis de editar e personalizar, permitindo alterar facilmente o tamanho, cor e forma dos elementos individuais da imagem. Elas também ocupam menos espaço de armazenamento do que as imagens rasterizadas, o que é especialmente importante para imagens usadas em sites ou aplicativos móveis, onde o tamanho do arquivo pode afetar o tempo de carregamento.&lt;/p&gt;
-
-&lt;p&gt;Por essas razões, a &lt;strong&gt;vetorização&lt;/strong&gt; é uma técnica importante para designers gráficos e outros profissionais que trabalham com imagens, e pode ser usada para criar logotipos, ilustrações, gráficos e muito mais.&lt;/p&gt;
-
-&lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
-
-&lt;p&gt;Para &lt;strong&gt;vetorizar&lt;/strong&gt;, você pode usar sua ferramenta favorita de edição, como o &lt;em&gt;Photoshop&lt;/em&gt;, &lt;em&gt;GIMP&lt;/em&gt;, etc. No exemplo a seguir, iremos usar a &lt;strong&gt;ferramenta gratuita&lt;/strong&gt; chamada &lt;a href=&quot;https://photopea.com&quot;&gt;Photopea&lt;/a&gt;. É uma simulação do Adobe Photoshop, e vai atender qualquer usuário iniciante para entender cada ferramenta disponível, porém, por ser gratuita &lt;strong&gt;tem as suas limitações&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230417/photopea_example.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Como referência, irei deixar um &lt;strong&gt;link&lt;/strong&gt; abaixo com uma vídeo-aula ensinando a usar a ferramenta &lt;em&gt;Laço Poligonal (Polygonal Lasso)&lt;/em&gt;, onde o autor ensina detalhadamente o passo a passo. Clique na imagem abaixo e seja direcionado para a vídeo-aula!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zHwUcUuCzko&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/zHwUcUuCzko/0.jpg&quot; alt=&quot;Tutorial de como vetorizar uma foto ou imagem no Photoshop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé da página!&lt;/p&gt;
-
-&lt;p&gt;mario.herrera@etec.sp.gov.br&lt;/p&gt;
-
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="design-digital" /><summary type="html">Olá! Hoje vamos falar sobre imagens vetorizadas no Photoshop.</summary></entry></feed>
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.</summary></entry></feed>
