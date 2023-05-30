@@ -5,7 +5,7 @@ date: 2023-05-30 00:00:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera
 ---
-
+ 
 Olá! Hoje vamos falar sobre a função **SOMASE** do Excel
 
 ## O QUE É A FUNÇÃO SOMASE?
