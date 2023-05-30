@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-28T13:52:25-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">O GUIA COMPLETO: Git e Github</title><link href="http://localhost:4000/blog/guia-completo/2023/05/25/guia-completo-git-github.html" rel="alternate" type="text/html" title="O GUIA COMPLETO: Git e Github" /><published>2023-05-25T00:00:00-03:00</published><updated>2023-05-25T00:00:00-03:00</updated><id>http://localhost:4000/blog/guia-completo/2023/05/25/guia-completo-git-github</id><content type="html" xml:base="http://localhost:4000/blog/guia-completo/2023/05/25/guia-completo-git-github.html">&lt;h2 id=&quot;um-guia-completo-para-git-e-github-gerenciando-projetos-e-colaboração-eficiente&quot;&gt;Um Guia Completo para Git e GitHub: Gerenciando Projetos e Colaboração Eficiente&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-30T11:01:21-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog do Prof. Mario</title><entry><title type="html">Função SOMASE</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2023/05/30/funcao-somase.html" rel="alternate" type="text/html" title="Função SOMASE" /><published>2023-05-30T00:00:00-03:00</published><updated>2023-05-30T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2023/05/30/funcao-somase</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2023/05/30/funcao-somase.html">&lt;p&gt;Olá! Hoje vamos falar sobre a função &lt;strong&gt;SOMASE&lt;/strong&gt; do Excel&lt;/p&gt;
+
+&lt;h2 id=&quot;o-que-é-a-função-somase&quot;&gt;O QUE É A FUNÇÃO SOMASE?&lt;/h2&gt;
+
+&lt;p&gt;A função &lt;strong&gt;SOMASE&lt;/strong&gt; no Excel é uma função de planilha que permite somar os valores de um intervalo específico com base em um ou mais critérios. Ela é extremamente útil quando você precisa realizar cálculos condicionais, onde apenas as células que atendem a certas condições são incluídas na soma total.&lt;/p&gt;
+
+&lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
+
+&lt;p&gt;A sintaxe básica da função &lt;strong&gt;SOMASE&lt;/strong&gt; é a seguinte:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;=SOMASE(intervalo, critérios, [intervalo_soma])
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;intervalo&lt;/strong&gt;: o intervalo de células no qual os critérios serão verificados&lt;br /&gt;
+&lt;strong&gt;critérios&lt;/strong&gt;: a condição ou condições que devem ser atendidas pelas células correspondentes. Isso pode ser um valor único, uma referência de célula ou uma expressão&lt;br /&gt;
+&lt;strong&gt;intervalo_soma (opcional)&lt;/strong&gt;: o intervalo de células cujos valores serão somados. Se omitido, o intervalo especificado na primeira etapa será usado como intervalo_soma&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Exemplos&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Vamos supor que você tenha uma lista de vendas mensais e deseja somar apenas as vendas que excedem R$1.000. A fórmula seria:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;=SOMASE(B1:B10;&quot;&amp;gt;1000&quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/main/_images/20230530/Screenshot_1.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Neste exemplo, o intervalo é &lt;em&gt;B1:B10&lt;/em&gt; (a coluna onde as vendas estão registradas) e o critério é “&amp;gt;1000” (apenas vendas acima de R$1.000 serão incluídas na soma).&lt;/p&gt;
+
+&lt;p&gt;Digamos que você tenha uma planilha de despesas com diferentes categorias, e você deseja somar apenas as despesas relacionadas à categoria “Transporte”. A fórmula seria:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;=SOMASE(C1:C10;&quot;Transporte&quot;;D1:D10)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/main/_images/20230530/Screenshot_2.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Neste caso, o intervalo é &lt;em&gt;C1:C10&lt;/em&gt; (a coluna onde as categorias estão listadas), o critério é “Transporte” (apenas despesas da categoria “Transporte” serão incluídas) e o intervalo_soma é &lt;em&gt;D1:D10&lt;/em&gt; (a coluna com os valores das despesas).&lt;/p&gt;
+
+&lt;p&gt;Esses são apenas exemplos básicos de uso da função &lt;strong&gt;SOMASE&lt;/strong&gt;. Ela pode ser combinada com outros recursos do Excel, como intervalos dinâmicos e múltiplos critérios, para atender a diferentes necessidades de análise de dados.&lt;/p&gt;
+
+&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
+
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre a função SOMASE do Excel</summary></entry><entry><title type="html">O GUIA COMPLETO: Git e Github</title><link href="http://localhost:4000/blog/guia-completo/2023/05/25/guia-completo-git-github.html" rel="alternate" type="text/html" title="O GUIA COMPLETO: Git e Github" /><published>2023-05-25T00:00:00-03:00</published><updated>2023-05-25T00:00:00-03:00</updated><id>http://localhost:4000/blog/guia-completo/2023/05/25/guia-completo-git-github</id><content type="html" xml:base="http://localhost:4000/blog/guia-completo/2023/05/25/guia-completo-git-github.html">&lt;h2 id=&quot;um-guia-completo-para-git-e-github-gerenciando-projetos-e-colaboração-eficiente&quot;&gt;Um Guia Completo para Git e GitHub: Gerenciando Projetos e Colaboração Eficiente&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/main/_images/20230525/git-github.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -409,34 +450,4 @@ Digamos que você queira verificar se um funcionário está qualificado para rec
 
 &lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!&lt;/p&gt;
 
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição FOR</summary></entry><entry><title type="html">Gerando gráficos em uma planilha</title><link href="http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha.html" rel="alternate" type="text/html" title="Gerando gráficos em uma planilha" /><published>2023-04-25T00:00:00-03:00</published><updated>2023-04-25T00:00:00-03:00</updated><id>http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha</id><content type="html" xml:base="http://localhost:4000/blog/aplicativos-informatizados/2023/04/25/gerar-graficos-da-planilha.html">&lt;p&gt;Olá! Hoje vamos falar sobre &lt;strong&gt;gráficos&lt;/strong&gt; em uma planilha Excel.&lt;/p&gt;
-
-&lt;h2 id=&quot;o-que-são-gráficos&quot;&gt;O QUE SÃO GRÁFICOS?&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Gráficos&lt;/strong&gt; são representações visuais de dados que permitem ao usuário exibir informações de forma clara e concisa. Eles são uma ferramenta essencial para a análise e apresentação de dados em diversas áreas, como negócios, finanças, ciência, engenharia, entre outras.&lt;/p&gt;
-
-&lt;p&gt;Os &lt;strong&gt;gráficos&lt;/strong&gt; no Excel são criados a partir de dados em planilhas e podem ser personalizados de acordo com as necessidades do usuário. Eles podem ser usados para apresentar tendências, comparar valores, mostrar a distribuição de dados e muito mais.&lt;/p&gt;
-
-&lt;p&gt;Existem vários tipos de &lt;strong&gt;gráficos&lt;/strong&gt; disponíveis no Excel, incluindo gráficos de linhas, colunas, pizza, área, dispersão e radar, entre outros. Cada tipo de gráfico é adequado para diferentes tipos de dados e pode ser personalizado com cores, títulos e legendas para torná-los mais informativos e atraentes.&lt;/p&gt;
-
-&lt;h3 id=&quot;mas-e-aí-como-fazer-isso&quot;&gt;Mas e aí, como fazer isso?&lt;/h3&gt;
-
-&lt;p&gt;Com o aplicativo do Excel aberto, acesse a planilha que contém seus dados; se ainda não possuir uma pronta, insira seus dados (pode ser em colunas ou linhas):&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230425/Screenshot_1.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Com uma célula selecionada, clique em “Inserir“, no menu superior da planilha:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230425/Screenshot_2.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Na aba “Gráficos”, é possível escolher diversos modelos como “Coluna”, “Linha” e “Pizza”; clique no seu formato de preferência e o gráfico será gerado automaticamente:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230425/Screenshot_3.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Se você tem dúvidas sobre como deve estruturar os seus dados e qual tipo de gráfico usar, observe o &lt;a href=&quot;https://support.microsoft.com/pt-br/office/criar-um-gr%c3%a1fico-do-in%c3%adcio-ao-fim-0baf399e-dd61-4e18-8a73-b3fd5d5680c2?ui=pt-br&amp;amp;rs=pt-br&amp;amp;ad=br&quot;&gt;Guia completo da Microsoft para o Office&lt;/a&gt;, sobre os modelos de dados.&lt;/p&gt;
-
-&lt;p&gt;Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé da página!&lt;/p&gt;
-
-&lt;p&gt;mario.herrera@etec.sp.gov.br&lt;/p&gt;
-
-&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="aplicativos-informatizados" /><summary type="html">Olá! Hoje vamos falar sobre gráficos em uma planilha Excel.</summary></entry></feed>
+&lt;p&gt;Valeu!&lt;/p&gt;</content><author><name>Escrito por Mario Herrera</name></author><category term="desenvolvimento-de-sistemas-1" /><summary type="html">Olá! Hoje vamos falar sobre o laço de repetição FOR</summary></entry></feed>
