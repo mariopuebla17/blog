@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Função PROCH"
-date: 2023-06-20 00:00:00 -0300
+date: 2023-06-06 00:00:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera
 ---

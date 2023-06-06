@@ -5,7 +5,7 @@ date: 2023-06-06 00:00:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera
 ---
-
+ 
 Olá! Hoje vamos falar sobre a poderosa ferramenta **PowerPoint**!
 
 ## O Poder do PowerPoint: Cativando Audiências com Apresentações Visuais

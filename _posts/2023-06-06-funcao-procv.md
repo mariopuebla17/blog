@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Função PROCV"
-date: 2023-06-13 00:00:00 -0300
+date: 2023-06-06 00:00:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera
 ---
