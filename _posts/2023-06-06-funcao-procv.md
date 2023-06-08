@@ -46,7 +46,7 @@ Neste exemplo, A2 contém o nome do funcionário que você deseja pesquisar, A1:
 
 Esses são apenas exemplos básicos de uso da função **PROCV**. É possível combinar a função **PROCV** com outras funções do Excel para obter resultados mais avançados e complexos, dependendo das necessidades do seu trabalho ou análise de dados.
 
-**OBSERVAÇÃO**
+**OBSERVAÇÃO**  
  Você sabia que **PROCV**, significa PROCURAR NA VERTICAL (PROC de Procurar, V de Vertical) e **PROCH** significa PROCURAR NA HORIZONTAL (PROC de Procurar, H horizontal)?
  Para saber mais, clique no vídeo abaixo:
 

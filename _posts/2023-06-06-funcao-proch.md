@@ -46,7 +46,7 @@ Neste caso, a função **PROCH** pesquisará o valor da célula C2 na coluna A e
 
 Esses são apenas dois exemplos básicos de uso da função **PROCH** no Excel. Ela pode ser combinada com outras funções e recursos do Excel para realizar análises mais avançadas e complexas. Experimente explorar suas possibilidades e aprimorar suas habilidades com essa função poderosa!
 
-**OBSERVAÇÃO**
+**OBSERVAÇÃO**  
  Você sabia que **PROCV**, significa PROCURAR NA VERTICAL (PROC de Procurar, V de Vertical) e **PROCH** significa PROCURAR NA HORIZONTAL (PROC de Procurar, H horizontal)?
  Para saber mais, clique no vídeo abaixo:
 
