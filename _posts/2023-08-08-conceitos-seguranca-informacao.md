@@ -10,6 +10,7 @@ Olá! Hoje vamos falar sobre **Conceitos da Segurança da Informação**
 
 ##  Conceitos Fundamentais de Segurança da Informação
 
+
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/20230808/si.jpg?raw=true)
 
 No mundo moderno, onde a informação flui rapidamente através das redes digitais, a segurança da informação tornou-se uma preocupação essencial. Com o crescimento exponencial de dados compartilhados online, é crucial entender os conceitos fundamentais que cercam a proteção de informações sensíveis. Neste artigo, exploraremos os pilares da segurança da informação que servirão como base sólida para seus alunos entenderem e aplicarem medidas de proteção no cenário digital atual.
