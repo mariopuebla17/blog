@@ -31,7 +31,7 @@ PROCH(valor_procurado, tabela, número_coluna, [intervalo_pesquisa])
 Suponha que você tenha uma tabela de funcionários com seus respectivos salários e precise recuperar o salário de um funcionário específico com base em seu nome. Utilize a função **PROCH** da seguinte maneira:
 
 ```
-=PROCH("João", A2:B10, 2, FALSO)
+=PROCH("João";A2:B4;2;VERDADEIRO)
 ```
 
 Neste exemplo, a função **PROCH** buscará na coluna A o nome "João" e retornará o valor correspondente da coluna B, que é o salário de João.
@@ -39,7 +39,7 @@ Neste exemplo, a função **PROCH** buscará na coluna A o nome "João" e retorn
 Imagine que você esteja trabalhando em um projeto de controle de estoque e precise recuperar o preço de um produto com base em seu código. Use a função **PROCH** assim:
 
 ```
-=PROCH(C2, A2:B100, 2, VERDADEIRO)
+=PROCH(C2;A2:B100;2;VERDADEIRO)
 ```
 
 Neste caso, a função **PROCH** pesquisará o valor da célula C2 na coluna A e retornará o valor correspondente da coluna B. Como o último argumento é VERDADEIRO, a pesquisa será aproximada, buscando o valor mais próximo do código do produto.
