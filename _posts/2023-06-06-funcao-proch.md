@@ -28,21 +28,25 @@ PROCH(valor_procurado, tabela, número_coluna, [intervalo_pesquisa])
 
 **Exemplos práticos**
 
-Suponha que você tenha uma tabela de funcionários com seus respectivos salários e precise recuperar o salário de um funcionário específico com base em seu nome. Utilize a função **PROCH** da seguinte maneira:
+1\. Suponha que você tenha uma tabela de funcionários com seus respectivos salários e precise recuperar o salário de um funcionário específico com base em seu nome. Utilize a função **PROCH** da seguinte maneira:
 
 ```
-=PROCH("João";A2:B4;2;VERDADEIRO)
+=PROCH("João";A1:B4;2;VERDADEIRO)
 ```
 
 Neste exemplo, a função **PROCH** buscará na coluna A o nome "João" e retornará o valor correspondente da coluna B, que é o salário de João.
 
-Imagine que você esteja trabalhando em um projeto de controle de estoque e precise recuperar o preço de um produto com base em seu código. Use a função **PROCH** assim:
+![](https://github.com/mariopuebla17/blog/blob/main/_images/20230606/proch1.png?raw=true)
+
+2\. Imagine que você esteja trabalhando em um projeto de controle de estoque e precise recuperar o preço de um produto com base em seu código. Use a função **PROCH** assim:
 
 ```
-=PROCH(C2;A2:B100;2;VERDADEIRO)
+=PROCH(D1;A1:B20;2;VERDADEIRO)
 ```
 
-Neste caso, a função **PROCH** pesquisará o valor da célula C2 na coluna A e retornará o valor correspondente da coluna B. Como o último argumento é VERDADEIRO, a pesquisa será aproximada, buscando o valor mais próximo do código do produto.
+Neste caso, a função **PROCH** pesquisará o valor da célula D1 na coluna A e retornará o valor correspondente da coluna B. Como o último argumento é VERDADEIRO, a pesquisa será aproximada, buscando o valor mais próximo do código do produto.
+
+![](https://github.com/mariopuebla17/blog/blob/main/_images/20230606/proch2.png?raw=true)
 
 Esses são apenas dois exemplos básicos de uso da função **PROCH** no Excel. Ela pode ser combinada com outras funções e recursos do Excel para realizar análises mais avançadas e complexas. Experimente explorar suas possibilidades e aprimorar suas habilidades com essa função poderosa!
 
