@@ -18,7 +18,7 @@ A função **PROCH** é uma poderosa ferramenta do Microsoft Excel que permite b
 A sintaxe básica da função **PROCH** é a seguinte:
 
 ```
-PROCH(valor_procurado, tabela, número_coluna, [intervalo_pesquisa])
+=PROCH(valor_procurado;tabela;número_coluna;[intervalo_pesquisa])
 ```
 
 **valor_procurado**: O valor que você deseja encontrar na tabela. Pode ser um número, texto, referência de célula ou fórmula  
@@ -31,7 +31,7 @@ PROCH(valor_procurado, tabela, número_coluna, [intervalo_pesquisa])
 1\. Suponha que você tenha uma tabela de funcionários com seus respectivos salários e precise recuperar o salário de um funcionário específico com base em seu nome. Utilize a função **PROCH** da seguinte maneira:
 
 ```
-=PROCH("João";A1:B4;2;VERDADEIRO)
+=PROCH("João";A1:D2;2;VERDADEIRO)
 ```
 
 Neste exemplo, a função **PROCH** buscará na coluna A o nome "João" e retornará o valor correspondente da coluna B, que é o salário de João.
@@ -41,7 +41,7 @@ Neste exemplo, a função **PROCH** buscará na coluna A o nome "João" e retorn
 2\. Imagine que você esteja trabalhando em um projeto de controle de estoque e precise recuperar o preço de um produto com base em seu código. Use a função **PROCH** assim:
 
 ```
-=PROCH(D1;A1:B20;2;VERDADEIRO)
+=PROCH(D1;A1:B2;2;VERDADEIRO)
 ```
 
 Neste caso, a função **PROCH** pesquisará o valor da célula D1 na coluna A e retornará o valor correspondente da coluna B. Como o último argumento é VERDADEIRO, a pesquisa será aproximada, buscando o valor mais próximo do código do produto.
