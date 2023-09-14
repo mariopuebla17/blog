@@ -24,11 +24,11 @@ Imagine que você tem uma planilha de vendas com milhares de registros e deseja 
 
 Você pode fazer isso facilmente usando filtros:
 
-. Selecione a coluna com os valores de vendas
-. Classificar e Filtrar > Filtro
-. Clique na seta suspensa no cabeçalho da coluna
-. Escolha "Filtrar por valor" e defina o critério para "maior que R$1.000"
-. O Excel mostrará apenas as linhas que atendem a esse critério
+. Selecione a coluna com os valores de vendas  
+. Classificar e Filtrar > Filtro  
+. Clique na seta suspensa no cabeçalho da coluna  
+. Escolha "Filtrar por valor" e defina o critério para "maior que R$1.000"  
+. O Excel mostrará apenas as linhas que atendem a esse critério  
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/20230813/filtro3.jpg?raw=true)
 
@@ -38,11 +38,11 @@ Suponha que você tenha uma lista de funcionários e deseja ver apenas os que tr
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/20230813/filtro4.jpg?raw=true)
 
-. Selecione a coluna com os nomes dos departamentos
-. Classificar e Filtrar > Filtro
-. Clique na seta suspensa no cabeçalho da coluna
-. Desmarque a opção "Selecionar tudo" e selecione apenas "Marketing"
-. Agora, você verá apenas os funcionários do departamento de marketing na planilha
+. Selecione a coluna com os nomes dos departamentos  
+. Classificar e Filtrar > Filtro  
+. Clique na seta suspensa no cabeçalho da coluna  
+. Desmarque a opção "Selecionar tudo" e selecione apenas "Marketing"  
+. Agora, você verá apenas os funcionários do departamento de marketing na planilha  
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/20230813/filtro5.jpg?raw=true)
 
