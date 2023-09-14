@@ -2,7 +2,7 @@
 layout: post
 title: "Conceitos da Segurança da Informação"
 date: 2023-08-08 00:00:00 -0300
-categories: seguranca-informacao
+categories: seguranca-da-informacao
 author: Escrito por Mario Herrera
 ---
 
