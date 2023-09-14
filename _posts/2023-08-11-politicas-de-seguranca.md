@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Políticas de Segurança da Informação na Internet"
-date: 2023-09-14 00:00:00 -0300
+date: 2023-08-11 00:00:00 -0300
 categories: seguranca-informacao
 author: Escrito por Mario Herrera
 ---
@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre **Políticas de Segurança da Informação na Inter
 ## Políticas de Segurança da Informação na Internet: Garantindo a Proteção de Dados Online
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230914/ps1.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/20230811/ps1.jpg?raw=true)
 
 A internet revolucionou a forma como interagimos com o mundo, tornando-se uma ferramenta indispensável para a comunicação, pesquisa, entretenimento e negócios. No entanto, essa conectividade também trouxe desafios significativos, especialmente no que diz respeito à segurança da informação. Com a crescente quantidade de dados pessoais e sensíveis sendo compartilhados online, a implementação de políticas de segurança da informação tornou-se essencial. Este artigo discutirá a importância das políticas de segurança da informação na internet e fornecerá diretrizes essenciais para proteger dados online.
 
