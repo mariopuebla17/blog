@@ -2,7 +2,7 @@
 layout: post
 title: "Mecanismos de Segurança"
 date: 2023-08-10 00:00:00 -0300
-categories: seguranca-da-informacao
+categories: seguranca-informacao
 author: Escrito por Mario Herrera
 ---
 

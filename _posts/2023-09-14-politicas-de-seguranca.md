@@ -2,7 +2,7 @@
 layout: post
 title: "Políticas de Segurança da Informação na Internet"
 date: 2023-09-14 00:00:00 -0300
-categories: seguranca-da-informacao
+categories: seguranca-informacao
 author: Escrito por Mario Herrera
 ---
 

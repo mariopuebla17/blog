@@ -2,7 +2,7 @@
 layout: post
 title: "Cartilha de Segurança para Internet"
 date: 2023-08-09 00:00:00 -0300
-categories: seguranca-da-informacao
+categories: seguranca-informacao
 author: Escrito por Mario Herrera
 ---
 
