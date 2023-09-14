@@ -17,7 +17,7 @@ Os filtros no Excel são recursos que permitem a seleção e exibição específ
 
 ### Mas e aí, como fazer isso?
 
-1. Filtrando Dados Numéricos:
+1\. Filtrando Dados Numéricos:
 Imagine que você tem uma planilha de vendas com milhares de registros e deseja visualizar apenas as vendas que foram superiores a R$1.000.
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/20230813/filtro2.jpg?raw=true)
@@ -33,7 +33,7 @@ Você pode fazer isso facilmente usando filtros:
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/20230813/filtro3.jpg?raw=true)
 
 
-2. Filtrando Dados por Texto:
+2\. Filtrando Dados por Texto:
 Suponha que você tenha uma lista de funcionários e deseja ver apenas os que trabalham no departamento de marketing:
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/20230813/filtro4.jpg?raw=true)
