@@ -13,7 +13,7 @@ Olá! Hoje vamos falar sobre **Trabalhando com Texto no PowerPoint**.
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/20230814/microsoft-power-point.jpg?raw=true)
 
-Na terceira aula do nosso curso de PowerPoint, vamos explorar a arte de adicionar e formatar texto em seus slides. O texto desempenha um papel crucial na comunicação de suas ideias e mensagens, e aprender como utilizá-lo eficazmente é essencial para criar apresentações impactantes.
+Nessa aula do nosso curso de PowerPoint, vamos explorar a arte de adicionar e formatar texto em seus slides. O texto desempenha um papel crucial na comunicação de suas ideias e mensagens, e aprender como utilizá-lo eficazmente é essencial para criar apresentações impactantes.
 
 ### Exemplos Práticos:
 
@@ -30,7 +30,7 @@ Você pode criar listas de itens com marcadores ou numeração para tornar as in
 3\. Uso de Estilos e Fontes:  
 O PowerPoint oferece uma variedade de estilos de texto e opções de formatação de fonte. Por exemplo, você pode destacar partes do texto usando negrito ou itálico, escolher diferentes tamanhos de fonte para ênfase e alterar as cores do texto para corresponder à sua paleta de cores.
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230816/pp3.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/20230816/pp3.jpg?raw=true)  
 
 
 **Conclusão:** Dominar essas técnicas de texto é fundamental para tornar suas apresentações claras e atrativas. Nas próximas aulas, exploraremos ainda mais maneiras de aprimorar seus slides com elementos visuais e gráficos. Continue acompanhando o curso para se tornar um mestre na arte de criar apresentações eficazes com o PowerPoint!

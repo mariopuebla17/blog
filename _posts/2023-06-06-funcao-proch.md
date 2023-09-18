@@ -54,7 +54,7 @@ Esses são apenas dois exemplos básicos de uso da função **PROCH** no Excel. 
  Você sabia que **PROCV**, significa PROCURAR NA VERTICAL (PROC de Procurar, V de Vertical) e **PROCH** significa PROCURAR NA HORIZONTAL (PROC de Procurar, H horizontal)?
  Para saber mais, clique no vídeo abaixo:
 
-[![PROCV e PROCH Passo a Passo](https://img.youtube.com/vi/t-xdWIF9j7c/0.jpg)](https://youtu.be/t-xdWIF9j7c)
+[![PROCV e PROCH Passo a Passo](https://img.youtube.com/vi/t-xdWIF9j7c/0.jpg)](https://youtu.be/t-xdWIF9j7c)  
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!

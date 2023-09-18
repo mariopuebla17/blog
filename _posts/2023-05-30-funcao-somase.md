@@ -47,7 +47,7 @@ Digamos que você tenha uma planilha de despesas com diferentes categorias, e vo
 
 Neste caso, o intervalo é *C1:C10* (a coluna onde as categorias estão listadas), o critério é "Transporte" (apenas despesas da categoria "Transporte" serão incluídas) e o intervalo_soma é *D1:D10* (a coluna com os valores das despesas).
 
-Esses são apenas exemplos básicos de uso da função **SOMASE**. Ela pode ser combinada com outros recursos do Excel, como intervalos dinâmicos e múltiplos critérios, para atender a diferentes necessidades de análise de dados.
+Esses são apenas exemplos básicos de uso da função **SOMASE**. Ela pode ser combinada com outros recursos do Excel, como intervalos dinâmicos e múltiplos critérios, para atender a diferentes necessidades de análise de dados.  
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!

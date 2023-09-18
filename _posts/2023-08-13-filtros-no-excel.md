@@ -44,7 +44,7 @@ Suponha que você tenha uma lista de funcionários e deseja ver apenas os que tr
 . Desmarque a opção "Selecionar tudo" e selecione apenas "Marketing"  
 . Agora, você verá apenas os funcionários do departamento de marketing na planilha  
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230813/filtro5.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/20230813/filtro5.jpg?raw=true)  
 
 
 **Conclusão:** Os filtros no Excel são uma ferramenta valiosa para simplificar a análise de dados. Eles permitem que os usuários personalizem a visualização de informações com base em critérios específicos, economizando tempo e facilitando a extração de insights de conjuntos de dados complexos. Dominar o uso de filtros pode melhorar significativamente sua eficiência ao trabalhar com o Excel e tornar suas análises de dados mais precisas e eficazes.

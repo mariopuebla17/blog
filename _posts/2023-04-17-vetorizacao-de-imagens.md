@@ -34,7 +34,7 @@ Para **vetorizar**, você pode usar sua ferramenta favorita de edição, como o 
 
 Como referência, irei deixar um **link** abaixo com uma vídeo-aula ensinando a usar a ferramenta *Laço Poligonal (Polygonal Lasso)*, onde o autor ensina detalhadamente o passo a passo. Clique na imagem abaixo e seja direcionado para a vídeo-aula!
 
-[![Tutorial de como vetorizar uma foto ou imagem no Photoshop](https://img.youtube.com/vi/zHwUcUuCzko/0.jpg)](https://www.youtube.com/watch?v=zHwUcUuCzko)
+[![Tutorial de como vetorizar uma foto ou imagem no Photoshop](https://img.youtube.com/vi/zHwUcUuCzko/0.jpg)](https://www.youtube.com/watch?v=zHwUcUuCzko)  
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé da página!

@@ -31,7 +31,7 @@ Na aba “Gráficos”, é possível escolher diversos modelos como “Coluna”
 
 ![](https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230425/Screenshot_3.jpg?raw=true)
 
-Se você tem dúvidas sobre como deve estruturar os seus dados e qual tipo de gráfico usar, observe o [Guia completo da Microsoft para o Office](https://support.microsoft.com/pt-br/office/criar-um-gr%c3%a1fico-do-in%c3%adcio-ao-fim-0baf399e-dd61-4e18-8a73-b3fd5d5680c2?ui=pt-br&rs=pt-br&ad=br), sobre os modelos de dados.
+Se você tem dúvidas sobre como deve estruturar os seus dados e qual tipo de gráfico usar, observe o [Guia completo da Microsoft para o Office](https://support.microsoft.com/pt-br/office/criar-um-gr%c3%a1fico-do-in%c3%adcio-ao-fim-0baf399e-dd61-4e18-8a73-b3fd5d5680c2?ui=pt-br&rs=pt-br&ad=br), sobre os modelos de dados.  
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé da página!

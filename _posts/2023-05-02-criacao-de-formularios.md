@@ -50,7 +50,7 @@ Também podemos **Excluir** um registro, onde primeiro teremos que selecionar o 
 
 ![](https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230502/Screenshot_6.jpg?raw=true)
 
-![](https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230502/Screenshot_7.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230502/Screenshot_7.jpg?raw=true)  
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!

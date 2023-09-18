@@ -54,7 +54,8 @@ A Cartilha de Segurança para Internet é um guia fundamental para proteger seus
 Lembrando que a segurança na internet é uma responsabilidade de todos, e seguir essas diretrizes ajudará a proteger sua identidade, dados e privacidade online.
 
 Para consultar a Cartilha completa, acesse o link:
-https://cartilha.cert.br/
+https://cartilha.cert.br/  
+
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
 

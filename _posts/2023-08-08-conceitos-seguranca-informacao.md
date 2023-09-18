@@ -29,7 +29,8 @@ A autenticidade diz respeito à garantia de que os dados, as origens e as açõe
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/20230808/si2.jpg?raw=true)
 
-**Conclusão:** A segurança da informação é um campo complexo e em constante evolução, mas compreender esses conceitos fundamentais é essencial para construir uma base sólida na proteção de dados e sistemas. Ao aprender sobre confidencialidade, integridade, disponibilidade, autenticidade e não repúdio, você irá ser capaz de enfrentar os desafios do mundo digital com confiança. Lembre-se de que a conscientização contínua, a atualização das práticas e a adoção de medidas de segurança apropriadas são cruciais para se manter à frente das ameaças em constante mudança no cenário da segurança da informação.
+**Conclusão:** A segurança da informação é um campo complexo e em constante evolução, mas compreender esses conceitos fundamentais é essencial para construir uma base sólida na proteção de dados e sistemas. Ao aprender sobre confidencialidade, integridade, disponibilidade, autenticidade e não repúdio, você irá ser capaz de enfrentar os desafios do mundo digital com confiança. Lembre-se de que a conscientização contínua, a atualização das práticas e a adoção de medidas de segurança apropriadas são cruciais para se manter à frente das ameaças em constante mudança no cenário da segurança da informação.  
+
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
 

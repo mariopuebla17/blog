@@ -13,7 +13,7 @@ Olá! Hoje vamos falar sobre **Criando Slides Básicos no PowerPoint**
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/20230814/microsoft-power-point.jpg?raw=true)
 
-Na segunda aula do nosso curso de PowerPoint, vamos mergulhar mais fundo na criação de slides. Slides bem elaborados são a espinha dorsal de uma apresentação eficaz. Nesta lição, aprenderemos como inserir, organizar e formatar slides, preparando o terreno para conteúdo relevante e atraente em suas apresentações.
+Nessa aula vamos mergulhar mais fundo na criação de slides. Slides bem elaborados são a espinha dorsal de uma apresentação eficaz. Nesta lição, aprenderemos como inserir, organizar e formatar slides, preparando o terreno para conteúdo relevante e atraente em suas apresentações.
 
 ### Exemplos Práticos:
 

@@ -32,7 +32,8 @@ Manter seu software, sistemas operacionais e aplicativos atualizados é crucial 
 **Treinamento de Conscientização em Segurança**  
 Não importa o quão eficazes sejam seus mecanismos de segurança, a ameaça mais comum ainda é o erro humano. Treinar funcionários e usuários para reconhecer ameaças cibernéticas, phishing e boas práticas de segurança é essencial. A educação em segurança ajuda a criar uma camada adicional de proteção, onde os próprios usuários podem identificar e evitar ameaças.
 
-**Conclusão**: Na era da informação, a segurança da internet é fundamental. Mecanismos como criptografia, firewalls, autenticação de dois fatores, atualizações e treinamento de conscientização em segurança desempenham um papel fundamental na proteção de nossos dados e sistemas. Ao implementar essas medidas de segurança e educar os usuários, podemos mitigar efetivamente muitas das ameaças cibernéticas que enfrentamos. Lembre-se sempre de que a segurança é uma responsabilidade compartilhada por todos os usuários da internet, e nossa vigilância contínua é essencial para proteger a era da informação. 
+**Conclusão**: Na era da informação, a segurança da internet é fundamental. Mecanismos como criptografia, firewalls, autenticação de dois fatores, atualizações e treinamento de conscientização em segurança desempenham um papel fundamental na proteção de nossos dados e sistemas. Ao implementar essas medidas de segurança e educar os usuários, podemos mitigar efetivamente muitas das ameaças cibernéticas que enfrentamos. Lembre-se sempre de que a segurança é uma responsabilidade compartilhada por todos os usuários da internet, e nossa vigilância contínua é essencial para proteger a era da informação.  
+
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
 

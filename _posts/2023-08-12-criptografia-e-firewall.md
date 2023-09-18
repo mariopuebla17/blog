@@ -53,7 +53,8 @@ Os firewalls desempenham várias funções vitais na segurança da informação:
 
 3. Detecção de Intrusões: Alguns firewalls têm recursos de detecção de intrusões que identificam atividades suspeitas e bloqueiam ameaças em tempo real.
 
-**Conclusão:** A criptografia e os firewalls são elementos essenciais para a segurança da informação na internet. A criptografia protege os dados durante a transmissão, enquanto os firewalls atuam como guardiões virtuais, controlando o tráfego de rede e impedindo ameaças cibernéticas. Para professores e alunos interessados em segurança da informação, é fundamental compreender esses conceitos e sua aplicação prática na proteção de dados em um mundo digital cada vez mais interconectado. Com essas ferramentas em mãos, podemos enfrentar os desafios da segurança cibernética com confiança e resiliência.
+**Conclusão:** A criptografia e os firewalls são elementos essenciais para a segurança da informação na internet. A criptografia protege os dados durante a transmissão, enquanto os firewalls atuam como guardiões virtuais, controlando o tráfego de rede e impedindo ameaças cibernéticas. Para professores e alunos interessados em segurança da informação, é fundamental compreender esses conceitos e sua aplicação prática na proteção de dados em um mundo digital cada vez mais interconectado. Com essas ferramentas em mãos, podemos enfrentar os desafios da segurança cibernética com confiança e resiliência.  
+
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
 

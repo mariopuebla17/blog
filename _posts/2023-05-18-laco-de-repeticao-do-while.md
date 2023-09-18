@@ -57,7 +57,7 @@ do {
    numero = scanner.nextInt();
 } while (numero >= 0);
 System.out.println("Você digitou um número negativo. Encerrando o programa.");
-```
+```  
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!

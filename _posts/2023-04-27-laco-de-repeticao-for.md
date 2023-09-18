@@ -50,7 +50,7 @@ for (contador = 0; contador < 10; contador = contador+1)
 } 
 
 printf("FIM LAÇO");
-```
+```  
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!

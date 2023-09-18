@@ -46,7 +46,7 @@ O LinkedIn é uma rede social profissional fundada em 2002 e lançada oficialmen
 
 
 **Links de cursos GRATUITOS e de QUALIDADE**:  
-https://www.udemy.com/course/curso-completo-de-linkedin-wmazza/
+https://www.udemy.com/course/curso-completo-de-linkedin-wmazza/  
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!

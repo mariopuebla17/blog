@@ -62,7 +62,7 @@ while (numero >= 0)
 System.out.println("Você digitou um número negativo. Encerrando o programa.");
 ```
 
-Lembrando que, em relação ao exemplo 1, é necessário garantir que a variável utilizada para controle do laço seja inicializada antes do início do **WHILE**. Caso contrário, o bloco de código não será executado nenhuma vez.
+Lembrando que, em relação ao exemplo 1, é necessário garantir que a variável utilizada para controle do laço seja inicializada antes do início do **WHILE**. Caso contrário, o bloco de código não será executado nenhuma vez.  
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!

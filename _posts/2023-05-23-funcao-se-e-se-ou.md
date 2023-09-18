@@ -52,7 +52,7 @@ Digamos que você queira verificar se um funcionário está qualificado para rec
 
 Neste exemplo, A2 representa as vendas do funcionário e B2 representa a porcentagem de satisfação do cliente.
 
-Esses exemplos mostram como as funções **SE E** e **SE OU** podem ser usadas para realizar testes lógicos com várias condições no Excel.
+Esses exemplos mostram como as funções **SE E** e **SE OU** podem ser usadas para realizar testes lógicos com várias condições no Excel.  
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!

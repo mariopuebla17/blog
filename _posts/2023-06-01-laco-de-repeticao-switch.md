@@ -114,7 +114,7 @@ int main() {
 }
 ```
 
-Esses exemplos demonstram como utilizar o laço de repetição switch para selecionar diferentes opções de acordo com o valor da variável. É importante notar o uso do comando **break** após cada caso para evitar que a execução continue nos casos subsequentes. O bloco **default** é acionado quando nenhum dos casos correspondentes é encontrado, fornecendo uma resposta para entradas inválidas.
+Esses exemplos demonstram como utilizar o laço de repetição switch para selecionar diferentes opções de acordo com o valor da variável. É importante notar o uso do comando **break** após cada caso para evitar que a execução continue nos casos subsequentes. O bloco **default** é acionado quando nenhum dos casos correspondentes é encontrado, fornecendo uma resposta para entradas inválidas.  
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
