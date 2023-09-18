@@ -30,7 +30,7 @@ O PowerPoint oferece ferramentas para criar gráficos e formas personalizadas. P
 3\. Animação de Objetos:  
 Além de inserir elementos gráficos, você pode aplicar animações a esses objetos para tornar sua apresentação mais dinâmica. Por exemplo, você pode fazer com que um gráfico apareça gradualmente durante a apresentação para enfatizar um ponto-chave.
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230817/pp3.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/20230817/pp3.jpg?raw=true)  
 
 
 **Conclusão:** A inclusão de elementos gráficos bem escolhidos e animações sutis pode elevar significativamente a qualidade visual de suas apresentações. Nas próximas aulas, exploraremos recursos avançados para tornar suas apresentações ainda mais envolventes. Continue acompanhando o curso para aprimorar suas habilidades no PowerPoint!  

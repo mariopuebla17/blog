@@ -30,7 +30,8 @@ Clique em um slide para selecioná-lo e, em seguida, digite o título e o conte�
 3\. Alterando Fundos e Cores de Slides:  
 Personalize a aparência dos slides selecionando diferentes fundos, cores de texto e esquemas de cores. Por exemplo, você pode escolher um fundo azul para um slide e alterar a cor do texto para branco para garantir a legibilidade.
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230815/pp3.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/20230815/pp3.jpg?raw=true)  
+
 
 **Conclusão:** Com essas habilidades básicas, você estará bem encaminhado para criar apresentações mais atraentes e estruturadas. Lembre-se de que a criação de slides é apenas o começo. Nas próximas aulas, exploraremos ainda mais recursos e técnicas para aprimorar suas apresentações. Continue acompanhando o curso para se tornar um mestre no PowerPoint!
 

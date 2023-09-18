@@ -29,7 +29,8 @@ Com uma célula selecionada, clique em “Inserir“, no menu superior da planil
 
 Na aba “Gráficos”, é possível escolher diversos modelos como “Coluna”, “Linha” e “Pizza”; clique no seu formato de preferência e o gráfico será gerado automaticamente:
 
-![](https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230425/Screenshot_3.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/7523ff7af1d054b2c6545b46bdb08f9795002ab2/_images/20230425/Screenshot_3.jpg?raw=true)  
+
 
 Se você tem dúvidas sobre como deve estruturar os seus dados e qual tipo de gráfico usar, observe o [Guia completo da Microsoft para o Office](https://support.microsoft.com/pt-br/office/criar-um-gr%c3%a1fico-do-in%c3%adcio-ao-fim-0baf399e-dd61-4e18-8a73-b3fd5d5680c2?ui=pt-br&rs=pt-br&ad=br), sobre os modelos de dados.  
 
