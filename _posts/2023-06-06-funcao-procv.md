@@ -34,7 +34,7 @@ PROCV(valor_procurado;tabela_procurada;coluna_retorno;[procurar_intervalo])
 =PROCV("Produto A"; A1:B10; 2; 0)
 ```
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230606/procv1.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/20230606/procv1.JPG?raw=true)
 
 Neste exemplo, "Produto A" é o valor procurado, A1:B10 é o intervalo em que a pesquisa será realizada, 2 é o número da coluna que contém os preços e 0 indica uma correspondência exata. O Excel irá encontrar o valor correspondente ao "Produto A" na segunda coluna da tabela e retorná-lo.
 
@@ -44,7 +44,7 @@ Neste exemplo, "Produto A" é o valor procurado, A1:B10 é o intervalo em que a 
 =PROCV(A2; A1:B10; 2; 0)
 ```
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230606/procv2.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/20230606/procv2.JPG?raw=true)
 
 Neste exemplo, A2 contém o nome do funcionário que você deseja pesquisar, A1:B10 é o intervalo de células onde a pesquisa será realizada, 2 é o número da coluna que contém os salários e 0 indica uma correspondência exata. O Excel encontrará o salário correspondente ao funcionário e o retornará.
 
