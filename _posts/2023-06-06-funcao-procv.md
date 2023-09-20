@@ -31,7 +31,7 @@ PROCV(valor_procurado;tabela_procurada;coluna_retorno;[procurar_intervalo])
 1\. Suponha que você tenha uma lista de produtos em uma tabela e queira encontrar o preço correspondente a um determinado produto. Utilizando a função **PROCV**, você pode fazer o seguinte:
 
 ```
-=PROCV("Produto A"; A1:B10; 2; 0)
+=PROCV("A";A1:B10;2;0)
 ```
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/20230606/procv1.JPG?raw=true)
@@ -41,7 +41,7 @@ Neste exemplo, "Produto A" é o valor procurado, A1:B10 é o intervalo em que a 
 2\. Suponha que você tenha uma tabela de funcionários com seus respectivos salários e queira encontrar o salário de um funcionário específico, cujo nome está em outra célula. Você pode usar a função **PROCV** da seguinte forma:
 
 ```
-=PROCV(A2; A1:B10; 2; 0)
+=PROCV(A2;A1:B10;2;0)
 ```
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/20230606/procv2.JPG?raw=true)
