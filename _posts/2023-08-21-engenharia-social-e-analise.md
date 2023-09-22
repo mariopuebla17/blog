@@ -35,19 +35,16 @@ Os atacantes que usam a engenharia social muitas vezes se passam por pessoas ou 
 
 Para proteger-se eficazmente contra ataques de engenharia social, é essencial realizar uma varredura e análise constantes das vulnerabilidades existentes. Isso inclui:
 
-1\. Conscientização
-A conscientização é a primeira linha de defesa contra a engenharia social. Educar os funcionários e usuários finais sobre os riscos e as táticas comuns usadas pelos atacantes pode ajudar a reduzir o potencial de sucesso desses ataques.
+1\. **Conscientização:** A conscientização é a primeira linha de defesa contra a engenharia social. Educar os funcionários e usuários finais sobre os riscos e as táticas comuns usadas pelos atacantes pode ajudar a reduzir o potencial de sucesso desses ataques.
 
-2\. Avaliação de Riscos
-Avaliar os riscos específicos que sua organização enfrenta é crucial. Isso inclui a identificação de áreas onde a engenharia social pode ser mais eficaz e a implementação de medidas de segurança adequadas.
+2\. **Avaliação de Riscos:** Avaliar os riscos específicos que sua organização enfrenta é crucial. Isso inclui a identificação de áreas onde a engenharia social pode ser mais eficaz e a implementação de medidas de segurança adequadas.
 
-3\. Testes de Simulação
-Realizar testes de simulação de engenharia social pode ajudar a medir a prontidão da organização para enfrentar esses ataques. Contratar especialistas em segurança para realizar testes de penetração e avaliar a capacidade da equipe de resistir à manipulação social é uma prática recomendada.
+3\. **Testes de Simulação:** Realizar testes de simulação de engenharia social pode ajudar a medir a prontidão da organização para enfrentar esses ataques. Contratar especialistas em segurança para realizar testes de penetração e avaliar a capacidade da equipe de resistir à manipulação social é uma prática recomendada.
 
-4\. Monitoramento Constante
-Manter um sistema de monitoramento constante pode ajudar a identificar tentativas de engenharia social em tempo real. Isso permite uma resposta rápida e eficaz para proteger informações sensíveis.
+4\. **Monitoramento Constante:** Manter um sistema de monitoramento constante pode ajudar a identificar tentativas de engenharia social em tempo real. Isso permite uma resposta rápida e eficaz para proteger informações sensíveis.
 
 **Conclusão:** A engenharia social representa uma ameaça significativa à segurança da informação na era digital. É fundamental entender as táticas utilizadas pelos atacantes e implementar medidas para mitigar esses riscos. A varredura e análise constantes desempenham um papel vital na proteção de informações pessoais e corporativas.
+
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
 
