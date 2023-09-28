@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Função PROCH"
-date: 2023-06-06 00:00:00 -0300
+date: 2023-02-02 00:07:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera
 ---
@@ -10,6 +10,8 @@ Olá! Hoje vamos falar sobre a função **PROCH**
 
 ## O QUE É A FUNÇÃO PROCH?
 
+
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel1.jpg?raw=true)
 
 A função **PROCH** é uma poderosa ferramenta do Microsoft Excel que permite buscar e recuperar informações em uma tabela, com base em um valor de referência. Ela é amplamente utilizada para realizar pesquisas e recuperar dados específicos, facilitando a análise e organização de grandes conjuntos de informações.
 
@@ -36,7 +38,7 @@ A sintaxe básica da função **PROCH** é a seguinte:
 
 Neste exemplo, a função **PROCH** buscará na coluna A o nome "João" e retornará o valor correspondente da coluna B, que é o salário de João.
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230606/proch1.png?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel18.jpg?raw=true)  
 
 2\. Imagine que você esteja trabalhando em um projeto de controle de estoque e precise recuperar o preço de um produto com base em seu código. Use a função **PROCH** assim:
 
@@ -46,7 +48,7 @@ Neste exemplo, a função **PROCH** buscará na coluna A o nome "João" e retorn
 
 Neste caso, a função **PROCH** pesquisará o valor da célula D1 na coluna A e retornará o valor correspondente da coluna B. Como o último argumento é VERDADEIRO, a pesquisa será aproximada, buscando o valor mais próximo do código do produto.
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230606/proch2.png?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel19.jpg?raw=true)  
 
 Esses são apenas dois exemplos básicos de uso da função **PROCH** no Excel. Ela pode ser combinada com outras funções e recursos do Excel para realizar análises mais avançadas e complexas. Experimente explorar suas possibilidades e aprimorar suas habilidades com essa função poderosa!
 

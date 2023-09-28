@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introdução do PowerPoint"
-date: 2023-08-14 00:00:00 -0300
+date: 2023-02-03 00:01:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera
 ---
@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre a poderosa ferramenta **PowerPoint**!
 ## Introdução ao PowerPoint: Dominando os Conceitos Básicos
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230814/microsoft-power-point.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/ppt1.jpg?raw=true)
 
 O PowerPoint é uma poderosa ferramenta de software desenvolvida pela Microsoft, amplamente utilizada para criar apresentações visuais impactantes e informativas. Com o PowerPoint, os usuários podem combinar texto, imagens, gráficos e animações em slides, tornando-o ideal para apresentações escolares, empresariais e diversas outras ocasiões.
 
@@ -25,6 +25,7 @@ O PowerPoint é uma poderosa ferramenta de software desenvolvida pela Microsoft,
 
 
 **Conclusão:** Esta primeira aula é fundamental para quem deseja explorar as capacidades do PowerPoint. Ela estabelece as bases necessárias para criar apresentações envolventes e visualmente atraentes. À medida que avançamos nas próximas aulas, você aprenderá a aprimorar suas habilidades e a criar apresentações realmente impressionantes. Portanto, não deixe de acompanhar as próximas lições!
+
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
 

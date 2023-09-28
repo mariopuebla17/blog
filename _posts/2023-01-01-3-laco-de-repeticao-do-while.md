@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre o laço de repetição **DO WHILE**
 ## O QUE É LAÇO DE REPETIÇÃO DO WHILE?
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230427/pw1.jpeg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202301/pw1.jpeg?raw=true)
 
 O laço de repetição **DO WHILE** é uma estrutura de controle de fluxo em programação que permite a execução repetida de um bloco de código enquanto uma condição é verdadeira. A diferença entre este laço e outros como o **WHILE** é que o **DO WHILE** executa o bloco de código pelo menos uma vez, independentemente da condição ser verdadeira ou falsa.
 

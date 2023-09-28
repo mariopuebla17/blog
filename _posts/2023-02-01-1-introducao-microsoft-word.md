@@ -11,14 +11,14 @@ Olá! Hoje vamos falar sobre **Microsoft Word**.
 ## Introdução ao Microsoft Word
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230201/word1.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/word1.jpg?raw=true)
 
 O Microsoft Word é um software de processamento de texto desenvolvido pela Microsoft. Ele permite que você crie, edite, formate e organize documentos de texto de maneira eficaz. O Word é amplamente utilizado para escrever documentos como relatórios, cartas, trabalhos acadêmicos e muito mais.
 
 ### Interface do Microsoft Word
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230201/word2.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/word2.jpg?raw=true)
 
 Quando você abre o Word, é recebido pela sua interface amigável, que inclui elementos como:
 
@@ -35,7 +35,7 @@ Quando você abre o Word, é recebido pela sua interface amigável, que inclui e
 ### Exemplos Práticos:
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230201/word3.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/word3.jpg?raw=true)
 
 1\. **Criar um Novo Documento:** Para começar a escrever, clique em "Arquivo" e selecione "Novo" para criar um novo documento em branco  
 

@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre **Parágrafos e Estilos no Microsoft Word**
 ## Parágrafos e Estilos: Por que são importantes?
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230201/word1.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/word1.jpg?raw=true)
 
 A formatação de parágrafos e o uso de estilos são cruciais para melhorar a organização e a legibilidade dos seus documentos. Isso ajuda a garantir que seu conteúdo seja claro, coeso e visualmente atraente.
 

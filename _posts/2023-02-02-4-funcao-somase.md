@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Função SOMASE"
-date: 2023-05-30 00:00:00 -0300
+date: 2023-02-02 00:04:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera
 ---
@@ -10,6 +10,8 @@ Olá! Hoje vamos falar sobre a função **SOMASE** do Excel
 
 ## O QUE É A FUNÇÃO SOMASE?
 
+
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel1.jpg?raw=true)
 
 A função **SOMASE** no Excel é uma função de planilha que permite somar os valores de um intervalo específico com base em um ou mais critérios. Ela é extremamente útil quando você precisa realizar cálculos condicionais, onde apenas as células que atendem a certas condições são incluídas na soma total.
 
@@ -33,7 +35,7 @@ Vamos supor que você tenha uma lista de vendas mensais e deseja somar apenas as
 =SOMASE(B1:B10;">=1000")
 ```
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230530/Screenshot_1.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel12.jpg?raw=true)  
 
 Neste exemplo, o intervalo é *B1:B10* (a coluna onde as vendas estão registradas) e o critério é ">1000" (apenas vendas acima de R$1.000 serão incluídas na soma).
 
@@ -43,7 +45,7 @@ Digamos que você tenha uma planilha de despesas com diferentes categorias, e vo
 =SOMASE(C1:C10;"Transporte";D1:D10)
 ```
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230530/Screenshot_2.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel13.jpg?raw=true)  
 
 Neste caso, o intervalo é *C1:C10* (a coluna onde as categorias estão listadas), o critério é "Transporte" (apenas despesas da categoria "Transporte" serão incluídas) e o intervalo_soma é *D1:D10* (a coluna com os valores das despesas).
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Função PROCV"
-date: 2023-06-06 00:00:00 -0300
+date: 2023-02-02 00:06:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera
 ---
@@ -10,6 +10,8 @@ Olá! Hoje vamos falar sobre a função **PROCV**
 
 ## O QUE É A FUNÇÃO PROCV?
 
+
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel1.jpg?raw=true)
 
 A função **PROCV** (procura vertical) é uma função de pesquisa e referência no Microsoft Excel, projetada para localizar um valor específico em uma tabela e retornar um valor correspondente em uma coluna adjacente. Ela é frequentemente utilizada para buscar dados em grandes conjuntos de dados ou tabelas, agilizando o processo de pesquisa e análise.
 
@@ -34,7 +36,7 @@ PROCV(valor_procurado;tabela_procurada;coluna_retorno;[procurar_intervalo])
 =PROCV("A";A1:B10;2;0)
 ```
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230606/procv1.JPG?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel16.jpg?raw=true)  
 
 Neste exemplo, "Produto A" é o valor procurado, A1:B10 é o intervalo em que a pesquisa será realizada, 2 é o número da coluna que contém os preços e 0 indica uma correspondência exata. O Excel irá encontrar o valor correspondente ao "Produto A" na segunda coluna da tabela e retorná-lo.
 
@@ -44,7 +46,7 @@ Neste exemplo, "Produto A" é o valor procurado, A1:B10 é o intervalo em que a 
 =PROCV(A2;A1:B10;2;0)
 ```
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230606/procv2.JPG?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel17.jpg?raw=true)  
 
 Neste exemplo, A2 contém o nome do funcionário que você deseja pesquisar, A1:B10 é o intervalo de células onde a pesquisa será realizada, 2 é o número da coluna que contém os salários e 0 indica uma correspondência exata. O Excel encontrará o salário correspondente ao funcionário e o retornará.
 

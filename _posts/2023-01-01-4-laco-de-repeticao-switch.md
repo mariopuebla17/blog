@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre o laço de repetição **SWITCH**
 ## O QUE É LAÇO DE REPETIÇÃO SWITCH?
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230427/pw1.jpeg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202301/pw1.jpeg?raw=true)
 
 O laço de repetição **switch** é uma estrutura de controle em linguagens de programação que permite a seleção entre várias opções de execução com base em uma expressão ou valor. Ele oferece uma alternativa concisa e legível para estruturas de controle condicional, como o **if-else** encadeado, especialmente quando existem múltiplas condições a serem verificadas.
 

@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre **Elementos Gráficos e Tabelas no Microsoft Word**
 ## Elementos Gráficos e Tabelas: Por que são importantes?
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230201/word1.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/word1.jpg?raw=true)
 
 A inclusão de elementos gráficos e tabelas em seus documentos pode ajudar a ilustrar informações complexas, tornar seus documentos mais envolventes e facilitar a compreensão do conteúdo.
 

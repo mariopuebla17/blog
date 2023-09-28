@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre **Formatação de Texto no Microsoft Word**
 ## Formatação de Texto: O que é e por que é importante?
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230201/word1.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/word1.jpg?raw=true)
 
 A formatação de texto envolve a personalização da aparência do seu texto. Isso vai além de apenas escrever palavras; trata-se de tornar o conteúdo legível, visualmente agradável e enfatizar informações importantes. A formatação é crucial para criar documentos profissionais e esteticamente agradáveis.
 

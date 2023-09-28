@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre **Documentos Avançados e Revisão no Microsoft Wor
 ## Documentos Avançados e Revisão: Por que são importantes?
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230201/word1.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/word1.jpg?raw=true)
 
 Dominar recursos avançados do Microsoft Word permite a criação de documentos altamente personalizados e de alta qualidade, além de simplificar a revisão e edição de documentos extensos.
 

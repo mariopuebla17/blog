@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Funções SE E e SE OU"
-date: 2023-05-23 00:00:00 -0300
+date: 2023-02-02 00:03:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera
 ---
@@ -10,6 +10,8 @@ Olá! Hoje vamos falar sobre as Funções **SE E** e **SE OU**
 
 ## O QUE É A FUNÇÃO SE E?
 
+
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel1.jpg?raw=true)
 
 A função SE E (AND) é usada para verificar se todas as condições especificadas são verdadeiras. Ela retorna VERDADEIRO se todas as condições forem verdadeiras e FALSO se pelo menos uma das condições for falsa.
 
@@ -26,7 +28,7 @@ Suponha que você deseje verificar se um aluno obteve notas acima de 70 em todas
 =SE(E(A2>70;B2>70;C2>70);"Aprovado";"Reprovado")
 ```
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230523/Screenshot_1.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel10.jpg?raw=true)  
 
 Neste exemplo, as células A2, B2 e C2 contêm as notas nas três disciplinas.
 
@@ -48,7 +50,7 @@ Digamos que você queira verificar se um funcionário está qualificado para rec
 =SE(OU(B6>=1000;B7>90%);"Bônus concedido";"Sem bônus")
 ```
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230523/Screenshot_2.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel11.jpg?raw=true)  
 
 Neste exemplo, A2 representa as vendas do funcionário e B2 representa a porcentagem de satisfação do cliente.
 
