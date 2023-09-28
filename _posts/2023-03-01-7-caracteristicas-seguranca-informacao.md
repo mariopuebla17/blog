@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Características da Segurança da Informação"
-date: 2023-08-20 00:00:00 -0300
+date: 2023-03-01 00:07:00 -0300
 categories: seguranca-informacao
 author: Escrito por Mario Herrera
 ---
@@ -11,13 +11,13 @@ Olá! Hoje vamos falar sobre as **Características da Segurança da Informação
 ## Características da Segurança da Informação
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230808/si.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si.jpg?raw=true)
 
 A segurança da informação tornou-se uma preocupação crítica na era digital. Com a crescente dependência da internet, a proteção dos dados e informações pessoais tornou-se uma prioridade para empresas e indivíduos. Neste artigo, exploraremos as principais características de segurança da informação, incluindo ameaças, golpes, malwares e a identificação de vulnerabilidades, visando fornecer uma base sólida para proteger a informação na era online.
 
 ### Ameaças à Segurança da Informação
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230820/si1.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si7.jpg?raw=true)
 
 As ameaças à segurança da informação são eventos ou situações que têm o potencial de causar danos aos dados, sistemas ou informações confidenciais. Essas ameaças podem ser classificadas em várias categorias, incluindo:  
 1\. **Malwares**: São programas maliciosos, como vírus, worms, trojans e ransomwares, projetados para se infiltrar em sistemas e causar danos. Eles podem roubar informações, destruir dados ou tornar sistemas inoperantes.  
@@ -28,7 +28,7 @@ As ameaças à segurança da informação são eventos ou situações que têm o
 
 ### Golpes Online
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230820/si2.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si8.jpg?raw=true)
 
 Os golpes online são estratégias fraudulentas usadas por criminosos para enganar pessoas e obter benefícios ilegais. Alguns exemplos comuns de golpes incluem:  
 1\. **Esquemas de Pirâmide**: Os participantes são recrutados para investir dinheiro em um sistema que promete altos retornos financeiros. No entanto, esses sistemas geralmente beneficiam apenas os primeiros investidores.  
@@ -38,7 +38,7 @@ Os golpes online são estratégias fraudulentas usadas por criminosos para engan
 
 ### Malwares: A Ameaça Silenciosa
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230820/si3.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si9.jpg?raw=true)
 
 Os malwares são uma das ameaças mais insidiosas à segurança da informação. Eles podem se infiltrar em dispositivos e sistemas sem serem detectados, causando danos significativos. Para proteger-se contra malwares, é importante adotar as seguintes medidas:  
 1\. **Mantenha Software Atualizado**: Certifique-se de que seu sistema operacional, aplicativos e antivírus estejam sempre atualizados para corrigir vulnerabilidades conhecidas.  
@@ -48,7 +48,7 @@ Os malwares são uma das ameaças mais insidiosas à segurança da informação.
 
 ### Identificação de Vulnerabilidades
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230820/si4.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si10.jpg?raw=true)
 
 A identificação de vulnerabilidades é um aspecto crucial da segurança da informação. Os administradores de sistemas e empresas devem realizar avaliações de vulnerabilidades regularmente para identificar potenciais pontos fracos em suas redes e sistemas. Aqui estão algumas práticas essenciais:  
 1\. **Testes de Penetração**: Realize testes de penetração para avaliar a segurança de sua rede e sistemas. Isso envolve a tentativa controlada de invadir seus próprios sistemas para identificar vulnerabilidades.  

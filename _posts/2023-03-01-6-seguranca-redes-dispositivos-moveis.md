@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Segurança em Redes de Computadores e Dispositivos Móveis"
-date: 2023-08-19 00:00:00 -0300
+date: 2023-03-01 00:06:00 -0300
 categories: seguranca-informacao
 author: Escrito por Mario Herrera
 ---
@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre **Segurança em Redes de Computadores e Dispositivo
 ## Segurança em Redes de Computadores e Dispositivos Móveis: Protegendo a Informação na Era Digital
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230819/si1.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si6.jpg?raw=true)
 
 A era digital trouxe consigo inúmeras oportunidades e conveniências, mas também desafios significativos, especialmente quando se trata de garantir a segurança da informação na internet. Com o crescimento exponencial das redes de computadores e dispositivos móveis, a necessidade de proteger dados sensíveis nunca foi tão crucial. Neste artigo, exploraremos os principais aspectos da segurança em redes de computadores e dispositivos móveis, oferecendo um guia abrangente para proteger informações valiosas na era digital.
 

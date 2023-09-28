@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mecanismos de Segurança"
-date: 2023-08-10 00:00:00 -0300
+date: 2023-03-01 00:03:00 -0300
 categories: seguranca-informacao
 author: Escrito por Mario Herrera
 ---
@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre **Mecanismos de Segurança na Internet**
 ## Mecanismos de Segurança na Internet: Protegendo a Era da Informação
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230810/si.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si3.jpg?raw=true)
 
 No mundo contemporâneo, a internet se tornou um componente essencial de nossas vidas. Ela possibilita a troca de informações, o acesso a recursos educacionais e o compartilhamento de conhecimento em uma escala global. No entanto, com essa conectividade expandida, surgem preocupações significativas relacionadas à segurança da informação. A medida que dependemos cada vez mais da internet, a necessidade de proteger nossos dados e sistemas contra ameaças cibernéticas torna-se crucial. Neste artigo, exploraremos alguns mecanismos de segurança fundamentais para manter nossas informações seguras na era da informação.
 

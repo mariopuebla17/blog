@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conceitos da Segurança da Informação"
-date: 2023-08-08 00:00:00 -0300
+date: 2023-03-01 00:01:00 -0300
 categories: seguranca-informacao
 author: Escrito por Mario Herrera
 ---
@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre **Conceitos da Segurança da Informação**
 ##  Conceitos Fundamentais de Segurança da Informação
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230808/si.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si.jpg?raw=true)
 
 No mundo moderno, onde a informação flui rapidamente através das redes digitais, a segurança da informação tornou-se uma preocupação essencial. Com o crescimento exponencial de dados compartilhados online, é crucial entender os conceitos fundamentais que cercam a proteção de informações sensíveis. Neste artigo, exploraremos os pilares da segurança da informação que servirão como base sólida para seus alunos entenderem e aplicarem medidas de proteção no cenário digital atual.
 
@@ -27,7 +27,7 @@ A disponibilidade está relacionada à acessibilidade dos dados e recursos quand
 ### Autenticidade
 A autenticidade diz respeito à garantia de que os dados, as origens e as ações são genuínos e confiáveis. Isso é frequentemente alcançado através de técnicas como a autenticação de usuários e sistemas, bem como o uso de certificados digitais. A autenticidade é essencial para evitar ataques de phishing e garantir que as informações provenham de fontes confiáveis.
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230808/si2.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si2.jpg?raw=true)
 
 **Conclusão:** A segurança da informação é um campo complexo e em constante evolução, mas compreender esses conceitos fundamentais é essencial para construir uma base sólida na proteção de dados e sistemas. Ao aprender sobre confidencialidade, integridade, disponibilidade, autenticidade e não repúdio, você irá ser capaz de enfrentar os desafios do mundo digital com confiança. Lembre-se de que a conscientização contínua, a atualização das práticas e a adoção de medidas de segurança apropriadas são cruciais para se manter à frente das ameaças em constante mudança no cenário da segurança da informação.  
 

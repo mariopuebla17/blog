@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cartilha de Segurança para Internet"
-date: 2023-08-09 00:00:00 -0300
+date: 2023-03-01 00:02:00 -0300
 categories: seguranca-informacao
 author: Escrito por Mario Herrera
 ---
@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre **Cartilha de Segurança para Internet**
 ## Cartilha de Segurança para Internet
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230809/si.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si1.jpg?raw=true)
 
 A Cartilha de Segurança para Internet é um guia fundamental para proteger seus dados e privacidade online. Ela aborda as melhores práticas e dicas para garantir uma experiência segura na internet. Aqui está um resumo das principais orientações:
 

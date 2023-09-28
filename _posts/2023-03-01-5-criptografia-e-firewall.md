@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Criptografia e Firewall"
-date: 2023-08-12 00:00:00 -0300
+date: 2023-03-01 00:05:00 -0300
 categories: seguranca-informacao
 author: Escrito por Mario Herrera
 ---
@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre **Criptografia e Firewall**
 ## Criptografia e Firewall: Pilares da Segurança da Informação na Internet
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230812/cf1.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si5.jpg?raw=true)
 
 A segurança da informação é um dos pilares fundamentais da era digital, onde a troca de dados acontece em alta velocidade e em grande volume pela internet. Nesse contexto, a criptografia e o firewall desempenham papéis cruciais na proteção de informações sensíveis. Este artigo explora esses dois conceitos essenciais, destacando sua importância na salvaguarda de dados e fornecendo informações úteis para professores e alunos.
 

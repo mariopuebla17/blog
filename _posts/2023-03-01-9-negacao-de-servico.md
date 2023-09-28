@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Negação de Serviço - DoS e DDoS"
-date: 2023-08-22 00:00:00 -0300
+date: 2023-03-01 00:09:00 -0300
 categories: seguranca-informacao
 author: Escrito por Mario Herrera
 ---
@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre **Negação de Serviço - DoS e DDoS**
 ## Negação de Serviço - DoS e DDoS: A Ameaça Constante à Segurança na Internet
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230820/si1.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si.jpg?raw=true)
 
 A segurança da informação é um dos pilares fundamentais da era digital em que vivemos. Com a crescente dependência da internet para realizar tarefas cotidianas e operações críticas de negócios, proteger sistemas e serviços online tornou-se uma prioridade. Uma das ameaças mais insidiosas que enfrentamos é a Negação de Serviço (DoS) e sua variação mais sofisticada, a Negação Distribuída de Serviço (DDoS). Neste artigo, exploraremos esses ataques, seus efeitos devastadores e como se proteger contra eles.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Engenharia Social e Análise de Segurança da Informação"
-date: 2023-08-21 00:00:00 -0300
+date: 2023-03-01 00:08:00 -0300
 categories: seguranca-informacao
 author: Escrito por Mario Herrera
 ---
@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre **Engenharia Social e Análise de Segurança da Inf
 ## Engenharia Social e Análise de Segurança da Informação na Era Digital
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/20230820/si1.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si1.jpg?raw=true)
 
 A segurança da informação é uma preocupação cada vez mais premente na era digital. Com a crescente dependência da internet e da tecnologia, a proteção dos dados pessoais e corporativos tornou-se uma prioridade para indivíduos e organizações. Entre as ameaças à segurança da informação, a engenharia social é uma das mais insidiosas e, ao mesmo tempo, menos compreendidas.
 
