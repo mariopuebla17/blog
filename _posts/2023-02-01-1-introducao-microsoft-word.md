@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introdução ao Microsoft Word"
-date: 2023-01-02 00:01:00 -0300
+date: 2023-02-01 00:01:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera
 ---

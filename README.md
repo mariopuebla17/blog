@@ -1,5 +1,3 @@
-# estrutura do blog
-
 ---
 layout: post
 title: "Título do Post"
@@ -30,10 +28,16 @@ Valeu!
 
 --------------------------
 
-ORDEM POSTAGENS
+ORDEM POSTAGENS (mesmo dia, minutos de acordo com a aula)
 
+- Desenvolvimento de Sistemas I
+  - 2023-01-01
+  
 - Aplicativos Informatizados
-  - Word
-  - Excel
-  - PowerPoint
-  - Access
+  - Word: 2023-02-01
+  - Excel: 2023-02-02
+  - PowerPoint: 2023-02-03
+  - Access: 2023-02-04
+
+- Segurança da Informação
+  - 2023-03-01
