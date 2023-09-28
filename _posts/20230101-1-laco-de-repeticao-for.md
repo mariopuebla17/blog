@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laço de Repetição: FOR"
-date: 2023-04-27 00:00:00 -0300
+date: 2023-01-01 00:01:00 -0300
 categories: desenvolvimento-de-sistemas-1
 author: Escrito por Mario Herrera
 ---
@@ -10,6 +10,8 @@ Olá! Hoje vamos falar sobre o laço de repetição **FOR**
 
 ## O QUE É LAÇO DE REPETIÇÃO FOR?
 
+
+![](https://github.com/mariopuebla17/blog/blob/main/_images/20230427/pw1.jpeg?raw=true)
 
 O laço de repetição **FOR** é uma estrutura de controle em programação que permite a execução repetida de um bloco de código por um número conhecido de vezes. Ele é especialmente útil quando **se deseja iterar sobre uma sequência de elementos, como uma lista, tupla ou string**, executando uma ação para cada item. A sintaxe básica do **FOR** consiste em uma variável que assume o valor de cada elemento da sequência em cada iteração, seguida por dois pontos e o bloco de código a ser executado. Ao final de cada iteração, a variável é atualizada para o próximo elemento da sequência até que todos os elementos tenham sido processados.
 

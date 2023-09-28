@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laço de Repetição: WHILE"
-date: 2023-05-04 00:00:00 -0300
+date: 2023-01-01 00:02:00 -0300
 categories: desenvolvimento-de-sistemas-1
 author: Escrito por Mario Herrera
 ---
@@ -9,6 +9,9 @@ author: Escrito por Mario Herrera
 Olá! Hoje vamos falar sobre o laço de repetição **WHILE**
 
 ## O QUE É LAÇO DE REPETIÇÃO WHILE?
+
+
+![](https://github.com/mariopuebla17/blog/blob/main/_images/20230427/pw1.jpeg?raw=true)
 
 O laço de repetição **while** é uma estrutura de controle utilizada em programação que permite executar repetidamente um bloco de código enquanto uma determinada condição for verdadeira. Ou seja, enquanto a expressão booleana que é avaliada no início do laço for verdadeira, o bloco de código dentro do laço é executado repetidamente. Quando a condição se tornar falsa, a execução do laço é interrompida e o controle é passado para o próximo comando após o bloco **while**. Isso torna o **while** útil para executar ações repetidamente até que uma determinada condição seja atendida.
 
