@@ -20,7 +20,7 @@ O Microsoft Access é um poderoso sistema de gerenciamento de banco de dados que
 1\. Criação de um Novo Banco de Dados  
 Após abrir o Microsoft Access, você pode criar um novo banco de dados em branco. Isso é semelhante a abrir um caderno em branco para começar a escrever. O banco de dados em branco será o local onde você armazenará todas as suas informações, como listas de contatos, inventários ou registros de alunos.
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/access.2jpg?raw=true)  
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/access2.jpg?raw=true)  
 
 2\. Explorando a Interface  
 O Access possui uma interface intuitiva que inclui a barra de ferramentas na parte superior e o painel de navegação à esquerda. A barra de ferramentas contém botões para realizar ações como criar tabelas, consultas, formulários e relatórios. O painel de navegação mostra todos os objetos do banco de dados, como tabelas, consultas e formulários.
