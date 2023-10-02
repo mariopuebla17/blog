@@ -29,13 +29,13 @@ Nesta aula do nosso curso sobre o Microsoft Access, vamos mergulhar nas funciona
 
 3\. **Consultas Paramétricas:** Outra funcionalidade poderosa das consultas é a capacidade de criar consultas paramétricas. Isso permite que você faça perguntas ao usuário durante a execução da consulta. Por exemplo, ao executar uma consulta de "Produtos Vendidos", você pode solicitar ao usuário que insira uma faixa de datas, e a consulta retornará apenas os produtos vendidos dentro desse intervalo  
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/access12.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/access12.jpg?raw=true)    
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/access14.jpg?raw=true)  
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/access15.jpg?raw=true)
 
 4\. **Personalizando a Aparência de Formulários:** Além de facilitar a entrada de dados, os formulários também podem ser personalizados quanto à aparência. Você pode adicionar logotipos, cores e ajustar o layout para criar um ambiente de trabalho mais agradável e profissional  
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/access13.jpg?raw=true)  
-![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/access14.jpg?raw=true)  
-![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/access15.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/access13.jpg?raw=true)
 
 **Conclusão:** Nesta aula, você aprenderá a criar consultas para recuperar informações específicas e a projetar formulários para melhorar a usabilidade do seu banco de dados. Isso o ajudará a interagir com seus dados de maneira mais eficiente e a fornecer uma experiência de usuário mais agradável.
 
