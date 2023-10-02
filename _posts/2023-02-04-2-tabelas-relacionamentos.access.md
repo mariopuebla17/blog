@@ -13,7 +13,7 @@ Olá! Hoje vamos falar sobre **Tabelas e Relacionamentos no Microsoft Access**
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/access.jpg?raw=true)
 
-Nessa aula vamos mergulhar fundo na criação de tabelas e estabelecimento de relacionamentos. As tabelas servem como a base fundamental do seu banco de dados, onde você organiza e armazena seus dados de maneira estruturada. Os relacionamentos, por sua vez, permitem conectar informações de diferentes tabelas, tornando seu banco de dados mais eficiente e flexível.
+Nesta aula vamos mergulhar fundo na criação de tabelas e estabelecimento de relacionamentos. As tabelas servem como a base fundamental do seu banco de dados, onde você organiza e armazena seus dados de maneira estruturada. Os relacionamentos, por sua vez, permitem conectar informações de diferentes tabelas, tornando seu banco de dados mais eficiente e flexível.
 
 ### Exemplos Práticos:
 
