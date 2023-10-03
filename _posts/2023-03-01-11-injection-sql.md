@@ -51,6 +51,8 @@ Os ataques de Injeção de SQL podem ter consequências devastadoras para as org
 
 ### Como Proteger Sistemas contra Injeção de SQL
 
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si16.jpg?raw=true)
+
 Para proteger sistemas contra ataques de Injeção de SQL, é fundamental adotar boas práticas de segurança:
 
 1\. **Validação de Entradas:** Sempre valide e sanitize as entradas do usuário. Use bibliotecas e frameworks que ofereçam recursos de validação para garantir que apenas dados confiáveis ​​sejam processados.
