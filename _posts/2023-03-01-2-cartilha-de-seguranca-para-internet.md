@@ -44,7 +44,7 @@ A Cartilha de Segurança para Internet é um guia fundamental para proteger seus
 . Verifique a autenticidade dos downloads e use antivírus atualizado
 
 9. Cópias de Segurança (Backups):  
-. Faça regularmente cópias de segurança dos seus dados importantes em dispositivos externos ou na nuvem
+. Faça regularmente cópias de segurança dos seus dados importantes em dispositivos externos (pendrive, HD externo, etc.)
 
 10. Educação Contínua:  
 . Mantenha-se atualizado sobre ameaças online e boas práticas de segurança  
