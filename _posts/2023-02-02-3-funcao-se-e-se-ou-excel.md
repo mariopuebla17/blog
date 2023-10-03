@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Funções SE E e SE OU"
+title: "Funções SE E e SE OU no Microsoft Excel"
 date: 2023-02-02 00:03:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera

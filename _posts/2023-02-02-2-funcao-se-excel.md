@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Função SE"
+title: "Função SE no Microsoft Excel"
 date: 2023-02-02 00:02:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Função CONT.SE"
+title: "Função CONT.SE no Microsoft Excel"
 date: 2023-02-02 00:05:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera
