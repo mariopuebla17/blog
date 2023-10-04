@@ -13,7 +13,7 @@ Olá! Hoje vamos falar sobre **Relatórios e Macros no Microsoft Access**
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/access.jpg?raw=true)
 
-Na quarta aula do nosso curso sobre o Microsoft Access, vamos explorar as funcionalidades de relatórios e macros. Os relatórios permitem que você apresente seus dados de maneira profissional e compreensível, enquanto as macros automatizam tarefas repetitivas, economizando tempo e melhorando a eficiência do seu banco de dados.
+Nesta aula do nosso curso sobre o Microsoft Access, vamos explorar as funcionalidades de relatórios e macros. Os relatórios permitem que você apresente seus dados de maneira profissional e compreensível, enquanto as macros automatizam tarefas repetitivas, economizando tempo e melhorando a eficiência do seu banco de dados.
 
 ### Exemplos Práticos:
 
