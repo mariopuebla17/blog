@@ -17,18 +17,15 @@ Nessa aula vamos mergulhar mais fundo na criação de slides. Slides bem elabora
 
 ### Exemplos Práticos:
 
-1\. Inserção de Slides e Layouts:  
-Ao criar uma apresentação, você pode adicionar slides facilmente. O PowerPoint oferece diversos layouts para escolher, como slides de título, slides de conteúdo, slides de imagem e muito mais. Por exemplo, você pode escolher um slide de título para o início da apresentação e, em seguida, slides de conteúdo para detalhar cada ponto.
+1\. **Inserção de Slides e Layouts:** Ao criar uma apresentação, você pode adicionar slides facilmente. O PowerPoint oferece diversos layouts para escolher, como slides de título, slides de conteúdo, slides de imagem e muito mais. Por exemplo, você pode escolher um slide de título para o início da apresentação e, em seguida, slides de conteúdo para detalhar cada ponto.
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/ppt2.jpg?raw=true)  
 
-2\. Editando Títulos e Conteúdo:  
-Clique em um slide para selecioná-lo e, em seguida, digite o título e o conteúdo diretamente nos espaços designados. Isso permite que você defina a estrutura da sua apresentação de maneira organizada e fácil de entender.
+2\. **Editando Títulos e Conteúdo:** Clique em um slide para selecioná-lo e, em seguida, digite o título e o conteúdo diretamente nos espaços designados. Isso permite que você defina a estrutura da sua apresentação de maneira organizada e fácil de entender.
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/ppt3.jpg?raw=true)  
 
-3\. Alterando Fundos e Cores de Slides:  
-Personalize a aparência dos slides selecionando diferentes fundos, cores de texto e esquemas de cores. Por exemplo, você pode escolher um fundo azul para um slide e alterar a cor do texto para branco para garantir a legibilidade.
+3\. **Alterando Fundos e Cores de Slides:** Personalize a aparência dos slides selecionando diferentes fundos, cores de texto e esquemas de cores. Por exemplo, você pode escolher um fundo azul para um slide e alterar a cor do texto para branco para garantir a legibilidade.
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/ppt4.jpg?raw=true)  
 

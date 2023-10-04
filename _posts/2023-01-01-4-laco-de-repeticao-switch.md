@@ -17,7 +17,7 @@ O laço de repetição **switch** é uma estrutura de controle em linguagens de 
 
 ### Mas e aí, como fazer isso?
 
-1\. Verificação de dia da semana:
+1\. **Verificação de dia da semana:**
 
 ```c++
 #include <iostream>
@@ -59,7 +59,7 @@ int main() {
 }
 ```
 
-2\. Verificação de mês do ano:
+2\. **Verificação de mês do ano:**
 
 ```c++
 #include <iostream>

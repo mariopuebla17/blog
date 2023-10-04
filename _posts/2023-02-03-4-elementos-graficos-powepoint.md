@@ -17,18 +17,15 @@ Na quarta aula do nosso curso de PowerPoint, vamos explorar como inserir element
 
 ### Exemplos Práticos:
 
-1\. Inserindo Imagens e Ilustrações:  
-Você pode facilmente adicionar imagens e ilustrações aos seus slides para ilustrar pontos importantes. Por exemplo, se estiver fazendo uma apresentação sobre viagens, você pode inserir imagens de destinos turísticos para tornar seus slides mais atrativos.
+1\. **Inserindo Imagens e Ilustrações:** Você pode facilmente adicionar imagens e ilustrações aos seus slides para ilustrar pontos importantes. Por exemplo, se estiver fazendo uma apresentação sobre viagens, você pode inserir imagens de destinos turísticos para tornar seus slides mais atrativos.
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/ppt8.jpg?raw=true)  
 
-2\. Uso de Gráficos e Formas:  
-O PowerPoint oferece ferramentas para criar gráficos e formas personalizadas. Por exemplo, você pode criar um gráfico de barras para representar dados estatísticos ou adicionar setas e círculos para destacar informações específicas em seus slides.
+2\. **Uso de Gráficos e Formas:** O PowerPoint oferece ferramentas para criar gráficos e formas personalizadas. Por exemplo, você pode criar um gráfico de barras para representar dados estatísticos ou adicionar setas e círculos para destacar informações específicas em seus slides.
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/ppt9.jpg?raw=true)  
 
-3\. Animação de Objetos:  
-Além de inserir elementos gráficos, você pode aplicar animações a esses objetos para tornar sua apresentação mais dinâmica. Por exemplo, você pode fazer com que um gráfico apareça gradualmente durante a apresentação para enfatizar um ponto-chave.
+3\. **Animação de Objetos:** Além de inserir elementos gráficos, você pode aplicar animações a esses objetos para tornar sua apresentação mais dinâmica. Por exemplo, você pode fazer com que um gráfico apareça gradualmente durante a apresentação para enfatizar um ponto-chave.
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/ppt10.jpg?raw=true)  
 
