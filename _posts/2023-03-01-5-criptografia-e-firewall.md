@@ -23,9 +23,9 @@ A criptografia é a técnica que transforma informações legíveis em um format
 
 Existem dois tipos principais de criptografia: a simétrica e a assimétrica.
 
-1. Criptografia Simétrica: Nesse método, a mesma chave é usada tanto para criptografar quanto para descriptografar os dados. Isso a torna mais rápida, mas requer uma maneira segura de compartilhar a chave entre as partes envolvidas.
+1. **Criptografia Simétrica:** Nesse método, a mesma chave é usada tanto para criptografar quanto para descriptografar os dados. Isso a torna mais rápida, mas requer uma maneira segura de compartilhar a chave entre as partes envolvidas.
 
-2. Criptografia Assimétrica: Nesse caso, são usadas duas chaves distintas: uma chave pública e uma chave privada. A chave pública é usada para criptografar os dados, enquanto a chave privada é usada para descriptografá-los. Isso elimina a necessidade de compartilhar uma única chave secreta.
+2. **Criptografia Assimétrica:** Nesse caso, são usadas duas chaves distintas: uma chave pública e uma chave privada. A chave pública é usada para criptografar os dados, enquanto a chave privada é usada para descriptografá-los. Isso elimina a necessidade de compartilhar uma única chave secreta.
 
 #### Uso da Criptografia na Internet
 
@@ -39,19 +39,19 @@ Um firewall é uma barreira de segurança que monitora e controla o tráfego de 
 
 Existem dois tipos principais de firewalls:
 
-1. Firewalls de Hardware: São dispositivos físicos que atuam como intermediários entre a rede interna e a internet. Eles examinam o tráfego de rede em busca de ameaças e bloqueiam o acesso não autorizado.
+1. **Firewalls de Hardware:** São dispositivos físicos que atuam como intermediários entre a rede interna e a internet. Eles examinam o tráfego de rede em busca de ameaças e bloqueiam o acesso não autorizado.
 
-2. Firewalls de Software: São aplicativos que são instalados em dispositivos individuais, como computadores ou servidores. Eles controlam o tráfego de entrada e saída do dispositivo, aplicando regras de segurança específicas.
+2. **Firewalls de Software:** São aplicativos que são instalados em dispositivos individuais, como computadores ou servidores. Eles controlam o tráfego de entrada e saída do dispositivo, aplicando regras de segurança específicas.
 
 #### Funções dos Firewalls
 
 Os firewalls desempenham várias funções vitais na segurança da informação:
 
-1. Filtragem de Pacotes: Eles analisam os pacotes de dados que entram e saem da rede, permitindo ou bloqueando com base em regras predefinidas.
+1. **Filtragem de Pacotes:** Eles analisam os pacotes de dados que entram e saem da rede, permitindo ou bloqueando com base em regras predefinidas.
 
-2. Proxy: Atuam como intermediários entre o usuário e a internet, ocultando detalhes da rede interna.
+2. **Proxy:** Atuam como intermediários entre o usuário e a internet, ocultando detalhes da rede interna.
 
-3. Detecção de Intrusões: Alguns firewalls têm recursos de detecção de intrusões que identificam atividades suspeitas e bloqueiam ameaças em tempo real.
+3. **Detecção de Intrusões:** Alguns firewalls têm recursos de detecção de intrusões que identificam atividades suspeitas e bloqueiam ameaças em tempo real.
 
 **Conclusão:** A criptografia e os firewalls são elementos essenciais para a segurança da informação na internet. A criptografia protege os dados durante a transmissão, enquanto os firewalls atuam como guardiões virtuais, controlando o tráfego de rede e impedindo ameaças cibernéticas. Para professores e alunos interessados em segurança da informação, é fundamental compreender esses conceitos e sua aplicação prática na proteção de dados em um mundo digital cada vez mais interconectado. Com essas ferramentas em mãos, podemos enfrentar os desafios da segurança cibernética com confiança e resiliência.  
 
