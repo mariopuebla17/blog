@@ -15,17 +15,17 @@ Olá! Hoje vamos falar sobre **Cartilha de Segurança para Internet**
 
 A Cartilha de Segurança para Internet é um guia fundamental para proteger seus dados e privacidade online. Ela aborda as melhores práticas e dicas para garantir uma experiência segura na internet. Aqui está um resumo das principais orientações:
 
-1. Senhas Fortes:  
+1\. Senhas Fortes:  
 . Utilize senhas fortes, com combinações de letras maiúsculas, minúsculas, números e caracteres especiais  
 . Evite senhas óbvias, como datas de nascimento ou palavras comuns
 
-2. Autenticação de Dois Fatores (2FA):  
+2\. Autenticação de Dois Fatores (2FA):  
 . Ative a autenticação de dois fatores sempre que possível para adicionar uma camada extra de segurança às suas contas online
 
-3. Atualizações de Software:  
+3\. Atualizações de Software:  
 . Mantenha seu sistema operacional, navegadores e aplicativos sempre atualizados para corrigir vulnerabilidades de segurança
 
-4. Evite Phishing:  
+4\. Evite Phishing:  
 . Desconfie de e-mails, mensagens ou links suspeitos  
 . Não forneça informações pessoais ou financeiras em sites duvidosos
 

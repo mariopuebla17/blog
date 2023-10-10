@@ -25,10 +25,10 @@ Uma vez que o **formulário** é criado, os dados inseridos são automaticamente
 
 Primeira coisa que iremos fazer é ativar o modo Formulário. Para isso:
 
-1. Abrir as **Opções do Excel**
-2. Opção **Barra de Ferramentas de Acesso Rápido**
-3. Na aba **Escolher comandos em:**, selecione a opção **Todos os Comandos**
-4. Procure pela opção **Formulário**, e clica em **Adicionar >>**
+1\. Abrir as **Opções do Excel**
+2\. Opção **Barra de Ferramentas de Acesso Rápido**
+3\. Na aba **Escolher comandos em:**, selecione a opção **Todos os Comandos**
+4\. Procure pela opção **Formulário**, e clica em **Adicionar >>**
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel2.jpg?raw=true)  
 

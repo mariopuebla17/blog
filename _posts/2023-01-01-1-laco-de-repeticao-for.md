@@ -27,12 +27,12 @@ for (comandos de inicialização;condição de teste;incremento/decremento)
 
 O funcionamento é o seguinte: 
 
-1. Executa os comandos de inicialização;
-2. Testa a condição;
-3. Se a condição for falsa então executa o comando que está logo após o bloco subordinado ao **FOR** .
-4. Se condição for verdadeira então executa os comandos que estão subordinados ao **FOR**; 
-5. Executa os comandos de incremento/decremento; 
-6. Volta ao passo 2. 
+1\. Executa os comandos de inicialização;
+2\. Testa a condição;
+3\. Se a condição for falsa então executa o comando que está logo após o bloco subordinado ao **FOR**
+4\. Se condição for verdadeira então executa os comandos que estão subordinados ao **FOR**
+5\. Executa os comandos de incremento/decremento
+6\. Volta ao passo 2
 
 
 O comando **FOR** deve ser usado sempre que: 
