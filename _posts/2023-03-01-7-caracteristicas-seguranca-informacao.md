@@ -57,7 +57,7 @@ A identificação de vulnerabilidades é um aspecto crucial da segurança da inf
 
 1\. **Testes de Penetração**: Realize testes de penetração para avaliar a segurança de sua rede e sistemas. Isso envolve a tentativa controlada de invadir seus próprios sistemas para identificar vulnerabilidades.  
 2\. **Atualizações Regulares**: Mantenha todos os sistemas e software atualizados com as últimas correções de segurança.  
-3\. **Políticas de Senhas Fortes**: Implemente políticas que exijam senhas fortes e a troca regular de senhas.  ;
+3\. **Políticas de Senhas Fortes**: Implemente políticas que exijam senhas fortes e a troca regular de senhas.  
 4\. **Monitoramento de Logs**: Monitore regularmente os logs de segurança para detectar atividades suspeitas.
 
 
