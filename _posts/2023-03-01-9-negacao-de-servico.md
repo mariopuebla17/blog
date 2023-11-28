@@ -11,7 +11,7 @@ Olá! Hoje vamos falar sobre **Negação de Serviço - DoS e DDoS**
 ## Negação de Serviço - DoS e DDoS: A Ameaça Constante à Segurança na Internet
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si20.jpg?raw=true)
 
 A segurança da informação é um dos pilares fundamentais da era digital em que vivemos. Com a crescente dependência da internet para realizar tarefas cotidianas e operações críticas de negócios, proteger sistemas e serviços online tornou-se uma prioridade. Uma das ameaças mais insidiosas que enfrentamos é a Negação de Serviço (DoS) e sua variação mais sofisticada, a Negação Distribuída de Serviço (DDoS). Neste artigo, exploraremos esses ataques, seus efeitos devastadores e como se proteger contra eles.
 
@@ -23,13 +23,19 @@ A Negação de Serviço, DoS em sua sigla em inglês, é um ataque cibernético 
 
 Um ataque DoS geralmente envolve o envio de uma grande quantidade de tráfego malicioso para o alvo. Isso pode ser feito de várias maneiras, como inundando o alvo com solicitações de conexão, enviando pacotes mal formados ou explorando vulnerabilidades no software do alvo. Quando o sistema alvo fica sobrecarregado com tráfego malicioso, ele deixa de responder às solicitações legítimas, resultando na negação de serviço para os usuários legítimos.
 
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si21.jpg?raw=true)
+
 ### A Evolução para Negação Distribuída de Serviço (DDoS)
 
 À medida que as defesas contra ataques DoS tradicionais se tornaram mais robustas, os criminosos cibernéticos evoluíram para o uso de Negação Distribuída de Serviço (DDoS). Em um ataque DDoS, uma rede de dispositivos comprometidos, conhecidos como botnets, é usada para coordenar e lançar o ataque. Isso torna o ataque muito mais difícil de ser mitigado, pois a origem do tráfego malicioso é distribuída em várias localizações geográficas e endereços IP.
 
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si22.jpg?raw=true)
+
 ### Efeitos Devastadores dos Ataques DoS e DDoS
 
 Os ataques DoS e DDoS podem ter efeitos devastadores. Eles podem causar interrupções significativas nos serviços online, resultando em perda de receita, danos à reputação da empresa e, em alguns casos, violações de dados. Além disso, esses ataques podem ser usados como distração enquanto os invasores exploram outras vulnerabilidades de segurança ou realizam outros tipos de ataques.
+
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si23.jpg?raw=true)
 
 ### Estratégias de Mitigação e Proteção
 
