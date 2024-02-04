@@ -10,7 +10,7 @@ author: Escrito por {autor}
 
 Olá! Hoje vamos falar sobre {TEMA}
 
-## TÌTULO (pular com 2 enters)
+## TÍTULO (pular com 2 enters)
 
 ### Subtítulos (pular com 1 enter)
 
@@ -43,3 +43,9 @@ ORDEM POSTAGENS (mesmo dia, minutos de acordo com a aula)
 
 - Segurança da Informação (202303)
   - 2023-03-01
+  
+- Desenvolvimento de Sistemas Embarcados (202401)
+  - 2024-01-01
+
+- Redes de Computadores (202402)
+  - 2024-02-01
