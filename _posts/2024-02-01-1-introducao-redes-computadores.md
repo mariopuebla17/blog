@@ -2,8 +2,8 @@
 layout: post
 title: "Introdução às Redes de Computadores"
 date: 2024-02-01 00:00:00 -0300
-categories: matéria
-author: Escrito por {autor}
+categories: redes-de-computadores
+author: Escrito por Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre **Redes de Computadores**
