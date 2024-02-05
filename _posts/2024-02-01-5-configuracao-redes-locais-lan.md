@@ -2,7 +2,7 @@
 layout: post
 title: "Configuração de Redes Locais (LAN)"
 date: 2024-02-01 00:05:00 -0300
-categories: matéria
+categories: redes-de-computadores
 author: Escrito por Mario Herrera
 ---
 

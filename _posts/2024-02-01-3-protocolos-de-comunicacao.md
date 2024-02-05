@@ -2,7 +2,7 @@
 layout: post
 title: "Protocolos de Comunicação"
 date: 2024-02-01 00:03:00 -0300
-categories: matéria
+categories: redes-de-computadores
 author: Escrito por Mario Herrera
 ---
 

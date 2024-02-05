@@ -2,7 +2,7 @@
 layout: post
 title: "Endereçamento IP e Sub-redes"
 date: yyyy-mm-dd 00:00:00 -0300
-categories: matéria
+categories: redes-de-computadores
 author: Escrito por Mario Herrera
 ---
 
