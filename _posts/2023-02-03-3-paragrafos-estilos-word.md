@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Parágrafos e Estilos no Microsoft Word"
-date: 2023-02-01 00:03:00 -0300
+date: 2023-02-03 00:03:00 -0300
 categories: aplicativos-informatizados
 author: Escrito por Mario Herrera
 ---

@@ -36,9 +36,9 @@ ORDEM POSTAGENS (mesmo dia, minutos de acordo com a aula)
   - 2023-01-01
   
 - Aplicativos Informatizados (202302)
-  - Word: 2023-02-01
-  - Excel: 2023-02-02
-  - PowerPoint: 2023-02-03
+  - Excel: 2023-02-01
+  - PowerPoint: 2023-02-02
+  - Word: 2023-02-03
   - Access: 2023-02-04
 
 - Segurança da Informação (202303)
