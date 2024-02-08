@@ -175,7 +175,7 @@ Configurar um túnel VPN IPSec dentro de um roteador de alta segurança com aute
 ## Uso e Limitações da DMZ - Zona Desmilitarizada
 
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/202402/redes1.jpg?raw=true)
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202402/redes.jpg?raw=true)
 
 A DMZ é uma zona de rede separada e desprotegida que fica entre a rede interna e a Internet. Ela é usada para hospedar serviços que precisam ser acessíveis a partir da Internet, como servidores web ou de e-mail.
 
