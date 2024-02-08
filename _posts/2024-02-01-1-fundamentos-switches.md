@@ -108,6 +108,7 @@ Isso copia o sistema operacional atual do switch para um servidor TFTP com o end
 
 Para atualizar o IOS de um switch, você pode fazer o download da versão mais recente do IOS da Cisco, transferi-la para o switch e, em seguida, usar o comando copy para substituir o IOS existente pelo novo.
 
+
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
 
 Valeu!
