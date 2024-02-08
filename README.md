@@ -47,5 +47,5 @@ ORDEM POSTAGENS (mesmo dia, minutos de acordo com a aula)
 - Desenvolvimento de Sistemas Embarcados (202401)
   - 2024-01-01
 
-- Redes de Computadores (202402)
+- Redes de Computadores II (202402)
   - 2024-02-01
