@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Conceito de Suporte e Configuração de Roteadores"
+title: "Configuração de Roteadores"
 date: 2024-02-01 00:03:00 -0300
 categories: redes-comunicacao-dados-ii
 author: Escrito por Mario Herrera
 ---
 
-Olá! Hoje vamos falar sobre **Conceito de Suporte e Configuração de Roteadores**
+Olá! Hoje vamos falar sobre **Configuração de Roteadores**
 
 ## Máscara de Sub-rede
 
