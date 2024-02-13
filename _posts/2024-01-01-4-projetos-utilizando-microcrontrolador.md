@@ -95,11 +95,11 @@ void loop() {
 Neste exemplo, um buzzer emite um som quando luz forte é detectada pelo sensor de luz.
 
 Outras ideias:
-. Controlando um motor CC		
-. Displays de LED		
-. Displays de cristal líquido		
-. Motores de passo e robôs		
-. Sensores		
+- Controlando um motor CC
+- Displays de LED
+- Displays de cristal líquido
+- Motores de passo e robôs
+- Sensores		
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!
