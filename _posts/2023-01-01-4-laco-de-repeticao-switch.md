@@ -3,7 +3,7 @@ layout: post
 title: "Laço de Repetição: SWITCH"
 date: 2023-01-01 00:04:00 -0300
 categories: desenvolvimento-de-sistemas-1
-author: Escrito por Mario Herrera
+author: Escrito por Prof. Mario Herrera
 ---
  
 Olá! Hoje vamos falar sobre o laço de repetição **SWITCH**

@@ -3,7 +3,7 @@ layout: post
 title: "Elementos Gráficos e Tabelas no Microsoft Word"
 date: 2023-02-03 00:04:00 -0300
 categories: aplicativos-informatizados
-author: Escrito por Mario Herrera
+author: Escrito por Prof. Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre **Elementos Gráficos e Tabelas no Microsoft Word**

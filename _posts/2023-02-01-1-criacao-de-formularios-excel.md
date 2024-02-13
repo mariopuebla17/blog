@@ -3,7 +3,7 @@ layout: post
 title: "Criação de Formulários no Microsoft Excel"
 date: 2023-02-01 00:01:00 -0300
 categories: aplicativos-informatizados
-author: Escrito por Mario Herrera
+author: Escrito por Prof. Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre criação de formulários, e **pasmem**, SEM VBA!

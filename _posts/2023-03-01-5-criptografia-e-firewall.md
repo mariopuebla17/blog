@@ -3,7 +3,7 @@ layout: post
 title: "Criptografia e Firewall"
 date: 2023-03-01 00:05:00 -0300
 categories: seguranca-informacao
-author: Escrito por Mario Herrera
+author: Escrito por Prof. Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre **Criptografia e Firewall**

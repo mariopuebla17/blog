@@ -3,7 +3,7 @@ layout: post
 title: "Segurança e Exportação no Microsoft Access"
 date: 2023-02-04 00:05:00 -0300
 categories: aplicativos-informatizados
-author: Escrito por Mario Herrera
+author: Escrito por Prof. Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre **Segurança e Exportação no Microsoft Access**

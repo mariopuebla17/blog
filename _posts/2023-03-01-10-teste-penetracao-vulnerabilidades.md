@@ -3,7 +3,7 @@ layout: post
 title: "Testes de Penetração e de Vulnerabilidades"
 date: 2023-03-01 00:10:00 -0300
 categories: seguranca-informacao
-author: Escrito por Mario Herrera
+author: Escrito por Prof. Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre **Testes de Penetração e de Vulnerabilidades**

@@ -3,7 +3,7 @@ layout: post
 title: "Mecanismos de Segurança"
 date: 2023-03-01 00:03:00 -0300
 categories: seguranca-informacao
-author: Escrito por Mario Herrera
+author: Escrito por Prof. Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre **Mecanismos de Segurança na Internet**

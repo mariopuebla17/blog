@@ -3,7 +3,7 @@ layout: post
 title: "Negação de Serviço - DoS e DDoS"
 date: 2023-03-01 00:09:00 -0300
 categories: seguranca-informacao
-author: Escrito por Mario Herrera
+author: Escrito por Prof. Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre **Negação de Serviço - DoS e DDoS**

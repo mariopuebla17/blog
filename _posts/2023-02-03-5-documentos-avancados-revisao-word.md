@@ -3,7 +3,7 @@ layout: post
 title: "Documentos Avançados e Revisão no Microsoft Word"
 date: 2023-02-03 00:05:00 -0300
 categories: aplicativos-informatizados
-author: Escrito por Mario Herrera
+author: Escrito por Prof. Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre **Documentos Avançados e Revisão no Microsoft Word**

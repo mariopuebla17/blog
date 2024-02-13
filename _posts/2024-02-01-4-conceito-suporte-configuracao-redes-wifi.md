@@ -3,7 +3,7 @@ layout: post
 title: "Configuração de redes WIFI"
 date: 2024-02-01 00:04:00 -0300
 categories: redes-comunicacao-dados-ii
-author: Escrito por Mario Herrera
+author: Escrito por Prof. Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre **Configuração de Redes WIFI**

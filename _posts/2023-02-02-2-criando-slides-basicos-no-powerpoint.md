@@ -3,7 +3,7 @@ layout: post
 title: "Criando Slides Básicos no PowerPoint"
 date: 2023-02-02 00:02:00 -0300
 categories: aplicativos-informatizados
-author: Escrito por Mario Herrera
+author: Escrito por Prof. Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre **Criando Slides Básicos no PowerPoint**

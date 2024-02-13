@@ -3,7 +3,7 @@ layout: post
 title: "Elementos Gráficos no PowerPoint"
 date: 2023-02-02 00:04:00 -0300
 categories: aplicativos-informatizados
-author: Escrito por Mario Herrera
+author: Escrito por Prof. Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre **Elementos Gráficos no PowerPoint**.

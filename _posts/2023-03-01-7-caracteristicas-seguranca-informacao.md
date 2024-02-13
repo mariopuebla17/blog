@@ -3,7 +3,7 @@ layout: post
 title: "Características da Segurança da Informação"
 date: 2023-03-01 00:07:00 -0300
 categories: seguranca-informacao
-author: Escrito por Mario Herrera
+author: Escrito por Prof. Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre as **Características da Segurança da Informação**.

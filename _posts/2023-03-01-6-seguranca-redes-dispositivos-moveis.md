@@ -3,7 +3,7 @@ layout: post
 title: "Segurança em Redes de Computadores e Dispositivos Móveis"
 date: 2023-03-01 00:06:00 -0300
 categories: seguranca-informacao
-author: Escrito por Mario Herrera
+author: Escrito por Prof. Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre **Segurança em Redes de Computadores e Dispositivos Móveis**.

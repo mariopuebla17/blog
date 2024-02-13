@@ -3,7 +3,7 @@ layout: post
 title: "Engenharia Social e Análise de Segurança da Informação"
 date: 2023-03-01 00:08:00 -0300
 categories: seguranca-informacao
-author: Escrito por Mario Herrera
+author: Escrito por Prof. Mario Herrera
 ---
 
 Olá! Hoje vamos falar sobre **Engenharia Social e Análise de Segurança da Informação**
