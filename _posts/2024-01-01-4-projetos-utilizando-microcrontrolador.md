@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Projetos utilizando microcontrolador"
+title: "Projetos utilizando Microcontrolador"
 date: 2024-01-01 00:04:00 -0300
 categories: sistemas-embarcados
 author: Escrito por Prof. Mario Herrera
 ---
 
-Olá! Hoje vamos falar sobre **Projetos utilizando microcontrolador**
+Olá! Hoje vamos falar sobre **Projetos utilizando Microcontrolador**
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/202401/se4.jpg?raw=true)
 
