@@ -13,7 +13,7 @@ Olá! Hoje vamos falar sobre **Conceitos da Segurança da Informação**
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/202303/si.jpg?raw=true)
 
-No mundo moderno, onde a informação flui rapidamente através das redes digitais, a segurança da informação tornou-se uma preocupação essencial. Com o crescimento exponencial de dados compartilhados online, é crucial entender os conceitos fundamentais que cercam a proteção de informações sensíveis. Neste artigo, exploraremos os pilares da segurança da informação que servirão como base sólida para seus alunos entenderem e aplicarem medidas de proteção no cenário digital atual.
+No mundo moderno, onde a informação flui rapidamente através das redes digitais, a segurança da informação tornou-se uma preocupação essencial. Com o crescimento exponencial de dados compartilhados online, é crucial entender os conceitos fundamentais que cercam a proteção de informações sensíveis. Neste artigo, exploraremos os pilares da segurança da informação que servirão como base sólida para entendermos e aplicarmos medidas de proteção no cenário digital atual.
 
 ### Confidencialidade
 A confidencialidade é um dos pilares mais importantes da segurança da informação. Refere-se à proteção dos dados contra acesso não autorizado. Para garantir a confidencialidade, é essencial adotar práticas como a implementação de autenticação e controle de acesso. Autenticação envolve verificar a identidade do usuário, enquanto o controle de acesso limita quais usuários têm permissão para acessar quais informações.
