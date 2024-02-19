@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 27001, 27002 e 27003: Segurança da Informação na Era da Internet"
+title: "ISOs 27001, 27002 e 27003"
 date: 2023-03-01 00:17:00 -0300
 categories: seguranca-informacao
 author: Escrito por Prof. Mario Herrera
