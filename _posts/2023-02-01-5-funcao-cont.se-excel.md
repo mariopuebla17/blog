@@ -48,8 +48,7 @@ Neste exemplo, o intervalo B1:B10 define o intervalo de células que contém os 
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel15.jpg?raw=true)  
 
-**Conclusão**  
-A função CONT.SE é uma ferramenta valiosa para contar células que atendem a determinadas condições em uma planilha do Excel. Ela pode ser usada para diversas finalidades, desde contar ocorrências de palavras específicas até contar valores que excedem um limite. Esperamos que os exemplos práticos fornecidos neste artigo tenham ajudado você a entender melhor como utilizar a função CONT.SE em suas análises de dados. Experimente-a em suas planilhas e aproveite todos os benefícios que ela pode oferecer.  
+**Conclusão**: A função CONT.SE é uma ferramenta valiosa para contar células que atendem a determinadas condições em uma planilha do Excel. Ela pode ser usada para diversas finalidades, desde contar ocorrências de palavras específicas até contar valores que excedem um limite. Esperamos que os exemplos práticos fornecidos neste artigo tenham ajudado você a entender melhor como utilizar a função CONT.SE em suas análises de dados. Experimente-a em suas planilhas e aproveite todos os benefícios que ela pode oferecer.  
 
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé!

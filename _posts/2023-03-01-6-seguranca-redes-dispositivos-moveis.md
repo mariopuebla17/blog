@@ -15,7 +15,7 @@ Olá! Hoje vamos falar sobre **Segurança em Redes de Computadores e Dispositivo
 
 A era digital trouxe consigo inúmeras oportunidades e conveniências, mas também desafios significativos, especialmente quando se trata de garantir a segurança da informação na internet. Com o crescimento exponencial das redes de computadores e dispositivos móveis, a necessidade de proteger dados sensíveis nunca foi tão crucial. Neste artigo, exploraremos os principais aspectos da segurança em redes de computadores e dispositivos móveis, oferecendo um guia abrangente para proteger informações valiosas na era digital.
 
-### I. A Importância da Segurança da Informação
+### A Importância da Segurança da Informação
 
 Antes de mergulharmos nas práticas de segurança em redes e dispositivos móveis, é fundamental compreender por que a segurança da informação é tão crucial nos dias de hoje:
 
@@ -27,7 +27,7 @@ Antes de mergulharmos nas práticas de segurança em redes e dispositivos móvei
 
 4\. **Conformidade Legal**: Muitas leis e regulamentos, como o GDPR na Europa e a LGPD no Brasil, exigem que empresas protejam os dados de seus clientes. O não cumprimento dessas regulamentações pode resultar em multas significativas.
 
-### II. Práticas de Segurança em Redes de Computadores e Dispositivos Móveis
+### Práticas de Segurança em Redes de Computadores e Dispositivos Móveis
 
 Agora que compreendemos a importância da segurança da informação, vamos explorar algumas práticas essenciais para garantir a proteção de redes e dispositivos móveis:
 
@@ -43,7 +43,7 @@ Agora que compreendemos a importância da segurança da informação, vamos expl
 
 6\. **Backups Regulares**: Faça backups regulares de dados importantes e teste sua capacidade de recuperação. Isso pode ser vital em caso de ataques de ransomware ou falhas de hardware.
 
-### III. Segurança em Dispositivos Móveis
+### Segurança em Dispositivos Móveis
 
 Os dispositivos móveis são frequentemente usados para acessar informações sensíveis. Aqui estão algumas práticas específicas para garantir a segurança em dispositivos móveis:
 
