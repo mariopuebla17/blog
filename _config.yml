@@ -34,7 +34,7 @@ plugins:
   - jekyll-seo-tag
 minima:
   date_format: "%d/%m/%Y"
-
+social_links:
   - { platform: youtube, user_url: "https://www.youtube.com/@ProfMarioJunior" }
 
 # Exclude from processing.
