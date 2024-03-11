@@ -20,8 +20,7 @@
 
 title: Blog do Prof. Mario
 email: mario.herrera@etec.sp.gov.br
-description2: >- # this means to ignore newlines until "baseurl:"
-  Blog criado para alunos da ETEC consultem conteúdos das aulas
+# description2: >- # this means to ignore newlines until "baseurl:" Blog criado para alunos da ETEC consultem conteúdos das aulas
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://mariopuebla17.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: mariopuebla
