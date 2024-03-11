@@ -19,9 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Blog do Prof. Mario
-author:
-  name: Prof. Mario Herrera
-  email: mario.herrera@etec.sp.gov.br
+author: Prof. Mario Herrera
+email: mario.herrera@etec.sp.gov.br
 description: >
  Blog criado para alunos da ETEC consultem conteúdos das aulas
 baseurl: "/blog" # the subpath of your site, e.g. /blog
