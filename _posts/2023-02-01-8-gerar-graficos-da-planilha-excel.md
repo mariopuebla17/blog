@@ -39,6 +39,4 @@ Se você tem dúvidas sobre como deve estruturar os seus dados e qual tipo de gr
 
 Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dúvida através do meu email, localizado no rodapé da página!
 
-mario.herrera@etec.sp.gov.br
-
 Valeu!
