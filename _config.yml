@@ -36,6 +36,7 @@ plugins:
   - jekyll-seo-tag
 minima:
   date_format: "%d/%m/%Y"
+  skin: classic
 
 # Exclude from processing.
 # The following items will not be processed, by default.
