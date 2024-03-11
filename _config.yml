@@ -26,14 +26,16 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://mariopuebla17.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: mariopuebla
 github_username:  mariopuebla17
-youtube_username: "@ProfMarioJunior"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 minima:
   date_format: "%d/%m/%Y"
+
+  - { platform: youtube, user_url: "https://www.youtube.com/@ProfMarioJunior" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
