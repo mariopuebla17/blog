@@ -22,12 +22,12 @@ title: Blog do Prof. Mario
 author: Prof. Mario Herrera
 email: mario.herrera@etec.sp.gov.br
 description: >
- Blog criado para alunos da ETEC consultem conteúdos das aulas
+  Blog criado para alunos da ETEC consultem conteúdos das aulas
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://mariopuebla17.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: mariopuebla
-github_username:  mariopuebla17
-youtube_username: "@ProfMarioJunior"
+# linkedin_username: mariopuebla
+# github_username:  mariopuebla17
+# youtube_username: "@ProfMarioJunior"
 
 # Build settings
 theme: minima
@@ -37,7 +37,10 @@ plugins:
 minima:
   date_format: "%d/%m/%Y"
   skin: classic
-
+  social_links:
+    - { platform: github, user_url: "https://github.com/jekyll/minima" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/jekyll" }
+    - { platform: youtube, user_url: "https://www.youtube.com/jekyll" }
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
