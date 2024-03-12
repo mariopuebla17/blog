@@ -32,7 +32,7 @@ A sintaxe básica da função **SOMASE** é a seguinte:
 Vamos supor que você tenha uma lista de vendas mensais e deseja somar apenas as vendas que excedem R$1.000. A fórmula seria:
 
 ```
-=SOMASE(B1:B10;">=1000")
+=SOMASE(B1:B10;">1000")
 ```
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel12.jpg?raw=true)  
