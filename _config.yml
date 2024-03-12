@@ -33,7 +33,6 @@ url: "https://mariopuebla17.github.io" # the base hostname & protocol for your s
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 minima:
   date_format: "%d/%m/%Y"
   skin: classic
