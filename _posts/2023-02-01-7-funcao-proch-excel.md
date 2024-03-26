@@ -33,7 +33,7 @@ A sintaxe básica da função **PROCH** é a seguinte:
 1\. Suponha que você tenha uma tabela de funcionários com seus respectivos salários e precise recuperar o salário de um funcionário específico com base em seu nome. Utilize a função **PROCH** da seguinte maneira:
 
 ```
-=PROCH("João";A1:D2;2;VERDADEIRO)
+=PROCH("João";A1:C2;2;VERDADEIRO)
 ```
 
 Neste exemplo, a função **PROCH** buscará na coluna A o nome "João" e retornará o valor correspondente da coluna B, que é o salário de João.

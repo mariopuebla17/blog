@@ -33,7 +33,7 @@ A sintaxe básica da função **PROCV** é a seguinte:
 1\. Suponha que você tenha uma lista de produtos em uma tabela e queira encontrar o preço correspondente a um determinado produto. Utilizando a função **PROCV**, você pode fazer o seguinte:
 
 ```
-=PROCV("A";A1:B10;2;0)
+=PROCV("A";A2:B4;2;VERDADEIRO)
 ```
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel16.jpg?raw=true)  
@@ -43,7 +43,7 @@ Neste exemplo, "Produto A" é o valor procurado, A1:B10 é o intervalo em que a 
 2\. Suponha que você tenha uma tabela de funcionários com seus respectivos salários e queira encontrar o salário de um funcionário específico, cujo nome está em outra célula. Você pode usar a função **PROCV** da seguinte forma:
 
 ```
-=PROCV(A2;A1:B10;2;0)
+=PROCV(D2;A2:B5;2;VERDADEIRO)
 ```
 
 ![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel17.jpg?raw=true)  
