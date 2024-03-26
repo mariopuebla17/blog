@@ -46,9 +46,9 @@ Neste exemplo, a função **PROCH** buscará na coluna A o nome "João" e retorn
 =PROCH(D1;A1:B2;2;VERDADEIRO)
 ```
 
-Neste caso, a função **PROCH** pesquisará o valor da célula D1 na coluna A e retornará o valor correspondente da coluna B. Como o último argumento é VERDADEIRO, a pesquisa será aproximada, buscando o valor mais próximo do código do produto.
+![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel19.jpg?raw=true)
 
-![](https://github.com/mariopuebla17/blog/blob/main/_images/202302/excel19.jpg?raw=true)  
+Neste caso, a função **PROCH** pesquisará o valor da célula D1 na coluna A e retornará o valor correspondente da coluna B. Como o último argumento é VERDADEIRO, a pesquisa será aproximada, buscando o valor mais próximo do código do produto.
 
 Esses são apenas dois exemplos básicos de uso da função **PROCH** no Excel. Ela pode ser combinada com outras funções e recursos do Excel para realizar análises mais avançadas e complexas. Experimente explorar suas possibilidades e aprimorar suas habilidades com essa função poderosa!
 

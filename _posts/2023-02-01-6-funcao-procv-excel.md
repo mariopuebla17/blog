@@ -20,7 +20,7 @@ A função **PROCV** (procura vertical) é uma função de pesquisa e referênci
 A sintaxe básica da função **PROCV** é a seguinte:
 
 ```
-PROCV(valor_procurado;tabela_procurada;coluna_retorno;[procurar_intervalo])
+=PROCV(valor_procurado;tabela_procurada;coluna_retorno;[procurar_intervalo])
 ```
 
 **valor_procurado:** é o valor que você deseja procurar na tabela  
