@@ -19,15 +19,6 @@ Agradeço sua leitura até aqui, e estou à disposição para tirar qualquer dú
 Valeu!
 
 
-
-
-
-
-
-
-
-
-
 --------------------------
 
 ORDEM POSTAGENS (mesmo dia, minutos de acordo com a aula)
